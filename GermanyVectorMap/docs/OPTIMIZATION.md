@@ -192,8 +192,17 @@ Where the bytes sit, for Germany:
 | `path` | 9.7% | 7,164,624 |
 | `road_residential` | 7.9% | 3,289,580 |
 
-z14 alone holds 1.6 GB of the 1.63 GB. Everything from z0 to z11 together is
-60 MB — the entire country overview costs less than a photo.
+**z14 alone holds 78% of the data**, z12+z13 another 19%, and everything from
+z0 to z11 together is 2.9% (60 MB) — the entire country overview costs less than
+a photo.
+
+Of that z14 bulk, 59% is the three layers that exist *only* there — `building`,
+`path`, `road_service` — and the remaining 41% is the finest detail level of the
+other 29 layers.
+
+> Per-layer and per-zoom byte figures are **uncompressed** layer sizes, which is
+> what Planetiler's layerstats reports. They sum to 2.04 GB, against a 1.63 GB
+> gzipped archive. Use them for proportions, not to add up to the file size.
 
 **To halve it**, the measured distribution says exactly where to push:
 `grass: {enabled: false}` (−16.8%) plus `building: {min_zoom: 15}` (−33.7% at

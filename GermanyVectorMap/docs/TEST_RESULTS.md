@@ -31,7 +31,10 @@ most of its member ways. It appears in the Germany build.
 
 ### Bytes per zoom
 
-| zoom | tiles | bytes |
+Uncompressed layer bytes (Planetiler's layerstats), so these sum to 2.04 GB
+rather than to the 1.63 GB gzipped archive — read them as proportions.
+
+| zoom | tiles | bytes | share |
 |------|-------|-------|
 | z3 | 1 | 85 B |
 | z4 | 1 | 269 B |
@@ -133,26 +136,35 @@ layers              : 32 of 32   ← `land` is present, as expected
 
 ### Bytes per zoom
 
-| zoom | tiles | bytes |
+Uncompressed layer bytes (Planetiler's layerstats), so these sum to 2.04 GB
+rather than to the 1.63 GB gzipped archive — read them as proportions.
+
+| zoom | tiles | bytes | share |
 |------|-------|-------|
 | z0 | 1 | **61 B** |
-| z1 | 1 | 79 B |
-| z2 | 1 | 179 B |
-| z3 | 1 | 681 B |
-| z4 | 1 | 4.1 KB |
-| z5 | 4 | 32.8 KB |
-| z6 | 6 | 80.8 KB |
-| z7 | 18 | 399.2 KB |
-| z8 | 58 | 1.4 MB |
-| z9 | 216 | 5.3 MB |
-| z10 | 767 | 12.6 MB |
-| z11 | 2,887 | 40.6 MB |
-| z12 | 11,157 | 135.1 MB |
-| z13 | 43,686 | 266.7 MB |
-| **z14** | **172,635** | **1.6 GB** |
+| z1 | 1 | 79 B | 0.0% |
+| z2 | 1 | 179 B | 0.0% |
+| z3 | 1 | 681 B | 0.0% |
+| z4 | 1 | 4.1 KB | 0.0% |
+| z5 | 4 | 32.8 KB | 0.0% |
+| z6 | 6 | 80.8 KB | 0.0% |
+| z7 | 18 | 399.2 KB | 0.0% |
+| z8 | 58 | 1.4 MB | 0.1% |
+| z9 | 216 | 5.3 MB | 0.3% |
+| z10 | 767 | 12.6 MB | 0.6% |
+| z11 | 2,887 | 40.6 MB | 1.9% |
+| z12 | 11,157 | 135.1 MB | 6.5% |
+| z13 | 43,686 | 266.7 MB | 12.8% |
+| **z14** | **172,635** | **1.59 GB** | **77.9%** |
 
-All of Germany at z0 is **61 bytes**. z0–z11 together is 60 MB. The zoom-level
-optimization does exactly what it was built to do.
+All of Germany at z0 is **61 bytes**. z0–z11 together is 60 MB — 2.9% of the
+data carries every view from the whole country down to a small town.
+
+What makes z14 dominate is two things multiplying: it has 172,635 tiles against
+z13's 43,686 (~4x), *and* three layers appear there for the first time —
+`building` (706 MB), `path` (204 MB) and `road_service` (48 MB). Those three are
+958 MB, 59% of everything at z14; the other 41% is the finest detail level of
+the remaining 29 layers.
 
 ### Largest layers
 
