@@ -1,0 +1,180 @@
+{
+  "archive": "/home/runner/work/GermanyMap/GermanyMap/GermanyVectorMap/output/germany_game_map.mbtiles",
+  "archive_bytes": 1029931008,
+  "source_pbf": "/home/runner/work/GermanyMap/GermanyMap/GermanyVectorMap/input/germany-latest.osm.pbf",
+  "source_pbf_bytes": 4821260858,
+  "reduction_percent": 78.64,
+  "tiles": 223074,
+  "min_zoom": 0,
+  "max_zoom": 14,
+  "tiles_per_zoom": {
+    "4": 1,
+    "5": 4,
+    "6": 6,
+    "7": 17,
+    "8": 55,
+    "9": 213,
+    "10": 752,
+    "11": 2813,
+    "12": 10804,
+    "13": 42187,
+    "14": 166222
+  },
+  "bytes_per_zoom": {
+    "4": 597,
+    "5": 21679,
+    "6": 55012,
+    "7": 356484,
+    "8": 1270976,
+    "9": 5086036,
+    "10": 12192373,
+    "11": 40519418,
+    "12": 132619976,
+    "13": 251167000,
+    "14": 651029831
+  },
+  "layers": {
+    "grass": {
+      "bytes": 368426852,
+      "share_percent": 33.67,
+      "features": 4337341,
+      "attr_bytes": 5751692,
+      "min_zoom": 11,
+      "max_zoom": 14
+    },
+    "forest": {
+      "bytes": 220939337,
+      "share_percent": 20.19,
+      "features": 1450046,
+      "attr_bytes": 4472372,
+      "min_zoom": 7,
+      "max_zoom": 14
+    },
+    "road_residential": {
+      "bytes": 172566257,
+      "share_percent": 15.77,
+      "features": 3289580,
+      "attr_bytes": 28327036,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "waterway": {
+      "bytes": 83189920,
+      "share_percent": 7.6,
+      "features": 1422726,
+      "attr_bytes": 10073884,
+      "min_zoom": 5,
+      "max_zoom": 14
+    },
+    "water": {
+      "bytes": 53576903,
+      "share_percent": 4.9,
+      "features": 712290,
+      "attr_bytes": 5026250,
+      "min_zoom": 4,
+      "max_zoom": 14
+    },
+    "park": {
+      "bytes": 45558099,
+      "share_percent": 4.16,
+      "features": 339643,
+      "attr_bytes": 11041040,
+      "min_zoom": 9,
+      "max_zoom": 14
+    },
+    "road_tertiary": {
+      "bytes": 39586078,
+      "share_percent": 3.62,
+      "features": 767725,
+      "attr_bytes": 6513576,
+      "min_zoom": 10,
+      "max_zoom": 14
+    },
+    "road_secondary": {
+      "bytes": 36859191,
+      "share_percent": 3.37,
+      "features": 769512,
+      "attr_bytes": 5414972,
+      "min_zoom": 9,
+      "max_zoom": 14
+    },
+    "garden": {
+      "bytes": 30197916,
+      "share_percent": 2.76,
+      "features": 726178,
+      "attr_bytes": 2201503,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "road_primary": {
+      "bytes": 16480509,
+      "share_percent": 1.51,
+      "features": 383475,
+      "attr_bytes": 2332981,
+      "min_zoom": 7,
+      "max_zoom": 14
+    },
+    "rail": {
+      "bytes": 13971002,
+      "share_percent": 1.28,
+      "features": 260512,
+      "attr_bytes": 1722734,
+      "min_zoom": 8,
+      "max_zoom": 14
+    },
+    "road_motorway": {
+      "bytes": 9070654,
+      "share_percent": 0.83,
+      "features": 178666,
+      "attr_bytes": 808001,
+      "min_zoom": 4,
+      "max_zoom": 14
+    },
+    "road_trunk": {
+      "bytes": 3896664,
+      "share_percent": 0.36,
+      "features": 85114,
+      "attr_bytes": 401921,
+      "min_zoom": 6,
+      "max_zoom": 14
+    }
+  },
+  "suggestions": [
+    "`grass` uses 33.7% of all layer bytes -> raise `grass.min_pixel_size` (3.0 -> 6.0)",
+    "`grass` uses 33.7% of all layer bytes -> set `grass.enabled: false` — meadows are the most optional nature layer",
+    "`forest` uses 20.2% of all layer bytes -> raise `forest.min_pixel_size` (3.0 -> 5.0)",
+    "`forest` uses 20.2% of all layer bytes -> raise `forest.merge_min_area` (2.0 -> 4.0)",
+    "`road_residential` uses 15.8% of all layer bytes -> raise `layers.road_residential.min_zoom` (12 -> 13)",
+    "`road_residential` uses 15.8% of all layer bytes -> raise `road_residential.name_min_zoom` (14 -> 15) to drop street name labels",
+    "`waterway` uses 7.6% of all layer bytes -> set `waterway.include_stream: false` to drop the smallest brooks",
+    "`waterway` uses 7.6% of all layer bytes -> raise `features.waterway.stream` (12 -> 13) in config/zoom_levels.yml",
+    "`water` uses 4.9% of all layer bytes -> raise `water.min_pixel_size` (2.0 -> 3.0)",
+    "`park` uses 4.2% of all layer bytes -> raise its `min_zoom` or `min_pixel_size`",
+    "zoom 14 alone holds 59% of the data -> lowering `tileset.max_zoom` by 1 roughly divides the archive by ~3 (renderers keep drawing deeper zooms by overzooming)",
+    "the 6 road layers together use 25.4% -> set `road_layer_mode: single` in config/layers.yml to store them in one layer with a `class` attribute (fewer key/value tables per tile)",
+    "global lever: raise `simplification.tolerance` in config/zoom_levels.yml (0.375 -> 0.5) — fewer points on every line and outline at every zoom"
+  ],
+  "metadata": {
+    "name": "Germany Vector Map",
+    "description": "Slim, multi-zoom vector basemap of Germany built from OpenStreetMap data. Geometry only — colors are applied by the style, not baked into the data.",
+    "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+    "version": "1.0",
+    "type": "baselayer",
+    "format": "pbf",
+    "bounds": "5.86442,47.26543,15.05078,55.14777",
+    "center": "10.4576,51.2066,5",
+    "minzoom": "0",
+    "maxzoom": "14",
+    "license": "Open Database License (ODbL) 1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "planetiler:buildtime": "2026-03-28T14:35:36.815Z",
+    "planetiler:githash": "0e5588c4a6e8c29a270a33afe8df62027d889604",
+    "planetiler:osm:osmosisreplicationseq": "4881",
+    "planetiler:osm:osmosisreplicationtime": "2026-08-18T20:20:57Z",
+    "planetiler:osm:osmosisreplicationurl": "https://download.geofabrik.de/europe/germany-updates",
+    "planetiler:version": "0.10.2",
+    "producer": "GermanyVectorMap (Planetiler)",
+    "source": "OpenStreetMap contributors",
+    "compression": "gzip"
+  }
+}
