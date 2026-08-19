@@ -66,8 +66,6 @@
       <text x="252.58" y="1878.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Burg Schallmauer</text>
       <circle cx="264.89" cy="1733.07" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="269.89" y="1736.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Bitz</text>
-      <circle cx="877.64" cy="18.51" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="882.64" y="22.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schloss Laach</text>
       <circle cx="1931.83" cy="812.32" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="1936.83" y="815.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Blegge</text>
     </g>

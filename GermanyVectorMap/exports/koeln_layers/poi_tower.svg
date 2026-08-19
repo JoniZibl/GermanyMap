@@ -4,8 +4,6 @@
   <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
   <g id="poi_tower">
     <g id="poi_tower__bell_tower">
-      <circle cx="36.14" cy="78.14" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="232.08" cy="177.7" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="356.77" cy="1077.82" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="656.27" cy="442.45" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="705.33" cy="1102.07" r="3" fill="#8A6F4B" stroke="none"/>
@@ -23,7 +21,6 @@
       <circle cx="994.45" cy="1641.7" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="780.14" cy="1919.76" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="858.52" cy="2358.2" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="1058.33" cy="10.39" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="1238.02" cy="319.57" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="1243.02" y="323.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Petruskirche</text>
       <circle cx="1236.58" cy="268.2" r="3" fill="#8A6F4B" stroke="none"/>
@@ -113,8 +110,6 @@
       <text x="1641.2" y="838.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Förster-Schreibweis-Kanzel</text>
     </g>
     <g id="poi_tower__watchtower">
-      <circle cx="701.39" cy="144.95" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="706.39" y="148.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mäuseturm</text>
       <circle cx="1033.7" cy="1330.64" r="3" fill="#8A6F4B" stroke="none"/>
     </g>
   </g>

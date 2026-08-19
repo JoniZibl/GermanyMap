@@ -12,10 +12,6 @@
       <text x="1059.27" y="1244.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buddhismus Zentrum Köln der Karma Kagyü Linie</text>
     </g>
     <g id="poi_church__chapel">
-      <circle cx="36.14" cy="78.14" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="200.83" cy="147.51" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="195.77" cy="156.76" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="200.77" y="160.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lourdeskapelle</text>
       <circle cx="146.14" cy="793.01" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="151.14" y="796.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Barbara-Kapelle</text>
       <circle cx="108.27" cy="713.14" r="3" fill="#8A6F4B" stroke="none"/>
@@ -61,12 +57,6 @@
       <text x="2238.89" y="1651.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle Friedhof Kleineichen</text>
     </g>
     <g id="poi_church__christian">
-      <circle cx="3.83" cy="38.01" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="8.83" y="41.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienkapelle</text>
-      <circle cx="66.52" cy="59.07" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="71.52" y="62.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Matthäuskirche</text>
-      <circle cx="38.2" cy="75.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="43.2" y="79.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
       <circle cx="7.64" cy="405.95" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="12.64" y="409.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Bruno</text>
       <circle cx="155.27" cy="786.2" r="3" fill="#8A6F4B" stroke="none"/>
@@ -109,8 +99,6 @@
       <text x="9.2" y="2201.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
       <circle cx="91.64" cy="2258.07" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="96.64" y="2261.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Martinus</text>
-      <circle cx="233.02" cy="176.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="238.02" y="180.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina</text>
       <circle cx="234.08" cy="355.89" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="239.08" y="359.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andachtsplatz</text>
       <circle cx="454.77" cy="355.14" r="3" fill="#8A6F4B" stroke="none"/>
@@ -421,8 +409,6 @@
       <text x="865.02" y="2361.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephan-Kirche</text>
       <circle cx="990.33" cy="2315.32" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="995.33" y="2318.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Maximilian-Kolbe-Kapelle</text>
-      <circle cx="1056.02" cy="9.26" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1061.02" y="12.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St.-Gerhard-Kirche</text>
       <circle cx="1017.39" cy="348.45" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="1022.39" y="351.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Aldegundis</text>
       <circle cx="1065.2" cy="216.07" r="3" fill="#8A6F4B" stroke="none"/>
@@ -1008,7 +994,6 @@
       <text x="105.52" y="1159.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
       <circle cx="158.02" cy="1648.39" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="157.52" cy="1645.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="307.45" cy="227.7" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="237.95" cy="1764.64" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="239.02" cy="1765.39" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="240.08" cy="1766.2" r="3" fill="#8A6F4B" stroke="none"/>
@@ -1095,8 +1080,6 @@
       <text x="189.83" y="1623.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Türkisch-Islamische Gemeinde zu Frechen e.V.</text>
       <circle cx="271.89" cy="749.2" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="276.89" y="752.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haci Bayram Moschee</text>
-      <circle cx="733.64" cy="2.01" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="738.64" y="5.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Osman-Gazi-Moschee</text>
       <circle cx="670.7" cy="533.51" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="675.7" y="537.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neue Chorweiler Moschee</text>
       <circle cx="713.89" cy="1032.01" r="3" fill="#8A6F4B" stroke="none"/>

@@ -20,10 +20,6 @@
       <text x="306.2" y="1678.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hemmerich</text>
       <circle cx="467.45" cy="1893.39" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="472.45" y="1896.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Burbach</text>
-      <circle cx="663.7" cy="73.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="668.7" y="77.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zaunswinkel</text>
-      <circle cx="686.45" cy="137.32" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="691.45" y="140.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Blee</text>
       <circle cx="598.39" cy="1099.39" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="603.39" y="1102.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vogelsang-Nord</text>
       <circle cx="590.27" cy="1137.45" r="3" fill="#8A6F4B" stroke="none"/>
@@ -70,12 +66,6 @@
       <text x="778.14" y="2316.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brühl-Nord</text>
       <circle cx="861.7" cy="2328.76" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="866.7" y="2332.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brühl-Ost</text>
-      <circle cx="1059.08" cy="12.76" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1064.08" y="16.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gieslenberg</text>
-      <circle cx="1078.7" cy="93.26" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1083.7" y="96.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mehlbruch</text>
-      <circle cx="1128.7" cy="25.07" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1133.7" y="28.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hausingen</text>
       <circle cx="1005.7" cy="1120.95" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="1010.7" y="1124.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stellwerk 60</text>
       <circle cx="1008.33" cy="1162.01" r="3" fill="#8A6F4B" stroke="none"/>
@@ -172,8 +162,6 @@
       <text x="144.58" y="1464.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buschbell</text>
       <circle cx="194.14" cy="1494.76" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="199.14" y="1498.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hücheln</text>
-      <circle cx="237.83" cy="191.7" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="242.83" y="195.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hackenbroich</text>
       <circle cx="339.83" cy="374.07" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="344.83" y="377.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Roggendorf/Thenhoven</text>
       <circle cx="473.52" cy="722.2" r="3" fill="#8A6F4B" stroke="none"/>

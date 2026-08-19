@@ -4,8 +4,6 @@
   <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
   <g id="poi_monument">
     <g id="poi_monument__memorial">
-      <circle cx="36.14" cy="81.2" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="166.89" cy="51.26" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="146.02" cy="791.26" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="151.02" y="794.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Geisterrad für Henry</text>
       <circle cx="135.89" cy="771.95" r="3" fill="#8A6F4B" stroke="none"/>
@@ -56,7 +54,6 @@
       <circle cx="475.33" cy="1792.76" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="267.95" cy="1992.64" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="479.58" cy="2121.07" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="665.33" cy="54.57" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="565.89" cy="198.95" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="570.89" y="202.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heiliger Nepomuk</text>
       <circle cx="687.89" cy="632.82" r="3" fill="#8A6F4B" stroke="none"/>
@@ -144,10 +141,6 @@
       <text x="667.89" y="2082.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Arthur Levy</text>
       <circle cx="730.14" cy="2075.82" r="3" fill="#8A6F4B" stroke="none"/>
       <circle cx="675.27" cy="2292.26" r="3" fill="#8A6F4B" stroke="none"/>
-      <circle cx="861.52" cy="24.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="866.52" y="28.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bolesław Krzyśkowiak</text>
-      <circle cx="861.52" cy="24.82" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="866.52" y="28.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Czesław Pitucha</text>
       <circle cx="761.77" cy="178.01" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="766.77" y="181.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">PERSIL Dampfspeicherlok</text>
       <circle cx="823.64" cy="221.82" r="3" fill="#8A6F4B" stroke="none"/>

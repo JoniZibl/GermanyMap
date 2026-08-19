@@ -4,18 +4,12 @@
   <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
   <g id="place_village">
     <g id="place_village__hamlet">
-      <circle cx="7.95" cy="112.7" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="12.95" y="116.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Blechhof</text>
       <circle cx="153.77" cy="1220.89" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="158.77" y="1224.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freimersdorf</text>
       <circle cx="323.7" cy="715.01" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="328.7" y="718.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Orr</text>
       <circle cx="919.89" cy="1930.07" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="924.89" y="1933.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Konraderhof</text>
-      <circle cx="1002.45" cy="58.95" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1007.45" y="62.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neurath</text>
-      <circle cx="1174.64" cy="47.39" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="1179.64" y="50.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schnepprath</text>
       <circle cx="1003.89" cy="427.89" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="1008.89" y="431.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kasselberg</text>
       <circle cx="1124.83" cy="2038.01" r="3" fill="#8A6F4B" stroke="none"/>
@@ -172,8 +166,6 @@
       <text x="2259.7" y="1006.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Knoppenbissen</text>
     </g>
     <g id="place_village__village">
-      <circle cx="53.39" cy="60.14" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="58.39" y="63.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Delhoven</text>
       <circle cx="11.02" cy="407.57" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="16.02" y="411.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stommelerbusch</text>
       <circle cx="37.58" cy="1036.51" r="3" fill="#8A6F4B" stroke="none"/>
@@ -190,8 +182,6 @@
       <text x="100.64" y="2264.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kierdorf</text>
       <circle cx="457.02" cy="371.64" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="462.02" y="375.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Thenhoven</text>
-      <circle cx="262.45" cy="260.57" r="3" fill="#8A6F4B" stroke="none"/>
-      <text x="267.45" y="264.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hackhausen</text>
       <circle cx="428.64" cy="356.01" r="3" fill="#8A6F4B" stroke="none"/>
       <text x="433.64" y="359.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Roggendorf</text>
       <circle cx="272.95" cy="569.89" r="3" fill="#8A6F4B" stroke="none"/>
