@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — transport</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="transport">
+    <g id="transport__airport">
+      <circle cx="1371.83" cy="663.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1376.83" y="667.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Flugplatz Kurtekotten</text>
+      <circle cx="2134.77" cy="2009.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2139.77" y="2013.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Flughafen Köln/Bonn</text>
+      <circle cx="2024.64" cy="2047.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2029.64" y="2051.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Flughafen Köln/Bonn Militärischer Teil</text>
+    </g>
+    <g id="transport__halt">
+      <circle cx="31.27" cy="1375.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="36.27" y="1379.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Frechen-Königsdorf</text>
+      <circle cx="381.95" cy="72.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="386.95" y="75.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dormagen Chempark</text>
+      <circle cx="384.02" cy="78.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="389.02" y="81.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dormagen Chempark</text>
+      <circle cx="360.77" cy="1315.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="365.77" y="1319.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lövenich</text>
+      <circle cx="248.14" cy="1334.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="253.14" y="1338.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Weiden West</text>
+      <circle cx="637.77" cy="441.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="642.77" y="444.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Blumenberg</text>
+      <circle cx="731.27" cy="591.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="736.27" y="595.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Chorweiler</text>
+      <circle cx="703.2" cy="657.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="708.2" y="660.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Volkhovener Weg</text>
+      <circle cx="675.33" cy="1264.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="680.33" y="1268.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Müngersdorf/Technologiepark</text>
+      <circle cx="676.08" cy="2280.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="681.08" y="2284.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brühl-Kierberg</text>
+      <circle cx="782.33" cy="676.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="787.33" y="680.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heimersdorf</text>
+      <circle cx="983.64" cy="1079.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="988.64" y="1082.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Geldernstraße/Parkgürtel</text>
+      <circle cx="1112.27" cy="192.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1117.27" y="195.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen-Rheindorf</text>
+      <circle cx="1212.39" cy="1243.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1217.39" y="1246.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Thermalbad</text>
+      <circle cx="1204.2" cy="1234.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1209.2" y="1237.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rosengarten</text>
+      <circle cx="1182.33" cy="1331.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1187.33" y="1334.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Messe/Deutz</text>
+      <circle cx="1254.89" cy="359.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1259.89" y="363.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen-Küppersteg</text>
+      <circle cx="1274.95" cy="493.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1279.95" y="497.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen Mitte</text>
+      <circle cx="1336.33" cy="879.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1341.33" y="883.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Stammheim</text>
+      <circle cx="1307.08" cy="1380.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1312.08" y="1384.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Trimbornstraße</text>
+      <circle cx="1350.33" cy="1217.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1355.33" y="1220.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Buchforst</text>
+      <circle cx="1564.77" cy="1007.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1569.77" y="1011.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Holweide</text>
+      <circle cx="1585.83" cy="1617.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1590.83" y="1621.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Airport-Businesspark</text>
+      <circle cx="1660.95" cy="1755.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1665.95" y="1759.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Steinstraße</text>
+      <circle cx="1700.95" cy="1866.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1705.95" y="1870.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Porz (Rhein)</text>
+      <circle cx="1928.52" cy="928.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1933.52" y="932.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Duckterath</text>
+      <circle cx="2253.77" cy="1724.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2258.77" y="1728.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rösrath-Stümpen</text>
+    </g>
+    <g id="transport__station">
+      <circle cx="143.64" cy="806.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="148.64" y="810.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pulheim</text>
+      <circle cx="463.58" cy="304.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="468.58" y="307.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Worringen</text>
+      <circle cx="701.14" cy="527.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="706.14" y="531.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Chorweiler Nord</text>
+      <circle cx="751.39" cy="803.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="756.39" y="807.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Longerich</text>
+      <circle cx="986.08" cy="1166.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="991.08" y="1170.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Nippes</text>
+      <circle cx="934.14" cy="1322.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="939.14" y="1326.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln West</text>
+      <circle cx="839.02" cy="1236.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="844.02" y="1239.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Ehrenfeld</text>
+      <circle cx="959.83" cy="1457.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="964.83" y="1460.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Süd</text>
+      <circle cx="801.95" cy="1929.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="806.95" y="1932.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hürth-Kalscheuren</text>
+      <circle cx="1172.83" cy="1326.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1177.83" y="1330.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Messe/Deutz (tief)</text>
+      <circle cx="1180.39" cy="1333.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1185.39" y="1336.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Messe/Deutz</text>
+      <circle cx="1165.45" cy="1275.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1170.45" y="1279.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Tanzbrunnen</text>
+      <circle cx="1086.83" cy="1316.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1091.83" y="1320.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Hauptbahnhof</text>
+      <circle cx="1049.39" cy="1258.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1054.39" y="1262.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Hansaring</text>
+      <circle cx="1376.83" cy="178.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1381.83" y="182.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Opladen</text>
+      <circle cx="1414.27" cy="498.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1419.27" y="501.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen-Manfort</text>
+      <circle cx="1276.83" cy="493.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1281.83" y="496.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen Mitte</text>
+      <circle cx="1305.39" cy="682.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1310.39" y="685.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen Chempark</text>
+      <circle cx="1404.08" cy="1174.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1409.08" y="1178.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Mülheim</text>
+      <circle cx="1734.45" cy="958.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1739.45" y="962.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln-Dellbrück</text>
+      <circle cx="1625.45" cy="1569.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1630.45" y="1573.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln Frankfurter Straße</text>
+      <circle cx="1786.83" cy="2098.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1791.83" y="2102.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Porz-Wahn</text>
+      <circle cx="2046.33" cy="872.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2051.33" y="875.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bergisch Gladbach</text>
+      <circle cx="2020.64" cy="1905.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2025.64" y="1908.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln/Bonn Flughafen</text>
+    </g>
+  </g>
+</svg>

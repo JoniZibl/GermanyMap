@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — place_suburb</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="place_suburb">
+    <g id="place_suburb__neighbourhood">
+      <circle cx="58.39" cy="1341.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="63.39" y="1345.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neu-Freimersdorf</text>
+      <circle cx="36.77" cy="1431.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="41.77" y="1434.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neubuschbell</text>
+      <circle cx="65.89" cy="2253.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="70.89" y="2256.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schildgen</text>
+      <circle cx="94.45" cy="2220.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="99.45" y="2224.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zieselsmaar</text>
+      <circle cx="79.08" cy="2298.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="84.08" y="2301.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Roggendorf</text>
+      <circle cx="315.14" cy="1380.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="320.14" y="1384.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Üsdorf</text>
+      <circle cx="301.2" cy="1675.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="306.2" y="1678.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hemmerich</text>
+      <circle cx="467.45" cy="1893.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="472.45" y="1896.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Burbach</text>
+      <circle cx="663.7" cy="73.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="668.7" y="77.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zaunswinkel</text>
+      <circle cx="686.45" cy="137.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="691.45" y="140.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Blee</text>
+      <circle cx="598.39" cy="1099.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="603.39" y="1102.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vogelsang-Nord</text>
+      <circle cx="590.27" cy="1137.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="595.27" y="1140.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neu-Vogelsang</text>
+      <circle cx="697.95" cy="950.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="702.95" y="953.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Am Butzweilerhof</text>
+      <circle cx="672.02" cy="1078.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="677.02" y="1082.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Westend</text>
+      <circle cx="638.02" cy="1195.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="643.02" y="1199.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt-Vogelsang</text>
+      <circle cx="734.14" cy="1550.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="739.14" y="1553.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Deckstein</text>
+      <circle cx="517.45" cy="1888.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="522.45" y="1891.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alstädten</text>
+      <circle cx="945.2" cy="92.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="950.2" y="96.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Voigtslach</text>
+      <circle cx="784.52" cy="810.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="789.52" y="813.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt-Longerich</text>
+      <circle cx="756.52" cy="834.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="761.52" y="838.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lützlongerich</text>
+      <circle cx="818.58" cy="717.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="823.58" y="721.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bergheimerhof</text>
+      <circle cx="842.14" cy="831.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="847.14" y="834.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neu-Longerich</text>
+      <circle cx="933.27" cy="840.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="938.27" y="843.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gartenstadt-Nord</text>
+      <circle cx="971.83" cy="1026.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="976.83" y="1030.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nibelungensiedlung</text>
+      <circle cx="946.02" cy="1356.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="951.02" y="1359.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Belgisches Viertel</text>
+      <circle cx="986.64" cy="1407.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="991.64" y="1410.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mauritiusviertel</text>
+      <circle cx="957.27" cy="1427.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="962.27" y="1430.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rathenauviertel</text>
+      <circle cx="994.77" cy="1360.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="999.77" y="1363.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Apostelviertel</text>
+      <circle cx="777.95" cy="1538.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="782.95" y="1542.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kriel</text>
+      <circle cx="970.33" cy="1445.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="975.33" y="1448.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Studentenviertel</text>
+      <circle cx="930.89" cy="1704.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="935.89" y="1707.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Indianersiedlung Zollstock</text>
+      <circle cx="773.14" cy="2313.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="778.14" y="2316.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brühl-Nord</text>
+      <circle cx="861.7" cy="2328.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="866.7" y="2332.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brühl-Ost</text>
+      <circle cx="1059.08" cy="12.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1064.08" y="16.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gieslenberg</text>
+      <circle cx="1078.7" cy="93.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1083.7" y="96.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mehlbruch</text>
+      <circle cx="1128.7" cy="25.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1133.7" y="28.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hausingen</text>
+      <circle cx="1005.7" cy="1120.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1010.7" y="1124.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stellwerk 60</text>
+      <circle cx="1008.33" cy="1162.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1013.33" y="1165.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sechzigviertel</text>
+      <circle cx="1075.64" cy="1219.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1080.64" y="1222.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Agnesviertel</text>
+      <circle cx="1051.95" cy="1281.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1056.95" y="1285.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ursulaviertel</text>
+      <circle cx="1061.2" cy="1310.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1066.2" y="1314.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andreasviertel</text>
+      <circle cx="1019.27" cy="1313.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1024.27" y="1316.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gereonsviertel</text>
+      <circle cx="1067.77" cy="1399.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1072.77" y="1402.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapitolviertel</text>
+      <circle cx="1084.39" cy="1419.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1089.39" y="1423.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Georgsviertel</text>
+      <circle cx="1033.02" cy="1403.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1038.02" y="1407.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Cäcilienviertel</text>
+      <circle cx="1037.7" cy="1360.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1042.7" y="1363.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neumarktviertel</text>
+      <circle cx="1102.77" cy="1275.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1107.77" y="1279.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kunibertsviertel</text>
+      <circle cx="1095.27" cy="1356.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1100.27" y="1360.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Martinsviertel</text>
+      <circle cx="1089.39" cy="1487.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1094.39" y="1490.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Severinsviertel</text>
+      <circle cx="1043.14" cy="1461.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1048.14" y="1465.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pantaleonsviertel</text>
+      <circle cx="1008.2" cy="1486.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1013.2" y="1490.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Volksgartenviertel</text>
+      <circle cx="1247.27" cy="1512.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1252.27" y="1516.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Milchmädchensiedlung</text>
+      <circle cx="1394.7" cy="433.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1399.7" y="436.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schleswig-Holstein-Siedlung</text>
+      <circle cx="1386.27" cy="932.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1391.27" y="936.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bruder-Klaus-Siedlung</text>
+      <circle cx="1278.77" cy="1251.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1283.77" y="1254.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stegerwaldsiedlung</text>
+      <circle cx="1267.7" cy="1435.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1272.7" y="1438.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kannebäcker Siedlung</text>
+      <circle cx="1276.7" cy="1551.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1281.7" y="1554.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rolshoven</text>
+      <circle cx="1762.58" cy="336.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1767.58" y="339.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mathildenhof</text>
+      <circle cx="1624.08" cy="575.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1629.08" y="578.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Waldsiedlung</text>
+      <circle cx="1733.89" cy="441.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1738.89" y="445.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leimbacher Berg</text>
+      <circle cx="1759.02" cy="736.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1764.02" y="739.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Klutstein</text>
+      <circle cx="1763.95" cy="387.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1768.95" y="390.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fettehenne</text>
+      <circle cx="1999.83" cy="189.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2004.83" y="193.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Straßerhof</text>
+      <circle cx="1796.95" cy="407.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1801.95" y="411.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Höfen</text>
+      <circle cx="1765.77" cy="588.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1770.77" y="591.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nittum</text>
+      <circle cx="1913.27" cy="599.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1918.27" y="602.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kalmünten</text>
+      <circle cx="1787.27" cy="708.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1792.27" y="712.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Katterbach</text>
+      <circle cx="1838.14" cy="731.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1843.14" y="734.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Torringen</text>
+      <circle cx="1788.02" cy="670.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1793.02" y="673.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kempen</text>
+      <circle cx="1950.33" cy="724.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1955.33" y="727.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nußbaum</text>
+      <circle cx="1818.08" cy="1024.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1823.08" y="1028.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Thurn</text>
+      <circle cx="1829.14" cy="958.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1834.14" y="961.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Thielenbruch</text>
+      <circle cx="1851.7" cy="1052.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1856.7" y="1056.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Strunden</text>
+      <circle cx="1906.89" cy="924.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1911.89" y="927.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Duckterath</text>
+      <circle cx="1897.14" cy="1016.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1902.14" y="1019.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gierath</text>
+      <circle cx="2023.39" cy="711.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2028.39" y="714.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mutzerfeld</text>
+    </g>
+    <g id="place_suburb__quarter">
+      <circle cx="1661.89" cy="120.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1666.89" y="123.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schöne Aussicht</text>
+      <circle cx="1836.2" cy="310.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1841.2" y="313.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuboddenberg</text>
+    </g>
+    <g id="place_suburb__suburb">
+      <circle cx="79.02" cy="1641.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="84.02" y="1645.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Grube Carl</text>
+      <circle cx="118.77" cy="1674.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="123.77" y="1678.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Benzelrath</text>
+      <circle cx="139.58" cy="1460.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="144.58" y="1464.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buschbell</text>
+      <circle cx="194.14" cy="1494.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="199.14" y="1498.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hücheln</text>
+      <circle cx="237.83" cy="191.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="242.83" y="195.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hackenbroich</text>
+      <circle cx="339.83" cy="374.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="344.83" y="377.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Roggendorf/Thenhoven</text>
+      <circle cx="473.52" cy="722.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="478.52" y="725.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Esch/Auweiler</text>
+      <circle cx="339.77" cy="1111.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="344.77" y="1114.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Widdersdorf</text>
+      <circle cx="339.58" cy="1359.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="344.58" y="1362.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Weiden</text>
+      <circle cx="481.58" cy="1418.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="486.58" y="1422.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Junkersdorf</text>
+      <circle cx="329.83" cy="1286.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="334.83" y="1289.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lövenich</text>
+      <circle cx="271.89" cy="1734.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="276.89" y="1738.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bachem</text>
+      <circle cx="734.77" cy="583.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="739.77" y="586.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Chorweiler</text>
+      <circle cx="613.27" cy="599.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="618.27" y="603.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Volkhoven/Weiler</text>
+      <circle cx="662.33" cy="445.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="667.33" y="449.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Blumenberg</text>
+      <circle cx="640.52" cy="568.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="645.52" y="571.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Weiler</text>
+      <circle cx="676.27" cy="621.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="681.27" y="625.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Volkhoven</text>
+      <circle cx="607.64" cy="802.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="612.64" y="805.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pesch</text>
+      <circle cx="690.7" cy="766.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="695.7" y="769.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lindweiler</text>
+      <circle cx="492.95" cy="661.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="497.95" y="664.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Esch</text>
+      <circle cx="510.52" cy="965.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="515.52" y="969.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mengenich</text>
+      <circle cx="543.2" cy="1031.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="548.2" y="1035.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bocklemünd</text>
+      <circle cx="737.95" cy="1374.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="742.95" y="1378.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Braunsfeld</text>
+      <circle cx="626.83" cy="1193.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="631.83" y="1197.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vogelsang</text>
+      <circle cx="622.64" cy="1338.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="627.64" y="1341.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Müngersdorf</text>
+      <circle cx="496.89" cy="1555.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="501.89" y="1558.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marsdorf</text>
+      <circle cx="584.27" cy="1473.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="589.27" y="1476.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stadtwaldviertel</text>
+      <circle cx="668.64" cy="1905.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="673.64" y="1908.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hermülheim</text>
+      <circle cx="724.45" cy="1744.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="729.45" y="1747.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Efferen</text>
+      <circle cx="491.83" cy="1870.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="496.83" y="1873.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alstädten-Burbach</text>
+      <circle cx="536.02" cy="2001.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="541.02" y="2005.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt-Hürth</text>
+      <circle cx="570.08" cy="2302.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="575.08" y="2306.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heide</text>
+      <circle cx="667.2" cy="2307.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="672.2" y="2311.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kierberg</text>
+      <circle cx="708.33" cy="2222.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="713.33" y="2226.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vochem</text>
+      <circle cx="849.27" cy="218.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="854.27" y="221.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hitdorf</text>
+      <circle cx="835.52" cy="639.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="840.52" y="643.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Seeberg</text>
+      <circle cx="769.08" cy="440.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="774.08" y="444.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fühlingen</text>
+      <circle cx="877.52" cy="468.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="882.52" y="471.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Feldkassel</text>
+      <circle cx="822.64" cy="812.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="827.64" y="815.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Longerich</text>
+      <circle cx="753.83" cy="707.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="758.83" y="711.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heimersdorf</text>
+      <circle cx="884.83" cy="1171.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="889.83" y="1174.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuehrenfeld</text>
+      <circle cx="749.45" cy="1158.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="754.45" y="1162.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bickendorf</text>
+      <circle cx="913.77" cy="1077.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="918.77" y="1081.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bilderstöckchen</text>
+      <circle cx="776.2" cy="1094.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="781.2" y="1097.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ossendorf</text>
+      <circle cx="858.64" cy="1260.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="863.64" y="1264.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ehrenfeld</text>
+      <circle cx="883.08" cy="1537.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="888.08" y="1540.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sülz</text>
+      <circle cx="826.64" cy="1435.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="831.64" y="1439.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lindenthal</text>
+      <circle cx="985.95" cy="1621.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="990.95" y="1624.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zollstock</text>
+      <circle cx="886.33" cy="1621.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="891.33" y="1625.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Klettenberg</text>
+      <circle cx="786.39" cy="1940.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="791.39" y="1943.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kalscheuren</text>
+      <circle cx="901.52" cy="2076.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="906.52" y="2079.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Meschenich</text>
+      <circle cx="1026.95" cy="298.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1031.95" y="302.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rheindorf</text>
+      <circle cx="1204.27" cy="318.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1209.27" y="322.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bürrig</text>
+      <circle cx="1194.95" cy="496.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1199.95" y="499.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wiesdorf</text>
+      <circle cx="1108.02" cy="881.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1113.02" y="885.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Niehl</text>
+      <circle cx="1191.83" cy="768.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1196.83" y="772.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Flittard</text>
+      <circle cx="1056.95" cy="1119.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1061.95" y="1123.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nippes</text>
+      <circle cx="1012.7" cy="944.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1017.7" y="948.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Weidenpesch</text>
+      <circle cx="1190.58" cy="1121.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1195.58" y="1124.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Riehl</text>
+      <circle cx="1014.95" cy="1037.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1019.95" y="1040.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mauenheim</text>
+      <circle cx="1168.27" cy="1372.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1173.27" y="1376.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Deutz</text>
+      <circle cx="1146.08" cy="1610.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1151.08" y="1613.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bayenthal</text>
+      <circle cx="1099.08" cy="1638.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1104.08" y="1641.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Raderberg</text>
+      <circle cx="1094.95" cy="1545.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1099.95" y="1549.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Südstadt</text>
+      <circle cx="1193.95" cy="1698.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1198.95" y="1701.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienburg</text>
+      <circle cx="1062.27" cy="1705.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1067.27" y="1709.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Raderthal</text>
+      <circle cx="1119.7" cy="1888.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1124.7" y="1891.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hochkirchen</text>
+      <circle cx="1062.39" cy="1960.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1067.39" y="1963.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rondorf</text>
+      <circle cx="1181.7" cy="2181.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1186.7" y="2185.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Godorf</text>
+      <circle cx="1202.52" cy="1953.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1207.52" y="1957.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hahnwald</text>
+      <circle cx="1020.89" cy="2354.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1025.89" y="2357.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Berzdorf</text>
+      <circle cx="1341.45" cy="167.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1346.45" y="171.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Opladen</text>
+      <circle cx="1291.83" cy="359.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1296.83" y="362.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Küppersteg</text>
+      <circle cx="1419.7" cy="295.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1424.7" y="298.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fixheide</text>
+      <circle cx="1491.89" cy="217.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1496.89" y="220.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Quettingen</text>
+      <circle cx="1500.2" cy="390.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1505.2" y="393.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alkenrath</text>
+      <circle cx="1432.02" cy="485.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1437.02" y="488.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Manfort</text>
+      <circle cx="1263.08" cy="913.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1268.08" y="917.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stammheim</text>
+      <circle cx="1370.7" cy="1103.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1375.7" y="1106.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mülheim</text>
+      <circle cx="1465.08" cy="1143.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1470.08" y="1147.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buchheim</text>
+      <circle cx="1344.33" cy="1350.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1349.33" y="1354.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kalk</text>
+      <circle cx="1449.02" cy="1407.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1454.02" y="1411.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vingst</text>
+      <circle cx="1478.02" cy="1333.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1483.02" y="1336.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Höhenberg</text>
+      <circle cx="1357.14" cy="1244.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1362.14" y="1248.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buchforst</text>
+      <circle cx="1324.58" cy="1427.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1329.58" y="1431.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Humboldt</text>
+      <circle cx="1260.58" cy="1600.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1265.58" y="1603.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Poll</text>
+      <circle cx="1390.89" cy="1498.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1395.89" y="1501.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gremberg</text>
+      <circle cx="1293.2" cy="1778.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1298.2" y="1781.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rodenkirchen</text>
+      <circle cx="1506.77" cy="1738.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1511.77" y="1741.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ensen</text>
+      <circle cx="1453.52" cy="1727.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1458.52" y="1731.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Westhoven</text>
+      <circle cx="1364.77" cy="2060.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1369.77" y="2064.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sürth</text>
+      <circle cx="1493.33" cy="1963.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1498.33" y="1967.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Weiß</text>
+      <circle cx="1392.89" cy="2182.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1397.89" y="2185.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Langel</text>
+      <circle cx="1521.39" cy="69.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1526.39" y="72.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bergisch Neukirchen</text>
+      <circle cx="1650.08" cy="182.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1655.08" y="186.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lützenkirchen</text>
+      <circle cx="1604.27" cy="461.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1609.27" y="465.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schlebusch</text>
+      <circle cx="1550.2" cy="787.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1555.2" y="791.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dünnwald</text>
+      <circle cx="1756.95" cy="1010.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1761.95" y="1013.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dellbrück</text>
+      <circle cx="1614.08" cy="1071.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1619.08" y="1075.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Holweide</text>
+      <circle cx="1528.14" cy="920.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1533.14" y="923.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Höhenhaus</text>
+      <circle cx="1591.7" cy="1422.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1596.7" y="1425.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ostheim</text>
+      <circle cx="1608.39" cy="1246.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1613.39" y="1249.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Merheim</text>
+      <circle cx="1668.39" cy="1385.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1673.39" y="1388.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neubrück</text>
+      <circle cx="1644.45" cy="1668.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1649.45" y="1671.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gremberghoven</text>
+      <circle cx="1662.52" cy="1845.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1667.52" y="1848.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Porz</text>
+      <circle cx="1701.58" cy="1748.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1706.58" y="1751.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Finkenberg</text>
+      <circle cx="1575.64" cy="2026.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1580.64" y="2030.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zündorf</text>
+      <circle cx="1766.89" cy="293.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1771.89" y="296.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Steinbüchel</text>
+      <circle cx="1795.58" cy="638.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1800.58" y="641.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schildgen</text>
+      <circle cx="1850.7" cy="886.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1855.7" y="890.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hand</text>
+      <circle cx="1908.02" cy="792.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1913.02" y="796.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Paffrath</text>
+      <circle cx="1999.08" cy="961.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2004.08" y="965.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gronau</text>
+      <circle cx="1788.52" cy="1290.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1793.52" y="1294.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brück</text>
+      <circle cx="1951.95" cy="1244.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1956.95" y="1247.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lustheide</text>
+      <circle cx="1986.08" cy="1182.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1991.08" y="1185.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Refrath</text>
+      <circle cx="1841.52" cy="1502.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1846.52" y="1506.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rath</text>
+      <circle cx="1794.77" cy="1553.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1799.77" y="1556.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heumar</text>
+      <circle cx="1802.33" cy="1887.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1807.33" y="1891.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Urbach</text>
+      <circle cx="1782.7" cy="1754.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1787.7" y="1758.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Eil</text>
+      <circle cx="1918.64" cy="1897.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1923.64" y="1901.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Grengel</text>
+      <circle cx="1928.33" cy="2082.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1933.33" y="2085.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wahnheide</text>
+      <circle cx="1823.33" cy="2092.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1828.33" y="2095.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wahn</text>
+      <circle cx="1922.14" cy="2183.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1927.14" y="2186.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lind</text>
+      <circle cx="1803.45" cy="1966.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1808.45" y="1970.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Elsdorf</text>
+      <circle cx="2058.02" cy="789.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2063.02" y="793.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hebborn</text>
+      <circle cx="2210.58" cy="801.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2215.58" y="804.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rommerscheid</text>
+      <circle cx="2234.89" cy="882.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2239.89" y="886.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sand</text>
+      <circle cx="2135.83" cy="966.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2140.83" y="969.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heidkamp</text>
+      <circle cx="2138.83" cy="1159.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2143.83" y="1163.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt-Frankenforst</text>
+      <circle cx="2179.08" cy="1074.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2184.08" y="1078.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lückerath</text>
+      <circle cx="2265.77" cy="1099.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2270.77" y="1103.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bensberg</text>
+      <circle cx="2051.33" cy="1192.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2056.33" y="1195.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kippekausen</text>
+      <circle cx="2074.58" cy="1218.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2079.58" y="1221.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neu-Frankenforst</text>
+      <circle cx="2124.27" cy="1213.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2129.27" y="1217.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Frankenforst</text>
+    </g>
+  </g>
+</svg>

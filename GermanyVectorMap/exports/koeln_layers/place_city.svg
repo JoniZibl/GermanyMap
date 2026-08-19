@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — place_city</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="place_city">
+    <g id="place_city__city">
+      <circle cx="1092.14" cy="1357.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1097.14" y="1361.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Köln</text>
+      <circle cx="1256.08" cy="486.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1261.08" y="490.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Leverkusen</text>
+      <circle cx="2069.39" cy="852.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2074.39" y="856.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bergisch Gladbach</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — poi_church</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="poi_church">
+    <g id="poi_church__bahai">
+      <circle cx="1056.2" cy="1134.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1061.2" y="1138.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bahá’í-Zentrum Köln</text>
+    </g>
+    <g id="poi_church__buddhist">
+      <circle cx="1054.27" cy="1240.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1059.27" y="1244.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buddhismus Zentrum Köln der Karma Kagyü Linie</text>
+    </g>
+    <g id="poi_church__chapel">
+      <circle cx="36.14" cy="78.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="200.83" cy="147.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="195.77" cy="156.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="200.77" y="160.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lourdeskapelle</text>
+      <circle cx="146.14" cy="793.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="151.14" y="796.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Barbara-Kapelle</text>
+      <circle cx="108.27" cy="713.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="132.95" cy="770.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="194.83" cy="1509.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="195.27" cy="1509.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="126.2" cy="2282.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="464.02" cy="1535.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="469.02" y="1539.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Eventkapelle</text>
+      <circle cx="598.64" cy="781.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="518.83" cy="1780.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="523.83" y="1784.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="840.14" cy="1347.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="845.14" y="1351.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alte Trauerhalle (jetzt Columbarium)</text>
+      <circle cx="763.14" cy="2318.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1237.33" cy="266.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1242.33" y="269.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="1127.08" cy="1134.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1132.08" y="1137.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle</text>
+      <circle cx="1008.39" cy="1002.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1097.89" cy="2010.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1102.89" y="2013.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="1291.64" cy="230.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1296.64" y="233.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle Birkenberg</text>
+      <circle cx="1285.45" cy="915.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1371.39" cy="1192.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1376.39" y="1195.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapellchen</text>
+      <circle cx="1263.39" cy="1483.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1522.39" cy="776.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1584.27" cy="1990.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1589.27" y="1993.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Klosterkapelle Zündorf</text>
+      <circle cx="2013.45" cy="463.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2018.45" y="466.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Flurkapelle St. Maria</text>
+      <circle cx="1817.08" cy="618.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1959.2" cy="658.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1819.39" cy="2106.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1824.39" y="2109.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Burgkapelle</text>
+      <circle cx="2029.02" cy="34.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2267.27" cy="472.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2082.2" cy="830.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2021.89" cy="1011.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2233.89" cy="1648.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2238.89" y="1651.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle Friedhof Kleineichen</text>
+    </g>
+    <g id="poi_church__christian">
+      <circle cx="3.83" cy="38.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="8.83" y="41.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienkapelle</text>
+      <circle cx="66.52" cy="59.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="71.52" y="62.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Matthäuskirche</text>
+      <circle cx="38.2" cy="75.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="43.2" y="79.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
+      <circle cx="7.64" cy="405.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="12.64" y="409.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Bruno</text>
+      <circle cx="155.27" cy="786.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="160.27" y="789.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Kosmas und Damian</text>
+      <circle cx="126.27" cy="788.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="131.27" y="791.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche im Walzwerk</text>
+      <circle cx="176.89" cy="759.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="181.89" y="763.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gnadenkirche Pulheim</text>
+      <circle cx="83.52" cy="950.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="88.52" y="953.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Cornelius</text>
+      <circle cx="49.89" cy="1034.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="54.89" y="1038.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Martinus</text>
+      <circle cx="36.02" cy="1037.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="41.02" y="1040.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hubertuskapelle</text>
+      <circle cx="37.64" cy="1022.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="42.64" y="1025.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirchenladen Sintern</text>
+      <circle cx="61.45" cy="1143.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="66.45" y="1146.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="38.77" cy="1155.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="43.77" y="1159.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gnadenkirche Brauweiler</text>
+      <circle cx="82.58" cy="928.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="75.64" cy="1154.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="19.14" cy="1405.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="24.14" y="1408.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="20.45" cy="1368.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="25.45" y="1372.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Sebastianus</text>
+      <circle cx="151.77" cy="1659.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="156.77" y="1662.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="157.64" cy="1646.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="162.64" y="1650.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Severin</text>
+      <circle cx="165.52" cy="1470.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="170.52" y="1474.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Ulrich</text>
+      <circle cx="171.33" cy="1627.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="176.33" y="1630.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Frechen</text>
+      <circle cx="138.7" cy="1461.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="216.58" cy="1503.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="225.27" cy="1760.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="230.27" y="1763.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wimaruskapelle</text>
+      <circle cx="4.2" cy="2198.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="9.2" y="2201.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
+      <circle cx="91.64" cy="2258.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="96.64" y="2261.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Martinus</text>
+      <circle cx="233.02" cy="176.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="238.02" y="180.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina</text>
+      <circle cx="234.08" cy="355.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="239.08" y="359.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andachtsplatz</text>
+      <circle cx="454.77" cy="355.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="459.77" y="358.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johann Baptist</text>
+      <circle cx="264.33" cy="287.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="250.83" cy="574.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="255.83" y="578.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche Sinnersdorf</text>
+      <circle cx="268.02" cy="568.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="273.02" y="571.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hubertus</text>
+      <circle cx="471.14" cy="682.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="476.14" y="685.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä Namen</text>
+      <circle cx="459.58" cy="757.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="464.58" y="760.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Beatae Mariae Virginis</text>
+      <circle cx="319.45" cy="1123.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="324.45" y="1126.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Jakobus</text>
+      <circle cx="330.64" cy="1108.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="335.64" y="1111.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Jakobus</text>
+      <circle cx="356.2" cy="1076.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="361.2" y="1080.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindehaus Unter Gottes Gnaden</text>
+      <circle cx="332.95" cy="1294.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="337.95" y="1297.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Severin</text>
+      <circle cx="336.7" cy="1392.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="341.7" y="1396.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephanus</text>
+      <circle cx="367.02" cy="1355.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="372.02" y="1358.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Weiden</text>
+      <circle cx="357.52" cy="1346.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="362.52" y="1349.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienkirche</text>
+      <circle cx="377.33" cy="1379.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="382.33" y="1382.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilig Geist</text>
+      <circle cx="230.77" cy="1552.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="235.77" y="1555.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Maria Königin</text>
+      <circle cx="229.14" cy="1548.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="234.14" y="1552.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Königin</text>
+      <circle cx="252.2" cy="1623.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="257.2" y="1626.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Audomar</text>
+      <circle cx="246.64" cy="1633.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="251.64" y="1636.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle</text>
+      <circle cx="465.39" cy="1438.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="470.39" y="1441.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienkapelle</text>
+      <circle cx="268.33" cy="1725.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="273.33" y="1728.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilig Geist</text>
+      <circle cx="239.02" cy="1765.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="244.02" y="1768.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mauritius</text>
+      <circle cx="356.95" cy="1792.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="361.95" y="1796.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Dionysius</text>
+      <circle cx="383.02" cy="1817.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="388.02" y="1821.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Martin-Luther-Kirche Gleuel</text>
+      <circle cx="242.45" cy="1963.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="247.45" y="1967.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Wendelinus</text>
+      <circle cx="504.27" cy="208.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="509.27" y="212.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle</text>
+      <circle cx="539.33" cy="192.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="544.33" y="195.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pankratius</text>
+      <circle cx="511.64" cy="188.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="516.64" y="191.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche Worringen</text>
+      <circle cx="504.02" cy="181.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="509.02" y="184.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="496.83" cy="638.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="501.83" y="642.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Martinus</text>
+      <circle cx="659.27" cy="442.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="664.27" y="445.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina v. Siena</text>
+      <circle cx="650.45" cy="557.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="655.45" y="560.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Cosmas u. Damian (alte Kirche)</text>
+      <circle cx="658.33" cy="583.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="663.33" y="587.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Cosmas u. Damian</text>
+      <circle cx="669.52" cy="618.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="674.52" y="622.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wegekapelle St. Marien</text>
+      <circle cx="734.89" cy="576.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="739.89" y="579.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Stadtkirche Chorweiler</text>
+      <circle cx="737.83" cy="576.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="742.83" y="580.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kath. Pfarrkirche Hl. Johannes XXIII.</text>
+      <circle cx="738.14" cy="573.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="743.14" y="576.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kath. Pfarrzentrum</text>
+      <circle cx="598.45" cy="779.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="603.45" y="783.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Elisabeth</text>
+      <circle cx="582.58" cy="799.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="587.58" y="803.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindezentrum Pesch</text>
+      <circle cx="684.77" cy="758.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="689.77" y="761.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schmerzhafte Mutter Maria</text>
+      <circle cx="541.83" cy="977.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="546.83" y="981.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrkirche Christi Geburt</text>
+      <circle cx="529.45" cy="1033.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="534.45" y="1036.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johannes vor dem Lateinischen Tore</text>
+      <circle cx="563.14" cy="968.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="568.14" y="972.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Auferstehungskirche Bocklemünd</text>
+      <circle cx="580.95" cy="1127.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="585.95" y="1130.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Viktor</text>
+      <circle cx="703.77" cy="1102.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="708.77" y="1106.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Epiphaniaskirche Bickendorf</text>
+      <circle cx="715.02" cy="1139.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="720.02" y="1143.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Dreikönigen</text>
+      <circle cx="685.89" cy="1142.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="690.89" y="1145.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bethaus</text>
+      <circle cx="487.02" cy="1412.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="492.02" y="1415.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pankratius</text>
+      <circle cx="515.14" cy="1405.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="520.14" y="1408.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dietrich-Bonhoeffer-Kirche</text>
+      <circle cx="487.08" cy="1427.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="492.08" y="1430.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alte Dorfkirche</text>
+      <circle cx="610.27" cy="1175.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="615.27" y="1178.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Emmauskirche Vogelsang</text>
+      <circle cx="610.33" cy="1312.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="615.33" y="1315.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ukrainisch-Orthodoxe Kapelle</text>
+      <circle cx="632.02" cy="1205.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="637.02" y="1209.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Konrad</text>
+      <circle cx="623.95" cy="1341.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="628.95" y="1345.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Vitalis</text>
+      <circle cx="709.95" cy="1203.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="714.95" y="1206.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Königreichssaal Jehovas Zeugen</text>
+      <circle cx="709.64" cy="1362.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="714.64" y="1365.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Clarenbachkirche</text>
+      <circle cx="732.2" cy="1382.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="737.2" y="1385.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Joseph</text>
+      <circle cx="496.33" cy="1441.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="501.33" y="1444.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="723.27" cy="1492.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="728.27" y="1495.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Krankenhauskirche St. Elisabeth</text>
+      <circle cx="717.08" cy="1493.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="722.08" y="1497.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle</text>
+      <circle cx="730.7" cy="1563.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="735.7" y="1567.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dietrich-Bonhoeffer-Kirche</text>
+      <circle cx="602.7" cy="1513.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="736.52" cy="1489.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="543.83" cy="1773.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="548.83" y="1777.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Brictius-Stotzheim</text>
+      <circle cx="500.7" cy="1878.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="505.7" y="1881.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria am Brunnen</text>
+      <circle cx="569.33" cy="1929.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="574.33" y="1933.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle</text>
+      <circle cx="595.08" cy="1881.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="600.08" y="1885.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Josef Kirche</text>
+      <circle cx="599.7" cy="1884.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="604.7" y="1887.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Martin-Luther-King-Kirche</text>
+      <circle cx="650.89" cy="1884.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="655.89" y="1887.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Severin Kirche</text>
+      <circle cx="730.58" cy="1728.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="735.58" y="1731.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche</text>
+      <circle cx="735.02" cy="1739.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="740.02" y="1743.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä Geburt</text>
+      <circle cx="555.7" cy="1983.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="560.7" y="1987.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina</text>
+      <circle cx="579.7" cy="1940.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="584.7" y="1943.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina</text>
+      <circle cx="668.58" cy="2042.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="673.58" y="2045.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johannes Baptist</text>
+      <circle cx="717.58" cy="2092.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="722.58" y="2096.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Martinus Kirche</text>
+      <circle cx="636.52" cy="2029.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="599.95" cy="2309.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="604.95" y="2313.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mariä Hilf</text>
+      <circle cx="594.33" cy="2313.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="599.33" y="2317.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ehemaliges Zisterzienserinnenkloster Benden</text>
+      <circle cx="656.83" cy="2294.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="661.83" y="2298.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Servatius</text>
+      <circle cx="724.27" cy="2233.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="729.27" y="2237.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andreaskirche</text>
+      <circle cx="716.02" cy="2216.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="721.02" y="2220.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Matthäus-Kirche</text>
+      <circle cx="644.64" cy="2248.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="766.33" cy="178.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="771.33" y="182.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Antonius Kapelle</text>
+      <circle cx="856.02" cy="234.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="861.02" y="238.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephanus</text>
+      <circle cx="845.52" cy="318.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="850.52" y="322.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle am Cohnenhof</text>
+      <circle cx="883.27" cy="208.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="888.27" y="211.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fliednerkirche</text>
+      <circle cx="940.33" cy="264.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="945.33" y="267.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="992.89" cy="291.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="997.89" y="295.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="767.39" cy="462.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="772.39" y="465.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Marien</text>
+      <circle cx="762.2" cy="608.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="767.2" y="612.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Simon Zaite - Syrisch-Orthodoxe Kirche</text>
+      <circle cx="778.64" cy="622.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="783.64" y="626.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="830.83" cy="636.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="835.83" y="639.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Dimitrios - Griechisch-Orthodoxe Kirche v. Antiochien</text>
+      <circle cx="853.45" cy="607.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="858.45" y="610.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Freikirche Köln-Chorweiler</text>
+      <circle cx="952.95" cy="408.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="957.95" y="411.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Amandus</text>
+      <circle cx="789.33" cy="688.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="794.33" y="692.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche Jesu Christi der Heiligen der Letzten Tage</text>
+      <circle cx="770.83" cy="689.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="775.83" y="693.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christi Verklärung</text>
+      <circle cx="780.39" cy="812.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="785.39" y="816.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Dionysius</text>
+      <circle cx="757.77" cy="849.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="762.77" y="853.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Äthiopisch Orthodoxe Sankt Michaels-Kirche</text>
+      <circle cx="837.27" cy="783.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="842.27" y="786.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christopherus-Kapelle</text>
+      <circle cx="864.95" cy="843.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="869.95" y="847.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Immanuel-Kirche</text>
+      <circle cx="838.52" cy="856.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="843.52" y="859.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Bernhard</text>
+      <circle cx="885.27" cy="832.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="890.27" y="835.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christ König</text>
+      <circle cx="767.52" cy="688.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.7" cy="866.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="768.89" cy="1143.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="773.89" y="1147.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Rochus</text>
+      <circle cx="847.27" cy="1140.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="852.27" y="1144.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Barbara</text>
+      <circle cx="915.83" cy="1017.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="920.83" y="1020.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bilderstöckchen</text>
+      <circle cx="913.14" cy="1051.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="918.14" y="1054.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Franziskus</text>
+      <circle cx="900.08" cy="1053.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="905.08" y="1057.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Edith-Stein-Kapelle</text>
+      <circle cx="873.64" cy="1160.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="878.64" y="1163.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Versöhnungskirche Neuehrenfeld</text>
+      <circle cx="993.14" cy="1034.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="998.14" y="1038.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Quirinus</text>
+      <circle cx="943.7" cy="1115.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="948.7" y="1118.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nathanaelkirche</text>
+      <circle cx="747.77" cy="1182.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="752.77" y="1185.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rochuskapelle</text>
+      <circle cx="759.58" cy="1212.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="764.58" y="1215.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Grabeskirche St. Bartholomäus</text>
+      <circle cx="775.58" cy="1177.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="780.58" y="1181.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Markuskirche</text>
+      <circle cx="790.39" cy="1267.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="795.39" y="1270.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelisch-Freikirchliche Gemeinde Köln-West</text>
+      <circle cx="771.33" cy="1373.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="776.33" y="1377.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dreifaltigkeitskirche</text>
+      <circle cx="841.14" cy="1198.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="846.14" y="1202.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Peter</text>
+      <circle cx="843.52" cy="1177.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="848.52" y="1180.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche Köln-Mitte</text>
+      <circle cx="826.77" cy="1229.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="831.77" y="1233.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie Christengemeinde Elim</text>
+      <circle cx="863.7" cy="1262.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="868.7" y="1266.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Joseph</text>
+      <circle cx="861.89" cy="1296.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="866.89" y="1299.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mechtern</text>
+      <circle cx="845.33" cy="1278.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="850.33" y="1281.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche</text>
+      <circle cx="838.83" cy="1386.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="843.83" y="1390.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christi Auferstehung</text>
+      <circle cx="840.45" cy="1370.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="845.45" y="1373.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Magdalena und Lazarus</text>
+      <circle cx="825.45" cy="1395.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="830.45" y="1399.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mor Petrus u. Mor Paulus - Syrisch-Orthodoxe Kirche</text>
+      <circle cx="828.27" cy="1379.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="833.27" y="1382.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie evangelische Gemeinde Köln-Lindenthal</text>
+      <circle cx="894.14" cy="1205.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="899.14" y="1208.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Anna</text>
+      <circle cx="893.95" cy="1300.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="898.95" y="1304.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">City Church</text>
+      <circle cx="869.77" cy="1408.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="874.77" y="1412.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Matthäuskirche</text>
+      <circle cx="888.14" cy="1420.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="893.14" y="1424.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Studierendengemeinde Uni Köln Sandkapelle</text>
+      <circle cx="929.27" cy="1394.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="934.27" y="1398.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrkirche Christi Auferstehung (alt-katholisch)</text>
+      <circle cx="958.83" cy="1288.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="963.83" y="1292.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neu St. Alban</text>
+      <circle cx="938.02" cy="1356.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="943.02" y="1359.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Michael</text>
+      <circle cx="967.58" cy="1309.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="972.58" y="1312.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christuskirche</text>
+      <circle cx="742.83" cy="1477.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="747.83" y="1480.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Thomas-Morus-Kirche</text>
+      <circle cx="781.64" cy="1527.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="786.64" y="1530.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Albertus Magnus</text>
+      <circle cx="778.64" cy="1530.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="783.64" y="1534.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Krieler Dom (St. Stephanus)</text>
+      <circle cx="865.39" cy="1488.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="870.39" y="1492.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Katholische Klinikkirche St. Johannes der Täufer</text>
+      <circle cx="822.33" cy="1463.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="827.33" y="1467.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephan</text>
+      <circle cx="814.2" cy="1494.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="819.2" y="1498.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Paul-Gerhardt-Kirche</text>
+      <circle cx="814.83" cy="1509.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="819.83" y="1512.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche Köln-Süd</text>
+      <circle cx="850.58" cy="1574.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="855.58" y="1578.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zur heiligen Familie</text>
+      <circle cx="866.95" cy="1575.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="871.95" y="1578.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische freie Gemeinde</text>
+      <circle cx="849.02" cy="1629.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="854.02" y="1633.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Johanneskirche</text>
+      <circle cx="882.08" cy="1438.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="887.08" y="1442.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Iona - Die Christengemeinschaft</text>
+      <circle cx="901.45" cy="1549.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="906.45" y="1552.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Tersteegenhaus</text>
+      <circle cx="900.95" cy="1537.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="905.95" y="1540.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="921.2" cy="1508.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="926.2" y="1511.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche Johannes XXIII.</text>
+      <circle cx="874.33" cy="1508.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="879.33" y="1511.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Karl Borromäus</text>
+      <circle cx="886.27" cy="1607.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="891.27" y="1611.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Bruno</text>
+      <circle cx="975.95" cy="1431.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="980.95" y="1434.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Herz Jesu</text>
+      <circle cx="993.02" cy="1641.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="998.02" y="1644.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Melanchthonkirche</text>
+      <circle cx="976.77" cy="1668.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="981.77" y="1672.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilig Geist</text>
+      <circle cx="818.27" cy="1474.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="899.08" cy="2079.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="904.08" y="2083.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Blasius</text>
+      <circle cx="762.27" cy="2357.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="767.27" y="2361.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hl. Johannes der Täufer</text>
+      <circle cx="860.02" cy="2357.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="865.02" y="2361.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephan-Kirche</text>
+      <circle cx="990.33" cy="2315.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="995.33" y="2318.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Maximilian-Kolbe-Kapelle</text>
+      <circle cx="1056.02" cy="9.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1061.02" y="12.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St.-Gerhard-Kirche</text>
+      <circle cx="1017.39" cy="348.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1022.39" y="351.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Aldegundis</text>
+      <circle cx="1065.2" cy="216.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1070.2" y="219.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zum Heiligen Kreuz</text>
+      <circle cx="1065.45" cy="245.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1070.45" y="248.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hoffnungskirche</text>
+      <circle cx="1205.33" cy="336.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1210.33" y="339.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Stephanus</text>
+      <circle cx="1236.52" cy="319.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1241.52" y="322.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Petruskirche</text>
+      <circle cx="1206.58" cy="341.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1088.64" cy="542.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1093.64" y="546.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Brictius</text>
+      <circle cx="1178.95" cy="500.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1183.95" y="503.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Antonius</text>
+      <circle cx="1250.2" cy="494.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1255.2" y="498.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christuskirche</text>
+      <circle cx="1228.52" cy="497.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1233.52" y="500.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Herz Jesu</text>
+      <circle cx="1221.58" cy="502.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1226.58" y="505.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie evangelische Gemeinde</text>
+      <circle cx="1090.52" cy="841.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1095.52" y="844.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wegekapelle &quot;Auf der Seekante 11&quot;</text>
+      <circle cx="1101.02" cy="853.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1106.02" y="857.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt St. Katharina</text>
+      <circle cx="1092.7" cy="865.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1097.7" y="868.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Agathakapelle</text>
+      <circle cx="1105.08" cy="900.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1110.08" y="904.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Katharina</text>
+      <circle cx="1188.95" cy="781.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1193.95" y="784.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hubertus</text>
+      <circle cx="1239.83" cy="910.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1244.83" y="913.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä Geburt</text>
+      <circle cx="1008.02" cy="943.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1013.02" y="947.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilig Kreuz</text>
+      <circle cx="1012.64" cy="973.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1017.64" y="976.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Madonna im Grünen</text>
+      <circle cx="1041.89" cy="999.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1046.89" y="1003.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Salvator</text>
+      <circle cx="1011.89" cy="1082.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1016.89" y="1085.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Königreichssaal Jehovas Zeugen</text>
+      <circle cx="1017.2" cy="1099.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1022.2" y="1102.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mariensaal</text>
+      <circle cx="1028.39" cy="1142.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1033.39" y="1146.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lutherkirche Nippes</text>
+      <circle cx="1045.39" cy="1118.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1050.39" y="1121.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Marien</text>
+      <circle cx="1112.52" cy="1028.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1117.52" y="1031.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Clemens</text>
+      <circle cx="1116.58" cy="980.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1121.58" y="984.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Surp Sahak Mesrop - Armenische Apostolische Diözesankirche</text>
+      <circle cx="1078.27" cy="1116.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1083.27" y="1119.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Bonifatius</text>
+      <circle cx="1076.83" cy="1114.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1081.83" y="1117.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Bonifatius</text>
+      <circle cx="1175.89" cy="1106.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1180.89" y="1109.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Engelbert</text>
+      <circle cx="1162.14" cy="1085.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1167.14" y="1089.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stephanuskirche</text>
+      <circle cx="1220.7" cy="1101.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1225.7" y="1105.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Anna</text>
+      <circle cx="1211.77" cy="1115.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1216.77" y="1119.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche am Zoo</text>
+      <circle cx="1081.77" cy="1116.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1044.27" cy="1234.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1049.27" y="1237.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Gertrud</text>
+      <circle cx="1003.27" cy="1183.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1008.27" y="1186.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Joseph</text>
+      <circle cx="1059.2" cy="1289.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1064.2" y="1293.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Ursula</text>
+      <circle cx="1057.2" cy="1290.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1062.2" y="1294.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Goldene Kammer</text>
+      <circle cx="1035.27" cy="1344.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1040.27" y="1347.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria in der Kupfergasse</text>
+      <circle cx="1036.39" cy="1312.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1041.39" y="1315.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Seminarkirche</text>
+      <circle cx="1043.27" cy="1313.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1048.27" y="1317.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hl. Konstantin u. Helena</text>
+      <circle cx="1054.95" cy="1332.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1059.95" y="1335.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria ad Ortum</text>
+      <circle cx="1003.08" cy="1404.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1008.08" y="1407.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mauritius</text>
+      <circle cx="1043.95" cy="1391.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1048.95" y="1395.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Cäcilien</text>
+      <circle cx="1044.33" cy="1394.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1049.33" y="1398.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Peter</text>
+      <circle cx="1000.89" cy="1400.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1005.89" y="1403.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kroatische Katholische Mission</text>
+      <circle cx="1077.14" cy="1204.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1082.14" y="1208.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Agnes</text>
+      <circle cx="1111.52" cy="1186.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1116.52" y="1189.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Thomaskirche</text>
+      <circle cx="1094.02" cy="1283.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1099.02" y="1286.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ursulinenkirche St. Corpus Christi</text>
+      <circle cx="1060.27" cy="1283.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1065.27" y="1287.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Italienische Mission</text>
+      <circle cx="1107.27" cy="1279.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1112.27" y="1283.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Kunibert</text>
+      <circle cx="1065.2" cy="1290.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1070.2" y="1293.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle hl. Dreikönige</text>
+      <circle cx="1081.39" cy="1330.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1086.39" y="1334.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kölner Dom</text>
+      <circle cx="1061.95" cy="1348.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1066.95" y="1351.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Minoritenkirche</text>
+      <circle cx="1101.7" cy="1355.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1106.7" y="1359.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Groß Sankt Martin</text>
+      <circle cx="1062.52" cy="1324.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1067.52" y="1328.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St.Andreas</text>
+      <circle cx="1082.95" cy="1392.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1087.95" y="1396.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria im Kapitol</text>
+      <circle cx="1073.89" cy="1417.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1078.89" y="1420.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Georg</text>
+      <circle cx="1107.45" cy="1407.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1112.45" y="1410.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Lyskirchen</text>
+      <circle cx="1081.33" cy="1370.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1086.33" y="1373.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Bruder-Konrad-Kapelle</text>
+      <circle cx="1148.33" cy="1361.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1153.33" y="1364.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt Sankt Heribert</text>
+      <circle cx="1167.77" cy="1376.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1172.77" y="1380.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Heribert</text>
+      <circle cx="1171.83" cy="1384.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1176.83" y="1387.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Johannes Deutz</text>
+      <circle cx="1215.83" cy="1412.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1220.83" y="1415.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle des Eduardus-Krankenhaus</text>
+      <circle cx="1022.27" cy="1448.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1027.27" y="1451.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pantaleon</text>
+      <circle cx="1049.45" cy="1463.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1054.45" y="1466.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria vom Frieden</text>
+      <circle cx="1019.58" cy="1463.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1024.58" y="1466.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johannisgemeinde</text>
+      <circle cx="1050.27" cy="1527.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1055.27" y="1531.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lutherkirche Südstadt</text>
+      <circle cx="1042.08" cy="1502.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1047.08" y="1505.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Paul</text>
+      <circle cx="996.64" cy="1609.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1001.64" y="1612.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pius</text>
+      <circle cx="1039.95" cy="1681.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1044.95" y="1685.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Philippuskirche</text>
+      <circle cx="1087.58" cy="1446.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1092.58" y="1450.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Gregorius am Elend</text>
+      <circle cx="1087.08" cy="1446.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1092.08" y="1449.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schönstattkapelle</text>
+      <circle cx="1066.33" cy="1484.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1071.33" y="1488.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kartäuserkirche</text>
+      <circle cx="1080.2" cy="1444.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1085.2" y="1448.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johann Baptist</text>
+      <circle cx="1073.95" cy="1539.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1078.95" y="1543.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Maria Hilf</text>
+      <circle cx="1090.83" cy="1494.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1095.83" y="1498.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Severin</text>
+      <circle cx="1110.02" cy="1552.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1115.02" y="1556.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maternus</text>
+      <circle cx="1085.27" cy="1647.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1090.27" y="1650.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Benediktinerinnen Köln</text>
+      <circle cx="1076.33" cy="1664.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1081.33" y="1668.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Empfängnis</text>
+      <circle cx="1135.39" cy="1624.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1140.39" y="1627.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Matthias</text>
+      <circle cx="1157.14" cy="1733.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1162.14" y="1737.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Königin</text>
+      <circle cx="1153.14" cy="1694.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1158.14" y="1697.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Reformationskirche</text>
+      <circle cx="1137.45" cy="1764.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1142.45" y="1768.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">All Saints Church</text>
+      <circle cx="1084.7" cy="1954.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1089.7" y="1958.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilige Dreikönige</text>
+      <circle cx="1096.83" cy="1978.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1101.83" y="1982.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Emmanuelkirche</text>
+      <circle cx="1073.45" cy="2078.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1078.45" y="2082.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Servatius</text>
+      <circle cx="1151.2" cy="2178.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1156.2" y="2181.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrkirche St. Katharina</text>
+      <circle cx="1149.7" cy="2174.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1023.39" cy="2352.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1028.39" y="2356.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schmerzhafte Mutter</text>
+      <circle cx="1293.64" cy="50.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1298.64" y="54.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Michael Opladen</text>
+      <circle cx="1332.45" cy="131.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1337.45" y="135.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche am Bielert</text>
+      <circle cx="1352.83" cy="147.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1357.83" y="151.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schulkapelle Marienschule Opladen</text>
+      <circle cx="1498.08" cy="54.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1503.08" y="57.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilige Drei Könige Bergisch Neukirchen</text>
+      <circle cx="1407.2" cy="129.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1301.08" cy="349.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1306.08" y="353.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christ-König Kirche</text>
+      <circle cx="1344.52" cy="156.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1349.52" y="160.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Remigius Opladen</text>
+      <circle cx="1344.77" cy="190.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1349.77" y="193.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Jugendkirche Leverkusen St. Aloysius</text>
+      <circle cx="1352.83" cy="154.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1357.83" y="157.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Krankenhauskapelle</text>
+      <circle cx="1351.89" cy="243.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1356.89" y="246.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Elisabeth</text>
+      <circle cx="1351.7" cy="218.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1356.7" y="221.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie evangelische Gemeinde Leverkusen-Opladen</text>
+      <circle cx="1331.95" cy="321.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1336.95" y="324.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christliche Versammlung</text>
+      <circle cx="1470.95" cy="211.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1475.95" y="215.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Quettingen</text>
+      <circle cx="1362.83" cy="201.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1302.33" cy="506.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1307.33" y="509.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hildegard-Kirche</text>
+      <circle cx="1298.95" cy="537.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1303.95" y="541.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelisch-Freikirchliche Gemeinde (Baptisten)</text>
+      <circle cx="1333.45" cy="503.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1338.45" y="506.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Matthäus-Gemeindehaus</text>
+      <circle cx="1401.83" cy="487.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1406.83" y="490.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Joseph</text>
+      <circle cx="1443.64" cy="497.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1448.64" y="501.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Johanneskirche Manfort</text>
+      <circle cx="1304.14" cy="549.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1266.77" cy="822.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1271.77" y="826.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pius X</text>
+      <circle cx="1283.27" cy="915.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1288.27" y="918.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Immanuel-Kirche Stammheim</text>
+      <circle cx="1480.89" cy="773.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1485.89" y="776.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kinder und Jugendhilfe St. Josef</text>
+      <circle cx="1315.02" cy="1168.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1320.02" y="1172.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Herz Jesu-Kirche</text>
+      <circle cx="1351.7" cy="1105.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1356.7" y="1109.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lutherkirche</text>
+      <circle cx="1325.02" cy="1105.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1330.02" y="1108.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelisch-Freikirchliche Gemeinde</text>
+      <circle cx="1315.52" cy="1118.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1320.52" y="1122.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Clemens</text>
+      <circle cx="1342.64" cy="1124.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1347.64" y="1127.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Liebfrauen</text>
+      <circle cx="1332.7" cy="1121.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1337.7" y="1125.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche</text>
+      <circle cx="1389.52" cy="933.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1394.52" y="937.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bruder Klaus</text>
+      <circle cx="1386.77" cy="1022.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1391.77" y="1025.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Antonius</text>
+      <circle cx="1397.52" cy="1144.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1402.52" y="1147.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Elisabeth</text>
+      <circle cx="1458.58" cy="943.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1463.58" y="946.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hedwig</text>
+      <circle cx="1461.02" cy="976.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1466.02" y="980.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie Christengemeinde</text>
+      <circle cx="1453.83" cy="1165.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1458.83" y="1169.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="1466.02" cy="1151.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1471.02" y="1155.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kreuzkirche Buchheim</text>
+      <circle cx="1458.95" cy="1120.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1463.95" y="1123.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Theresia</text>
+      <circle cx="1391.83" cy="1014.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1291.33" cy="1237.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1296.33" y="1241.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St.Urban</text>
+      <circle cx="1301.27" cy="1412.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1306.27" y="1415.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gustav-Adolf-Haus</text>
+      <circle cx="1378.39" cy="1201.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1383.39" y="1205.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="1359.39" cy="1192.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1364.39" y="1195.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andreae-Haus</text>
+      <circle cx="1372.45" cy="1263.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1377.45" y="1267.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Auferstehungskirche Buchforst</text>
+      <circle cx="1366.45" cy="1249.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1371.45" y="1252.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Petrus Canisius</text>
+      <circle cx="1377.83" cy="1318.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1382.83" y="1321.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hll. Drei Könige</text>
+      <circle cx="1376.33" cy="1313.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1381.33" y="1317.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Jesus Christus-Kirche</text>
+      <circle cx="1345.77" cy="1330.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1350.77" y="1333.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Joseph</text>
+      <circle cx="1421.52" cy="1188.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1426.52" y="1192.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mauritius</text>
+      <circle cx="1381.33" cy="1353.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1386.33" y="1357.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Marien</text>
+      <circle cx="1485.77" cy="1190.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1490.77" y="1193.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johannes Nepomuk</text>
+      <circle cx="1485.33" cy="1330.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1490.33" y="1334.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Elisabeth</text>
+      <circle cx="1461.83" cy="1371.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1466.83" y="1375.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Erlöserkirche Vingst</text>
+      <circle cx="1460.39" cy="1391.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1465.39" y="1394.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Theodor</text>
+      <circle cx="1397.39" cy="1370.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1302.95" cy="1437.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1307.95" y="1440.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Engelbert</text>
+      <circle cx="1267.33" cy="1535.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1272.33" y="1538.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hl. Dreifaltigkeit</text>
+      <circle cx="1311.7" cy="1583.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1316.7" y="1586.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christ Embassy</text>
+      <circle cx="1263.64" cy="1612.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1268.64" y="1615.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Joseph</text>
+      <circle cx="1275.58" cy="1556.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1280.58" y="1559.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle der Stille</text>
+      <circle cx="1367.52" cy="1453.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1372.52" y="1457.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Marien - Koptisch-Orthodoxe Kirche</text>
+      <circle cx="1366.2" cy="1450.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1371.2" y="1453.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Marien</text>
+      <circle cx="1427.83" cy="1654.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1432.83" y="1657.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hl. Panteleimon - Russisch-Orthodoxe Kirche</text>
+      <circle cx="1295.14" cy="1755.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1300.14" y="1758.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt St. Maternus</text>
+      <circle cx="1280.33" cy="1749.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1285.33" y="1753.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maternus</text>
+      <circle cx="1307.95" cy="1830.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1312.95" y="1834.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Erlöserkirche</text>
+      <circle cx="1336.89" cy="1838.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1341.89" y="1842.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Joseph</text>
+      <circle cx="1323.02" cy="1919.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1328.02" y="1922.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Erzengel-Michael-Kirche</text>
+      <circle cx="1418.89" cy="1740.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1423.89" y="1744.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nikolaus-Kapelle</text>
+      <circle cx="1472.7" cy="1703.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1477.7" y="1707.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Johanneskirche Westhoven</text>
+      <circle cx="1419.14" cy="1724.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1363.52" cy="2042.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1368.52" y="2046.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Auferstehungskirche</text>
+      <circle cx="1395.2" cy="2041.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1400.2" y="2044.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Remigius</text>
+      <circle cx="1403.2" cy="2042.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1351.89" cy="2214.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1356.89" y="2217.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Clemens</text>
+      <circle cx="1461.83" cy="2340.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1466.83" y="2344.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Emmauskirche</text>
+      <circle cx="1351.83" cy="2215.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1514.58" cy="75.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1519.58" y="79.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Bergisch Neukirchen</text>
+      <circle cx="1514.27" cy="213.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1519.27" y="217.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Rosenkranzkönigin</text>
+      <circle cx="1604.95" cy="187.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1609.95" y="191.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kreuzkapelle</text>
+      <circle cx="1594.64" cy="214.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1599.64" y="217.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche Leverkusen</text>
+      <circle cx="1659.08" cy="181.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1664.08" y="184.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maurinus</text>
+      <circle cx="1642.52" cy="206.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1647.52" y="210.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindezentrum Lützenkirchen</text>
+      <circle cx="1664.33" cy="170.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1669.33" y="173.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Anna-Kapelle</text>
+      <circle cx="1677.27" cy="332.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1682.27" y="335.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindezentrum Steinbücheler Straße</text>
+      <circle cx="1702.89" cy="291.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1707.89" y="295.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Franziskus</text>
+      <circle cx="1758.14" cy="387.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1763.14" y="391.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Johannes-von-Nepomuk-Kapelle</text>
+      <circle cx="1746.64" cy="366.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1751.64" y="369.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Matthias</text>
+      <circle cx="1527.27" cy="211.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1529.2" cy="416.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1534.2" y="419.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gezelinkapelle</text>
+      <circle cx="1508.02" cy="410.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1513.02" y="413.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Johannes der Täufer</text>
+      <circle cx="1624.52" cy="468.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1629.52" y="471.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Andreas</text>
+      <circle cx="1596.27" cy="498.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1601.27" y="502.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche Auf dem Blauen Berg</text>
+      <circle cx="1598.08" cy="474.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1603.08" y="478.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirchengemeinde Leverkusen-Schlebusch</text>
+      <circle cx="1589.14" cy="593.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1594.14" y="597.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche</text>
+      <circle cx="1616.83" cy="579.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1621.83" y="582.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Albertus Magnus</text>
+      <circle cx="1509.7" cy="794.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1514.7" y="797.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="1567.52" cy="799.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1572.52" y="803.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hermann-Joseph</text>
+      <circle cx="1565.33" cy="804.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1570.33" y="807.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Tersteegenkirche</text>
+      <circle cx="1541.14" cy="871.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1546.14" y="874.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zur hl. Familie</text>
+      <circle cx="1515.7" cy="925.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1520.7" y="929.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pauluskirche Höhenhaus</text>
+      <circle cx="1512.52" cy="956.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1517.52" y="960.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johann Baptist</text>
+      <circle cx="1552.52" cy="1090.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1557.52" y="1094.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Freie Gemeinde</text>
+      <circle cx="1556.08" cy="1063.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1561.08" y="1067.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Versöhnungskirche Holweide</text>
+      <circle cx="1588.95" cy="1074.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1593.95" y="1077.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä-Himmelfahrt</text>
+      <circle cx="1686.64" cy="1016.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1691.64" y="1019.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christuskirche Dellbrück</text>
+      <circle cx="1704.58" cy="1014.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1709.58" y="1017.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Norbert</text>
+      <circle cx="1704.39" cy="1044.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1709.39" y="1048.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="1718.33" cy="1077.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1723.33" y="1081.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christengemeinschaft Köln-Ost</text>
+      <circle cx="1626.58" cy="1262.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1631.58" y="1266.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Gereon</text>
+      <circle cx="1591.45" cy="1267.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1596.45" y="1270.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Petrus-Kirche Merheim</text>
+      <circle cx="1619.14" cy="1346.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1624.14" y="1350.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Krankenhauskapelle</text>
+      <circle cx="1571.58" cy="1399.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1576.58" y="1403.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zu den heiligen Engeln</text>
+      <circle cx="1677.89" cy="1391.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1682.89" y="1395.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Adelheid</text>
+      <circle cx="1662.83" cy="1380.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1667.83" y="1384.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trinitatiskirche Neubrück</text>
+      <circle cx="1670.89" cy="1382.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1675.89" y="1386.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Elisabeth Kapelle</text>
+      <circle cx="1675.7" cy="1390.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1680.7" y="1394.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Adelheid</text>
+      <circle cx="1734.77" cy="1291.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1739.77" y="1295.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Johanneskirche Brück</text>
+      <circle cx="1602.33" cy="1431.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1607.33" y="1434.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Servatius</text>
+      <circle cx="1585.39" cy="1456.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1590.39" y="1459.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Auferstehungskirche Ostheim</text>
+      <circle cx="1632.7" cy="1602.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1637.7" y="1606.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Königreichssaal Jehovas Zeugen</text>
+      <circle cx="1686.27" cy="1456.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1691.27" y="1460.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Königreichssaal Jehovas Zeugen</text>
+      <circle cx="1638.83" cy="1449.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1643.83" y="1453.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Freikirche Ostheim</text>
+      <circle cx="1655.27" cy="1680.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1660.27" y="1683.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Serbisch-Orthodoxe Kirche</text>
+      <circle cx="1526.39" cy="1736.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1531.39" y="1740.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Laurentius</text>
+      <circle cx="1694.89" cy="1733.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1699.89" y="1737.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hoffnungskirche Finkenberg</text>
+      <circle cx="1696.27" cy="1737.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1701.27" y="1741.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maximilian Kolbe</text>
+      <circle cx="1653.33" cy="1859.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1658.33" y="1862.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
+      <circle cx="1692.52" cy="1815.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1697.52" y="1819.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle</text>
+      <circle cx="1652.02" cy="1892.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1657.02" y="1895.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lukaskirche</text>
+      <circle cx="1699.83" cy="1738.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1704.83" y="1741.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Freie Christengemeinde Köln-Porz</text>
+      <circle cx="1709.02" cy="1822.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1714.02" y="1825.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Fronleichnam</text>
+      <circle cx="1736.2" cy="1834.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1741.2" y="1838.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="1575.77" cy="1736.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1632.45" cy="1796.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1520.95" cy="1957.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1525.95" y="1960.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle St. Georg</text>
+      <circle cx="1510.45" cy="1963.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1515.45" y="1966.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Georg</text>
+      <circle cx="1573.95" cy="2009.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1578.95" y="2012.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä Geburt</text>
+      <circle cx="1595.45" cy="2032.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1600.45" y="2036.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pauluskirche</text>
+      <circle cx="1532.52" cy="2326.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1537.52" y="2330.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Ägidius</text>
+      <circle cx="1730.7" cy="2289.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1735.7" y="2292.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Margaretha</text>
+      <circle cx="1815.7" cy="123.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1820.7" y="126.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Griechisch orthodoxe Gemeinde</text>
+      <circle cx="1989.89" cy="7.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1994.89" y="11.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Burscheid</text>
+      <circle cx="1845.14" cy="304.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1850.14" y="307.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="1795.95" cy="645.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1800.95" y="649.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Herz Jesu Kirche</text>
+      <circle cx="1817.14" cy="618.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1822.14" y="621.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienkapelle</text>
+      <circle cx="1831.02" cy="641.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1836.02" y="645.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andreaskirche</text>
+      <circle cx="2007.02" cy="477.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2012.02" y="481.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pankratius</text>
+      <circle cx="2003.83" cy="469.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2008.83" y="472.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle Odenthal</text>
+      <circle cx="1849.08" cy="884.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1854.08" y="887.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Konrad Kirche</text>
+      <circle cx="1848.89" cy="883.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1853.89" y="886.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Konrad</text>
+      <circle cx="1845.89" cy="878.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1850.89" y="882.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelisch-Freikirchliche Gemeinde</text>
+      <circle cx="1928.83" cy="777.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1933.83" y="780.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+      <circle cx="1902.45" cy="792.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1907.45" y="795.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Clemens</text>
+      <circle cx="1923.83" cy="864.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1928.83" y="868.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Helig-Geist-Kirche</text>
+      <circle cx="2001.02" cy="737.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2006.02" y="740.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Andachtsplatz</text>
+      <circle cx="1767.02" cy="1024.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1772.02" y="1027.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Joseph</text>
+      <circle cx="1817.02" cy="1028.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1822.02" y="1032.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pauluskirche Dellbrück</text>
+      <circle cx="1818.7" cy="1028.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1823.7" y="1031.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindezentrum Pauluskirche</text>
+      <circle cx="1847.33" cy="948.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1852.33" y="952.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gralskreis Köln</text>
+      <circle cx="1988.02" cy="929.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1993.02" y="932.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Marien</text>
+      <circle cx="2011.27" cy="1107.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2016.27" y="1111.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alte Katholische Pfarrkirche Refrath</text>
+      <circle cx="1790.58" cy="1294.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1795.58" y="1297.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hubertus</text>
+      <circle cx="1923.14" cy="1217.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1928.14" y="1221.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Elisabeth</text>
+      <circle cx="2009.83" cy="1173.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2014.83" y="1177.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Johann Baptist</text>
+      <circle cx="1976.83" cy="1205.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1981.83" y="1209.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Refrath</text>
+      <circle cx="1992.39" cy="1310.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1799.95" cy="1473.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1804.95" y="1477.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle</text>
+      <circle cx="1804.39" cy="1531.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1809.39" y="1534.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrheim St. Cornelius</text>
+      <circle cx="1805.33" cy="1527.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1810.33" y="1531.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Cornelius</text>
+      <circle cx="1879.64" cy="1482.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1884.64" y="1486.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche Köln-Rath</text>
+      <circle cx="1874.95" cy="1506.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1879.95" y="1510.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zum göttlichen Erlöser</text>
+      <circle cx="1880.77" cy="1511.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1885.77" y="1515.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Versöhnungskirche Rath</text>
+      <circle cx="1775.89" cy="1773.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1780.89" y="1776.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Michael</text>
+      <circle cx="1819.39" cy="1806.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1824.39" y="1810.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle</text>
+      <circle cx="1776.7" cy="1825.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1781.7" y="1828.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Markuskirche</text>
+      <circle cx="1777.45" cy="1822.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1782.45" y="1826.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gemeindehaus Markuskirche</text>
+      <circle cx="1809.77" cy="1892.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1814.77" y="1895.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Bartholomäus</text>
+      <circle cx="1840.52" cy="1926.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1845.52" y="1930.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedenskirche</text>
+      <circle cx="1928.52" cy="1936.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1933.52" y="1940.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Himmelfahrt</text>
+      <circle cx="1791.64" cy="1801.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1827.2" cy="2115.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1832.2" y="2119.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Aegidius</text>
+      <circle cx="1916.2" cy="2062.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1921.2" y="2065.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Martin-Luther-Kirche</text>
+      <circle cx="1917.52" cy="2082.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1922.52" y="2086.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christus König</text>
+      <circle cx="2025.7" cy="24.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2030.7" y="27.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Laurentius</text>
+      <circle cx="2095.27" cy="270.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2100.27" y="274.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Markuskapelle</text>
+      <circle cx="2101.77" cy="278.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2106.77" y="281.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Altenberger Dom</text>
+      <circle cx="2040.64" cy="647.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2045.64" y="650.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Engelbert</text>
+      <circle cx="2266.89" cy="473.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2271.89" y="476.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle Heilig Kreuz</text>
+      <circle cx="2034.2" cy="503.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2047.45" cy="774.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2052.45" y="777.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kirche zum Heilsbrunnen</text>
+      <circle cx="2083.02" cy="755.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2088.02" y="759.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilige Drei Könige</text>
+      <circle cx="2089.2" cy="861.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2094.2" y="864.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Laurentius</text>
+      <circle cx="2112.39" cy="868.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2117.39" y="872.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gnadenkirche</text>
+      <circle cx="2221.52" cy="791.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2226.52" y="794.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Engelbert</text>
+      <circle cx="2245.2" cy="892.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2250.2" y="895.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Severin</text>
+      <circle cx="2060.33" cy="1169.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2065.33" y="1172.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zeltkirche Kippekausen</text>
+      <circle cx="2129.58" cy="975.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2134.58" y="978.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Josef</text>
+      <circle cx="2100.45" cy="944.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2105.45" y="948.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="2150.64" cy="957.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2155.64" y="961.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zum Frieden Gottes</text>
+      <circle cx="2170.02" cy="1045.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2175.02" y="1048.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">ev. Freikirche Gemeinde Baptisten</text>
+      <circle cx="2200.95" cy="1097.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2205.95" y="1101.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Adventsgemeinde</text>
+      <circle cx="2244.89" cy="1089.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2249.89" y="1093.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="2237.77" cy="1086.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2242.77" y="1090.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kirche Bensberg</text>
+      <circle cx="2021.08" cy="1181.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2026.08" y="1185.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Trauerhalle</text>
+      <circle cx="2110.52" cy="1205.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2115.52" y="1209.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Königin</text>
+      <circle cx="2221.83" cy="1640.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2226.83" y="1643.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilige Familie</text>
+      <circle cx="2228.33" cy="1651.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2233.33" y="1654.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kolumbarium Kreuzkirche</text>
+      <circle cx="2207.2" cy="1810.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2212.2" y="1813.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stephanuskapelle</text>
+      <circle cx="2058.27" cy="2279.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2063.27" y="2283.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Griechische Orthodoxe Kirchengemeinde Heiliger Dimitrios</text>
+    </g>
+    <g id="poi_church__church">
+      <circle cx="100.52" cy="1155.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="105.52" y="1159.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neuapostolische Kirche</text>
+      <circle cx="158.02" cy="1648.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="157.52" cy="1645.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="307.45" cy="227.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="237.95" cy="1764.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="239.02" cy="1765.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="240.08" cy="1766.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="490.7" cy="1411.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="495.7" y="1414.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Pankratius</text>
+      <circle cx="721.27" cy="1924.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="581.58" cy="2313.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="942.7" cy="1116.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="929.14" cy="1393.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="781.02" cy="1921.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="786.02" y="1925.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Böhm-Chapel</text>
+      <circle cx="1067.08" cy="528.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1003.14" cy="945.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1008.14" y="948.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrheim &quot;Heilig Kreuz&quot;</text>
+      <circle cx="1120.27" cy="1150.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1125.27" y="1153.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hildegard in der Au</text>
+      <circle cx="1041.58" cy="1296.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1078.52" cy="1205.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1041.58" cy="1505.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1086.64" cy="1955.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1403.83" cy="486.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1408.83" y="490.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrsaal St. Joseph</text>
+      <circle cx="1296.95" cy="529.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1351.77" cy="1107.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1384.33" cy="1351.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1389.33" y="1354.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrhaus St. Marien</text>
+      <circle cx="1368.77" cy="1250.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1484.52" cy="1351.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1509.39" cy="408.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1509.08" cy="410.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1617.33" cy="578.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1688.08" cy="1021.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1535.52" cy="2044.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1540.52" y="2048.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Martinus</text>
+      <circle cx="1572.2" cy="2003.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1577.2" y="2006.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Michael</text>
+      <circle cx="1816.83" cy="123.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1830.77" cy="639.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1817.45" cy="1031.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1791.02" cy="1293.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1790.52" cy="1295.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1789.52" cy="1293.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1804.52" cy="1520.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1809.52" y="1524.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alt St. Cornelius</text>
+      <circle cx="2169.7" cy="1045.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2058.7" cy="2279.57" r="3" fill="#8A6F4B" stroke="none"/>
+    </g>
+    <g id="poi_church__hindu">
+      <circle cx="1427.89" cy="971.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1432.89" y="975.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sanatan Hari Om Mandir</text>
+      <circle cx="1303.7" cy="1418.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1308.7" y="1421.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gauradesh ISKCON / Bhakti Yoga-Zentrum</text>
+      <circle cx="1735.64" cy="1542.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1740.64" y="1545.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hindu-Tempel Hari Om Mandir</text>
+    </g>
+    <g id="poi_church__jewish">
+      <circle cx="736.77" cy="574.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="741.77" y="577.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Begegnungszentrum Chorweiler</text>
+      <circle cx="892.64" cy="1184.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="897.64" y="1188.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Synagoge im Jüdischen Wohlfahrtszentrum</text>
+      <circle cx="956.7" cy="1415.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="961.7" y="1418.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Synagoge Köln</text>
+      <circle cx="1171.95" cy="1150.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1176.95" y="1154.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Jüdische Liberale Gemeinde Köln</text>
+      <circle cx="1720.39" cy="1733.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1725.39" y="1737.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Begegnungszentrum Porz</text>
+    </g>
+    <g id="poi_church__monastery">
+      <circle cx="559.58" cy="1989.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="953.39" cy="1402.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1053.02" cy="1464.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1058.02" y="1468.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Karmel Maria vom Frieden</text>
+      <circle cx="1994.83" cy="1302.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1999.83" y="1306.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dominikanerinnen von Bethanien</text>
+    </g>
+    <g id="poi_church__multifaith">
+      <circle cx="912.7" cy="1457.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="917.7" y="1460.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Raum der Stille</text>
+      <circle cx="2016.83" cy="1889.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2021.83" y="1892.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gebetsraum</text>
+    </g>
+    <g id="poi_church__muslim">
+      <circle cx="184.83" cy="1619.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="189.83" y="1623.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Türkisch-Islamische Gemeinde zu Frechen e.V.</text>
+      <circle cx="271.89" cy="749.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="276.89" y="752.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haci Bayram Moschee</text>
+      <circle cx="733.64" cy="2.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="738.64" y="5.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Osman-Gazi-Moschee</text>
+      <circle cx="670.7" cy="533.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="675.7" y="537.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neue Chorweiler Moschee</text>
+      <circle cx="713.89" cy="1032.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="718.89" y="1035.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sufi-Zentrum Divan e.V. (Tekke)</text>
+      <circle cx="715.58" cy="1204.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="720.58" y="1208.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kurdistan Islam Zentrum e.V.</text>
+      <circle cx="695.27" cy="1323.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="700.27" y="1327.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alevitische Gemeinde Deutschland (Cemevi)</text>
+      <circle cx="534.27" cy="1957.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="539.27" y="1960.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hürther Moschee</text>
+      <circle cx="840.52" cy="606.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="845.52" y="609.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alevitische Gemeinde Köln (Cemevi)</text>
+      <circle cx="891.14" cy="436.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="896.14" y="440.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Chorweiler Zentralmoschee</text>
+      <circle cx="936.95" cy="990.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="941.95" y="993.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Weidenpesch Mescidi (Moschee)</text>
+      <circle cx="753.27" cy="1228.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="758.27" y="1232.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">VIKZ-Zentralmoschee</text>
+      <circle cx="806.08" cy="1189.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="811.08" y="1192.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Aliyyül-Murteza-Moschee</text>
+      <circle cx="812.45" cy="1246.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="817.45" y="1250.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bosnische Moschee</text>
+      <circle cx="908.14" cy="1289.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="913.14" y="1292.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">DITIB-Zentralmoschee</text>
+      <circle cx="982.39" cy="1520.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="987.39" y="1524.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Abubakr Moschee</text>
+      <circle cx="900.7" cy="2052.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="905.7" y="2055.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ayasofya-Moschee</text>
+      <circle cx="880.64" cy="2052.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="885.64" y="2055.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Afghanischer Kulturverein Köln Meschenich e.V.</text>
+      <circle cx="892.52" cy="2077.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="897.52" y="2081.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">El-Aksa Moschee</text>
+      <circle cx="862.02" cy="2319.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="867.02" y="2323.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Islamisches Gemeindezentrum Brühl e.V.</text>
+      <circle cx="863.14" cy="2325.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="868.14" y="2328.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Islamisches Gemeindezentrum Brühl e.V. (Brühler Moschee)</text>
+      <circle cx="1038.27" cy="242.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1043.27" y="245.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Moschee Al-Muhsinin</text>
+      <circle cx="1056.02" cy="782.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1061.02" y="786.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Abbes Alschakeri Gemeinde e.V.</text>
+      <circle cx="1018.33" cy="974.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1023.33" y="977.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">ATIB Weidenpesch Zentralmoschee</text>
+      <circle cx="1055.64" cy="1080.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1060.64" y="1083.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fatih-Moschee</text>
+      <circle cx="1011.39" cy="1086.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1016.39" y="1089.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">IGMG Regionalverband Köln e.V.</text>
+      <circle cx="1053.95" cy="1135.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1058.95" y="1139.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neue Nippeser Moschee</text>
+      <circle cx="1124.58" cy="1021.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1129.58" y="1024.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bait-un-Nasr Moschee</text>
+      <circle cx="1167.02" cy="1394.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1172.02" y="1398.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Moschee Deutz</text>
+      <circle cx="1063.77" cy="1496.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1068.77" y="1500.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hoca Ahmet Yesevi Moschee</text>
+      <circle cx="1125.27" cy="2357.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1130.27" y="2361.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mimar Sinan Moschee</text>
+      <circle cx="1314.33" cy="295.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1319.33" y="298.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mesxhidi Aksa Moschee</text>
+      <circle cx="1339.83" cy="324.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1344.83" y="327.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mimar Sinan Moschee</text>
+      <circle cx="1361.27" cy="1079.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1366.27" y="1083.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Yunus Emre Moschee</text>
+      <circle cx="1328.7" cy="1156.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1333.7" y="1159.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">El-Furkan Moschee</text>
+      <circle cx="1402.45" cy="1162.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1407.45" y="1166.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alevitisches Gemeindehaus Hacı Bektaş Veli (Cemevi)</text>
+      <circle cx="1402.77" cy="1125.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1407.77" y="1128.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Moschee Ömer-ül Faruk</text>
+      <circle cx="1404.02" cy="1132.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1409.02" y="1135.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sultan Ahmet Moschee</text>
+      <circle cx="1448.64" cy="1115.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1453.64" y="1119.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ehl-i Beyt Moschee - Schiitische Gemeinde</text>
+      <circle cx="1303.7" cy="1414.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1308.7" y="1417.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Taqiyyu'd-Din al-Hilali Moschee</text>
+      <circle cx="1326.83" cy="1335.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1331.83" y="1338.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Eyüp Sultan Moschee</text>
+      <circle cx="1384.08" cy="1303.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1389.08" y="1306.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Moschee Kalk</text>
+      <circle cx="1441.89" cy="1402.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1446.89" y="1406.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Vingster Moschee</text>
+      <circle cx="1435.7" cy="1364.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1440.7" y="1367.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Al-Nur Moschee</text>
+      <circle cx="1460.45" cy="1338.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1465.45" y="1341.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mevlana-Moschee</text>
+      <circle cx="1447.27" cy="2329.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1452.27" y="2333.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Selimiye Moschee Niederkassel</text>
+      <circle cx="1695.89" cy="1871.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1700.89" y="1875.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Mevlana-Moschee</text>
+      <circle cx="1665.7" cy="1834.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1670.7" y="1838.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alevitische Gemeinde Porz (Cemevi)</text>
+      <circle cx="1766.83" cy="1659.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1771.83" y="1662.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Moschee Porz</text>
+      <circle cx="2030.08" cy="948.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2035.08" y="951.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neue Moschee</text>
+    </g>
+    <g id="poi_church__none">
+      <circle cx="1506.89" cy="86.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1511.89" y="90.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Friedhofskapelle</text>
+    </g>
+    <g id="poi_church__place_of_worship">
+      <circle cx="845.64" cy="1491.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="850.64" y="1494.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Evangelische Kapelle</text>
+      <circle cx="899.2" cy="1476.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="904.2" y="1479.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Altar mit Fisch</text>
+      <circle cx="2170.83" cy="748.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2175.83" y="752.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Marienschrein in römischer Wasserleitung</text>
+      <circle cx="2054.77" cy="1953.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2059.77" y="1957.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">T.-K.-Platz</text>
+    </g>
+    <g id="poi_church__sikh">
+      <circle cx="1331.39" cy="1264.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1336.39" y="1268.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sikh-Tempel Sri Dashmesh Singh Sabha</text>
+      <circle cx="1422.33" cy="1347.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1427.33" y="1350.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sikh-Tempel Sri Guru Tegh Bahadur Sahib</text>
+      <circle cx="1484.7" cy="1703.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1489.7" y="1707.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sikh-Tempel Guru Nanak Parkash</text>
+      <circle cx="1651.89" cy="1768.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1656.89" y="1771.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sikh-Tempel Guru Shabad Parkash</text>
+    </g>
+    <g id="poi_church__yes">
+      <circle cx="1872.27" cy="653.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1975.02" cy="1129.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1980.02" y="1132.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle</text>
+    </g>
+  </g>
+</svg>

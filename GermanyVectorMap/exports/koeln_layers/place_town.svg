@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — place_town</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="place_town">
+    <g id="place_town__town">
+      <circle cx="175.02" cy="806.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="180.02" y="809.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pulheim</text>
+      <circle cx="207.95" cy="1623.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="212.95" y="1626.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Frechen</text>
+      <circle cx="606.27" cy="1890.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="611.27" y="1893.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hürth</text>
+      <circle cx="2007.77" cy="485.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2012.77" y="488.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Odenthal</text>
+      <circle cx="2031.52" cy="23.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2036.52" y="26.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Burscheid</text>
+    </g>
+  </g>
+</svg>

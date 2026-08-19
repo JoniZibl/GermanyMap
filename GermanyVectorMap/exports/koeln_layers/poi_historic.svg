@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2269 2358.3" width="2269" height="2358.3">
+  <title>Köln — poi_historic</title>
+  <desc>Map data © OpenStreetMap contributors, ODbL 1.0</desc>
+  <g id="poi_historic">
+    <g id="poi_historic__aqueduct">
+      <circle cx="557.2" cy="1982.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="562.2" y="1985.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Teilstück römische Wasserleitung</text>
+      <circle cx="991.27" cy="1279.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="996.27" y="1283.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Viadukt</text>
+      <circle cx="1085.45" cy="1340.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1090.45" y="1343.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Römisches Aquädukt</text>
+    </g>
+    <g id="poi_historic__bunker">
+      <circle cx="1191.2" cy="514.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1503.64" cy="1139.82" r="3" fill="#8A6F4B" stroke="none"/>
+    </g>
+    <g id="poi_historic__castle_wall">
+      <circle cx="1152.83" cy="1360.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1157.83" y="1364.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Historische Gewölbekeller der ehemaligen Abteil Deutz</text>
+    </g>
+    <g id="poi_historic__church">
+      <circle cx="1059.2" cy="1289.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1064.2" y="1293.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Ursula</text>
+      <circle cx="1107.27" cy="1279.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1112.27" y="1283.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Kunibert</text>
+      <circle cx="1295.08" cy="1754.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1395.2" cy="2041.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1400.2" y="2044.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Remigius</text>
+      <circle cx="1509.7" cy="794.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1514.7" y="797.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Nikolaus</text>
+      <circle cx="2101.77" cy="278.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2106.77" y="281.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Altenberger Dom</text>
+    </g>
+    <g id="poi_historic__city_gate">
+      <circle cx="976.95" cy="1375.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="981.95" y="1379.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hahnentorburg</text>
+      <circle cx="1085.7" cy="1395.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1090.7" y="1398.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dreikönigenpförtchen</text>
+      <circle cx="1074.33" cy="1256.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1079.33" y="1260.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Eigelsteintorburg</text>
+      <circle cx="1084.52" cy="1336.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1089.52" y="1340.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Römisches Nordtor</text>
+      <circle cx="1108.83" cy="1393.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1113.83" y="1397.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zollpforte</text>
+      <circle cx="1133.08" cy="1492.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1138.08" y="1496.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bayenturm</text>
+      <circle cx="1051.95" cy="1488.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1056.95" y="1491.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ulrepforte</text>
+      <circle cx="1088.27" cy="1509.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1093.27" y="1512.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Severinstorburg</text>
+      <circle cx="2192.33" cy="172.7" r="3" fill="#8A6F4B" stroke="none"/>
+    </g>
+    <g id="poi_historic__fort">
+      <circle cx="721.2" cy="825.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="726.2" y="828.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk IIb</text>
+      <circle cx="515.52" cy="1051.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="520.52" y="1055.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort IV</text>
+      <circle cx="593.08" cy="931.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="598.08" y="934.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk IIIb</text>
+      <circle cx="690.64" cy="1576.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="695.64" y="1580.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort VI</text>
+      <circle cx="802.14" cy="772.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="807.14" y="775.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort II</text>
+      <circle cx="953.52" cy="1457.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="958.52" y="1461.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Geographie Rundbau</text>
+      <circle cx="889.08" cy="1753.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="894.08" y="1756.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort VII</text>
+      <circle cx="1075.39" cy="814.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1080.39" y="818.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort I</text>
+      <circle cx="1099.02" cy="1181.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1104.02" y="1185.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort X</text>
+      <circle cx="996.27" cy="1504.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1001.27" y="1508.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort IV</text>
+      <circle cx="1027.52" cy="1515.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1032.52" y="1519.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Innerer-Festungsring-Köln-Fort-IV-Volksgarten-Lünette</text>
+      <circle cx="1221.89" cy="1724.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1226.89" y="1727.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk VIIIb</text>
+      <circle cx="1222.58" cy="1724.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1227.58" y="1727.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kölner Festungsmuseum</text>
+      <circle cx="1482.7" cy="1529.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1487.7" y="1532.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk IX b</text>
+      <circle cx="1450.7" cy="1620.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1455.7" y="1624.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort IX</text>
+      <circle cx="1354.7" cy="1696.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1359.7" y="1699.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk IXa</text>
+      <circle cx="1534.39" cy="1357.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1539.39" y="1361.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fort X</text>
+      <circle cx="1682.2" cy="1270.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1687.2" y="1274.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fliehburg Merheim</text>
+      <circle cx="1509.77" cy="1195.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1514.77" y="1199.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zwischenwerk Xc</text>
+      <circle cx="1534.7" cy="1357.57" r="3" fill="#8A6F4B" stroke="none"/>
+    </g>
+    <g id="poi_historic__heritage">
+      <circle cx="11.02" cy="1157.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="10.45" cy="1157.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="53.45" cy="1212.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="58.45" y="1215.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brauweiler Mühle</text>
+      <circle cx="17.58" cy="1181.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="459.14" cy="2089.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="464.14" y="2092.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Feierabendhaus</text>
+      <circle cx="593.64" cy="786.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="598.64" y="790.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kriegshof</text>
+      <circle cx="732.2" cy="1382.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="737.2" y="1385.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Joseph</text>
+      <circle cx="623.95" cy="1341.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="628.95" y="1345.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Vitalis</text>
+      <circle cx="597.27" cy="1317.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="602.27" y="1321.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">UAA</text>
+      <circle cx="784.64" cy="808.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="789.64" y="812.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kriegerplatz</text>
+      <circle cx="780.39" cy="812.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="785.39" y="816.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Dionysius</text>
+      <circle cx="837.27" cy="783.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="842.27" y="786.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christopherus-Kapelle</text>
+      <circle cx="785.33" cy="814.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="790.33" y="817.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Balsamhof</text>
+      <circle cx="778.02" cy="811.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="783.02" y="815.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pastoralbüro St. Dionysius</text>
+      <circle cx="757.77" cy="849.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="762.77" y="853.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Äthiopisch Orthodoxe Sankt Michaels-Kirche</text>
+      <circle cx="885.27" cy="832.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="890.27" y="835.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Christ König</text>
+      <circle cx="988.83" cy="852.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="993.83" y="856.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Guffanti-Haus</text>
+      <circle cx="991.83" cy="859.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="996.83" y="863.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">SBK Stiftung Dr. Dormagen</text>
+      <circle cx="788.64" cy="834.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="793.02" cy="815.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="867.83" cy="846.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="969.08" cy="844.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="781.77" cy="808.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="782.39" cy="807.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="769.64" cy="821.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="893.45" cy="1386.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="898.45" y="1390.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Museum für Ostasiatische Kunst</text>
+      <circle cx="894.14" cy="1205.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="899.14" y="1208.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Anna</text>
+      <circle cx="861.27" cy="1195.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="866.27" y="1199.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Brandtsplatz</text>
+      <circle cx="993.58" cy="1311.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="998.58" y="1314.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Atrium</text>
+      <circle cx="993.77" cy="1323.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="998.77" y="1327.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rundbau</text>
+      <circle cx="885.83" cy="1241.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="890.83" y="1244.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hochbunker</text>
+      <circle cx="988.52" cy="1306.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="993.52" y="1310.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">UFA-Arthouse Residenz</text>
+      <circle cx="758.7" cy="1281.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="763.7" y="1285.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gaswerk</text>
+      <circle cx="892.64" cy="1204.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="897.64" y="1207.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Anna (Turm)</text>
+      <circle cx="976.58" cy="1319.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="981.58" y="1322.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Victoria-Haus</text>
+      <circle cx="861.33" cy="1217.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="866.33" y="1221.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Herrmuth</text>
+      <circle cx="910.95" cy="1255.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="915.95" y="1259.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Everhardstraße (KGS)</text>
+      <circle cx="867.33" cy="1225.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.95" cy="1196.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="862.52" cy="1188.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.27" cy="1194.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="992.39" cy="1312.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.14" cy="1193.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="872.08" cy="1193.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.52" cy="1196.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="991.77" cy="1378.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="993.2" cy="1378.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="995.2" cy="1350.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.33" cy="1192.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.08" cy="1191.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.14" cy="1250.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.52" cy="1244.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.02" cy="1355.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.27" cy="1354.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="980.77" cy="1357.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.14" cy="1351.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.64" cy="1351.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.7" cy="1353.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.2" cy="1355.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.45" cy="1353.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.77" cy="1352.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="975.39" cy="1371.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="987.33" cy="1308.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.7" cy="1304.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="991.52" cy="1302.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="983.27" cy="1314.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="986.39" cy="1310.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="986.83" cy="1309.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.58" cy="1219.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="980.64" cy="1319.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="980.45" cy="1321.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="979.95" cy="1324.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="879.45" cy="1251.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.14" cy="1250.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.14" cy="1254.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.7" cy="1377.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.83" cy="1264.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.52" cy="1254.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.33" cy="1265.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.08" cy="1378.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="985.14" cy="1377.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.08" cy="1371.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.83" cy="1361.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.95" cy="1362.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="961.2" cy="1344.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="961.58" cy="1342.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="961.7" cy="1341.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="962.2" cy="1335.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="854.64" cy="1233.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="991.14" cy="1355.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="994.02" cy="1356.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="993.52" cy="1356.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="992.52" cy="1356.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="976.45" cy="1372.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="862.39" cy="1210.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.64" cy="1319.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.89" cy="1186.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.2" cy="1192.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.33" cy="1191.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="867.33" cy="1191.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="863.27" cy="1192.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="863.7" cy="1189.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="861.64" cy="1188.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.83" cy="1186.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.02" cy="1186.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.89" cy="1190.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="867.77" cy="1195.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="866.58" cy="1194.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="855.2" cy="1181.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="855.83" cy="1181.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.2" cy="1197.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="860.89" cy="1191.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.89" cy="1190.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="859.2" cy="1189.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.7" cy="1189.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.27" cy="1188.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="879.33" cy="1194.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.14" cy="1194.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="883.39" cy="1196.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="887.77" cy="1199.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.83" cy="1196.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.58" cy="1196.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="885.08" cy="1197.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="860.27" cy="1193.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.33" cy="1202.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.83" cy="1199.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.08" cy="1199.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.39" cy="1199.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="879.64" cy="1198.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.83" cy="1198.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.08" cy="1197.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="885.2" cy="1201.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="884.2" cy="1201.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="883.39" cy="1200.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.64" cy="1200.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="863.08" cy="1208.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.58" cy="1258.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.89" cy="1187.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.45" cy="1186.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.7" cy="1186.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.33" cy="1185.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.77" cy="1184.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.08" cy="1182.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.39" cy="1181.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.77" cy="1181.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="983.02" cy="1342.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="983.02" cy="1342.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.45" cy="1347.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.39" cy="1347.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.89" cy="1344.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.89" cy="1344.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.02" cy="1228.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.45" cy="1229.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.77" cy="1229.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.08" cy="1229.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="867.33" cy="1229.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="866.52" cy="1229.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="865.77" cy="1229.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.45" cy="1228.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.39" cy="1228.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.7" cy="1227.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.02" cy="1228.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.27" cy="1226.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.2" cy="1229.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="974.2" cy="1332.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="976.08" cy="1322.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="976.14" cy="1321.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="982.02" cy="1356.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="981.58" cy="1357.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="852.02" cy="1186.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.14" cy="1235.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.39" cy="1235.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.33" cy="1235.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.83" cy="1235.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.39" cy="1235.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.33" cy="1235.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.83" cy="1235.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.77" cy="1235.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="879.89" cy="1234.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="884.02" cy="1233.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="976.95" cy="1371.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="995.2" cy="1324.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="984.64" cy="1312.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="989.14" cy="1305.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="992.14" cy="1313.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="993.33" cy="1312.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="995.14" cy="1309.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="994.83" cy="1336.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="994.39" cy="1336.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="865.27" cy="1203.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="853.39" cy="1187.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="852.7" cy="1186.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.27" cy="1206.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="865.2" cy="1205.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.95" cy="1199.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="856.95" cy="1202.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="866.08" cy="1204.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="866.52" cy="1203.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.02" cy="1198.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.14" cy="1200.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.45" cy="1202.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="865.2" cy="1200.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="860.52" cy="1202.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="855.64" cy="1195.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="867.95" cy="1197.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="863.27" cy="1201.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="860.7" cy="1204.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="857.02" cy="1185.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="857.7" cy="1185.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="857.27" cy="1190.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="857.89" cy="1188.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="854.08" cy="1188.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.95" cy="1198.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="854.77" cy="1194.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="856.7" cy="1198.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="828.33" cy="1285.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="833.45" cy="1271.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="858.39" cy="1212.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="862.14" cy="1211.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="862.89" cy="1209.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="860.83" cy="1207.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.33" cy="1225.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.7" cy="1225.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.2" cy="1224.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.77" cy="1224.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="863.95" cy="1228.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="872.27" cy="1227.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.95" cy="1229.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="865.45" cy="1222.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="872.64" cy="1227.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="864.77" cy="1227.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="868.52" cy="1234.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.33" cy="1234.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.02" cy="1233.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.58" cy="1233.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.2" cy="1232.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.45" cy="1232.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.95" cy="1232.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.64" cy="1231.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="844.64" cy="1244.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="845.39" cy="1243.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.89" cy="1298.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.52" cy="1298.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.2" cy="1299.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.39" cy="1300.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.58" cy="1297.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.89" cy="1296.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.02" cy="1296.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="887.27" cy="1290.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.89" cy="1290.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.52" cy="1291.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.27" cy="1292.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="888.39" cy="1285.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="887.89" cy="1285.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.7" cy="1282.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.58" cy="1280.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="887.95" cy="1288.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.58" cy="1267.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.89" cy="1266.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.14" cy="1273.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.58" cy="1269.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.95" cy="1268.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.02" cy="1265.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.39" cy="1265.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.64" cy="1264.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.33" cy="1261.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.7" cy="1260.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.95" cy="1260.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.2" cy="1259.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.89" cy="1258.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.02" cy="1256.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.39" cy="1255.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.27" cy="1254.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.14" cy="1249.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.64" cy="1255.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="882.95" cy="1247.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="884.7" cy="1245.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="885.39" cy="1244.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.64" cy="1243.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="897.58" cy="1256.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="898.64" cy="1257.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="898.39" cy="1257.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="897.89" cy="1258.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="896.95" cy="1259.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="893.14" cy="1263.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="900.52" cy="1259.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="902.39" cy="1260.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.83" cy="1263.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="899.77" cy="1259.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="899.27" cy="1260.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="898.83" cy="1260.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="898.45" cy="1261.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="901.89" cy="1262.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="902.33" cy="1261.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="903.95" cy="1264.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.39" cy="1263.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.14" cy="1249.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="903.77" cy="1250.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="903.33" cy="1250.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="902.39" cy="1251.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="901.89" cy="1252.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="900.45" cy="1254.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="900.08" cy="1255.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.27" cy="1198.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.77" cy="1197.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="875.14" cy="1197.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.89" cy="1192.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.45" cy="1191.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.89" cy="1191.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="879.39" cy="1190.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="888.95" cy="1199.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="876.45" cy="1196.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="878.52" cy="1194.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="877.2" cy="1193.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="873.52" cy="1191.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="872.14" cy="1190.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="871.39" cy="1189.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="870.52" cy="1189.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="869.27" cy="1188.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="874.83" cy="1179.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="881.7" cy="1221.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="885.7" cy="1214.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.02" cy="1214.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.45" cy="1213.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="887.58" cy="1211.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="880.89" cy="1222.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.33" cy="1253.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.08" cy="1253.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="903.45" cy="1253.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="903.08" cy="1254.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="902.27" cy="1255.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="902.08" cy="1256.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="901.52" cy="1256.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="905.83" cy="1250.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="905.39" cy="1251.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.95" cy="1251.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="904.7" cy="1252.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="986.39" cy="1378.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="886.27" cy="1607.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="891.27" y="1611.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Bruno</text>
+      <circle cx="920.83" cy="1480.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="918.45" cy="1471.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="921.45" cy="1481.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="917.08" cy="1470.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1084.77" cy="1354.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1089.77" y="1358.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rathaus (Spanischer Bau)</text>
+      <circle cx="1145.7" cy="1350.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1150.7" y="1353.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">LVR-Landeshaus</text>
+      <circle cx="1047.83" cy="1362.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1052.83" y="1365.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Offenbachplatz</text>
+      <circle cx="1077.27" cy="1366.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1082.27" y="1369.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Neuerburg</text>
+      <circle cx="1157.7" cy="1312.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1162.7" y="1316.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rheinhallen</text>
+      <circle cx="1073.7" cy="1322.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1078.7" y="1326.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Deichmannhaus</text>
+      <circle cx="1060.45" cy="1344.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1065.45" y="1348.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Museum für Angewandte Kunst</text>
+      <circle cx="1067.7" cy="1337.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1072.7" y="1341.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Funkhaus Wallrafplatz</text>
+      <circle cx="1106.64" cy="1306.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1111.64" y="1309.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Neue Direktion Köln</text>
+      <circle cx="1026.83" cy="1358.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1031.83" y="1361.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Galeria</text>
+      <circle cx="1056.14" cy="1424.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1061.14" y="1428.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Finanzamt Köln-Mitte</text>
+      <circle cx="1048.08" cy="1415.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1053.08" y="1418.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Unterwerk Mitte</text>
+      <circle cx="1038.64" cy="1366.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1043.64" y="1369.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schauspielhaus Köln</text>
+      <circle cx="1042.58" cy="1360.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1047.58" y="1364.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Oper der Stadt Köln</text>
+      <circle cx="1035.95" cy="1382.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1040.95" y="1385.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Belgisches Haus</text>
+      <circle cx="1076.33" cy="1338.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1081.33" y="1342.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Dom - Hotel</text>
+      <circle cx="1042.33" cy="1336.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1047.33" y="1339.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Justizgebäude am Appellhofplatz</text>
+      <circle cx="1044.33" cy="1394.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1049.33" y="1398.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Peter</text>
+      <circle cx="1061.95" cy="1348.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1066.95" y="1351.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Minoritenkirche</text>
+      <circle cx="1101.7" cy="1355.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1106.7" y="1359.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Groß Sankt Martin</text>
+      <circle cx="1062.52" cy="1324.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1067.52" y="1328.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St.Andreas</text>
+      <circle cx="1012.89" cy="1370.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1017.89" y="1374.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kreissparkasse Köln</text>
+      <circle cx="1072.89" cy="1314.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1077.89" y="1317.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Mariä Himmelfahrt</text>
+      <circle cx="1070.27" cy="1324.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1075.27" y="1327.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Fürstenhof</text>
+      <circle cx="1080.2" cy="1353.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1085.2" y="1357.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Senats Hotel</text>
+      <circle cx="1107.27" cy="1297.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1112.27" y="1301.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">RheinPalais</text>
+      <circle cx="1035.27" cy="1344.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1040.27" y="1347.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria in der Kupfergasse</text>
+      <circle cx="1034.33" cy="1360.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1039.33" y="1363.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Industriehof</text>
+      <circle cx="1047.02" cy="1366.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1052.02" y="1370.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Außenspielstätte am Offenbachplatz</text>
+      <circle cx="1087.14" cy="1383.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1092.14" y="1387.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Klein St. Martin</text>
+      <circle cx="1054.7" cy="1356.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1059.7" y="1360.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kolumbahaus</text>
+      <circle cx="1043.27" cy="1313.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1048.27" y="1317.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hl. Konstantin u. Helena</text>
+      <circle cx="1073.89" cy="1417.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1078.89" y="1420.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Georg</text>
+      <circle cx="1032.02" cy="1380.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1037.02" y="1383.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Fahrbach</text>
+      <circle cx="1106.64" cy="1286.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1111.64" y="1290.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Buchholz</text>
+      <circle cx="1119.52" cy="1262.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1124.52" y="1265.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Ehemaliges Verwaltungsgebäude Rheinbraun</text>
+      <circle cx="1150.08" cy="1301.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1155.08" y="1304.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Messeturm</text>
+      <circle cx="1024.33" cy="1386.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1029.33" y="1390.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gesundheitsamt Köln</text>
+      <circle cx="1060.14" cy="1373.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1065.14" y="1376.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Schierenberg</text>
+      <circle cx="1113.2" cy="1409.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1118.2" y="1413.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Malakoffturm</text>
+      <circle cx="1107.45" cy="1407.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1112.45" y="1410.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Maria Lyskirchen</text>
+      <circle cx="1034.77" cy="1333.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1039.77" y="1337.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hotel Europäischer Hof</text>
+      <circle cx="1001.77" cy="1311.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1006.77" y="1314.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">The Qvest</text>
+      <circle cx="1000.64" cy="1307.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1005.64" y="1310.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Carentinus Garten</text>
+      <circle cx="996.7" cy="1306.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1001.7" y="1310.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Lambertina Höfe</text>
+      <circle cx="999.64" cy="1315.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1004.64" y="1319.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus von Werth</text>
+      <circle cx="995.52" cy="1315.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1000.52" y="1318.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gerling-Hochhaus</text>
+      <circle cx="1010.08" cy="1312.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1015.08" y="1316.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Gereon</text>
+      <circle cx="1092.45" cy="1367.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1097.45" y="1371.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gilden im Zims</text>
+      <circle cx="1090.2" cy="1354.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1095.2" y="1358.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Stein</text>
+      <circle cx="1043.45" cy="1420.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1048.45" y="1423.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Wasserturm Hotel Cologne, Curio Collection by Hilton</text>
+      <circle cx="1080.2" cy="1363.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1085.2" y="1366.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Duftmuseum im Farina-Haus</text>
+      <circle cx="1104.33" cy="1372.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1109.33" y="1375.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Breslauer Sammlung</text>
+      <circle cx="998.77" cy="1378.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1003.77" y="1382.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Die Brücke</text>
+      <circle cx="1021.83" cy="1369.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1026.83" y="1372.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Richmodis-Haus</text>
+      <circle cx="1000.45" cy="1313.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1005.45" y="1317.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kapelle St. Joseph</text>
+      <circle cx="1048.7" cy="1360.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1053.7" y="1364.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Opernbrunnen</text>
+      <circle cx="1101.95" cy="1286.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1106.95" y="1290.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Casa Colonia</text>
+      <circle cx="1082.2" cy="1320.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1087.2" y="1323.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Empfangshalle</text>
+      <circle cx="1108.77" cy="1407.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1113.77" y="1411.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Küsterhaus und Sakristei</text>
+      <circle cx="1004.83" cy="1373.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1009.83" y="1377.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Aposteln</text>
+      <circle cx="1034.45" cy="1337.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1039.45" y="1341.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">EL-DE-Haus</text>
+      <circle cx="1053.7" cy="1361.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1058.7" y="1365.32" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Haus Deutscher Herold</text>
+      <circle cx="1095.02" cy="1359.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1100.02" y="1363.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Em Hanen</text>
+      <circle cx="1095.02" cy="1360.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1100.02" y="1363.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Gaffel-Haus</text>
+      <circle cx="1105.58" cy="1353.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1110.58" y="1356.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stapelhaus</text>
+      <circle cx="1047.58" cy="1396.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1052.58" y="1399.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Karl-Rahner-Akademie</text>
+      <circle cx="1094.83" cy="1396.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1099.83" y="1400.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Overstolzenhaus</text>
+      <circle cx="1067.89" cy="1404.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1072.89" y="1407.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hochpfortenhaus</text>
+      <circle cx="1092.39" cy="1355.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1097.39" y="1359.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Jan von Werth-Brunnen</text>
+      <circle cx="1071.64" cy="1414.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1076.64" y="1417.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hermann-Joseph Brunnen</text>
+      <circle cx="1071.02" cy="1322.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1076.02" y="1326.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Excelsior Hotel Ernst</text>
+      <circle cx="1074.14" cy="1336.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1079.14" y="1340.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Blau-Gold-Haus</text>
+      <circle cx="1036.52" cy="1330.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1041.52" y="1333.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Zeughaus</text>
+      <circle cx="1022.83" cy="1360.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1027.83" y="1364.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Olivandenhof</text>
+      <circle cx="1092.02" cy="1359.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1097.02" y="1363.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Steinerne Pumpe</text>
+      <circle cx="1064.7" cy="1325.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1060.08" cy="1326.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1002.77" cy="1376.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1009.2" cy="1378.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1037.39" cy="1383.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1009.27" cy="1376.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1030.2" cy="1363.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1035.52" cy="1346.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1091.27" cy="1384.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1069.58" cy="1360.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1054.14" cy="1359.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1052.2" cy="1365.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1006.77" cy="1370.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1030.7" cy="1378.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1030.7" cy="1377.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1032.14" cy="1382.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.02" cy="1383.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.14" cy="1384.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1092.95" cy="1383.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1093.14" cy="1384.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1122.14" cy="1258.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1122.08" cy="1259.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1124.52" cy="1253.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1123.83" cy="1255.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1068.27" cy="1327.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1066.02" cy="1328.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1066.89" cy="1328.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1067.64" cy="1327.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1064.95" cy="1328.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1064.08" cy="1328.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1063.27" cy="1328.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1062.02" cy="1328.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1059.45" cy="1329.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1058.52" cy="1329.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1057.52" cy="1329.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1056.58" cy="1330.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1055.77" cy="1330.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1069.33" cy="1340.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1049.83" cy="1356.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1201.77" cy="1379.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="995.7" cy="1308.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1030.45" cy="1314.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1086.89" cy="1364.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1092.64" cy="1370.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1092.39" cy="1369.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.39" cy="1353.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.33" cy="1354.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1099.39" cy="1365.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1095.02" cy="1361.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="998.64" cy="1375.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.7" cy="1363.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.02" cy="1363.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1071.95" cy="1358.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1074.08" cy="1405.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1009.27" cy="1332.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1061.52" cy="1326.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1013.27" cy="1307.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1062.95" cy="1351.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1040.52" cy="1298.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1041.02" cy="1298.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1008.08" cy="1359.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1008.02" cy="1360.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1070.33" cy="1337.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1006.58" cy="1360.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1031.45" cy="1331.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1092.33" cy="1384.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1031.7" cy="1314.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1210.64" cy="1410.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1004.02" cy="1360.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1003.02" cy="1353.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1082.2" cy="1412.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1002.77" cy="1351.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1003.2" cy="1353.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1101.89" cy="1272.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1015.83" cy="1372.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1051.33" cy="1412.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1113.39" cy="1264.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1093.52" cy="1222.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1038.14" cy="1414.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1096.39" cy="1396.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1097.89" cy="1396.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1099.52" cy="1399.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1117.58" cy="1412.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1069.83" cy="1361.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1004.45" cy="1320.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1004.45" cy="1333.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1007.45" cy="1333.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1191.39" cy="1367.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1191.58" cy="1366.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1191.77" cy="1364.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1187.14" cy="1393.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1189.52" cy="1393.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1187.08" cy="1394.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1004.2" cy="1378.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1002.7" cy="1378.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1083.45" cy="1290.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1182.64" cy="1375.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1188.2" cy="1370.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1189.2" cy="1366.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1186.14" cy="1391.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1181.2" cy="1391.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1185.77" cy="1389.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1187.27" cy="1391.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1188.58" cy="1391.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1193.39" cy="1388.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1188.33" cy="1393.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1193.27" cy="1389.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1189.89" cy="1390.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1191.27" cy="1389.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1191.08" cy="1393.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1197.08" cy="1404.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1090.27" cy="1354.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1083.02" cy="1349.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1014.02" cy="1308.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1054.77" cy="1330.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="996.33" cy="1336.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="998.58" cy="1337.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1009.39" cy="1352.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1008.58" cy="1352.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1007.58" cy="1354.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1006.95" cy="1354.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1007.27" cy="1353.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1007.39" cy="1352.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1035.2" cy="1339.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1006.64" cy="1359.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1055.58" cy="1350.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1062.14" cy="1361.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1075.33" cy="1344.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1088.45" cy="1384.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1087.52" cy="1385.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1095.33" cy="1357.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1095.08" cy="1356.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1095.39" cy="1358.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1094.64" cy="1354.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1006.33" cy="1378.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1003.33" cy="1370.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="998.33" cy="1373.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1022.89" cy="1384.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1040.89" cy="1395.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1047.58" cy="1394.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1060.64" cy="1368.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1102.52" cy="1372.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1103.39" cy="1372.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1072.7" cy="1389.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1071.14" cy="1394.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1071.45" cy="1389.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1071.27" cy="1395.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1001.08" cy="1347.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1106.58" cy="1406.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1145.39" cy="1523.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1150.39" y="1527.26" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Silo 23</text>
+      <circle cx="1168.83" cy="1455.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1173.83" y="1458.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Steuerhaus Drehbrücke</text>
+      <circle cx="1042.08" cy="1502.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1047.08" y="1505.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Paul</text>
+      <circle cx="1152.39" cy="1540.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1157.39" y="1544.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hafenkran 35</text>
+      <circle cx="1146.33" cy="1521.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1151.33" y="1525.01" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hafenkran 31a</text>
+      <circle cx="1151.64" cy="1538.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1156.64" y="1542.45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hafenkran 34</text>
+      <circle cx="1144.14" cy="1519.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1028.14" cy="1542.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1135.39" cy="1517.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1134.27" cy="1512.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1134.7" cy="1513.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1134.77" cy="1514.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1135.2" cy="1515.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1113.89" cy="1507.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1132.45" cy="1512.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1144.89" cy="1521.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1141.2" cy="1509.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1141.77" cy="1511.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1142.33" cy="1513.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1142.95" cy="1515.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1143.58" cy="1517.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1368.95" cy="1361.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1373.95" y="1365.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Stadtgarten Kalk</text>
+      <circle cx="1309.45" cy="1358.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1314.45" y="1362.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Historischer Wasserturm</text>
+      <circle cx="1407.08" cy="1381.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1412.08" y="1385.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alter Kalker Friedhof</text>
+      <circle cx="1345.77" cy="1330.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1350.77" y="1333.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Joseph</text>
+      <circle cx="1381.33" cy="1353.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1386.33" y="1357.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Sankt Marien</text>
+      <circle cx="1321.89" cy="1327.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1326.89" y="1331.2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">PVM Diecasting Machines</text>
+      <circle cx="1377.77" cy="1353.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1382.77" y="1356.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Kalker Kapelle</text>
+      <circle cx="1384.33" cy="1351.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1389.33" y="1354.95" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Pfarrhaus St. Marien</text>
+      <circle cx="1252.58" cy="1382.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1257.58" y="1385.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">TH Köln - Betzdorfer Straße</text>
+      <circle cx="1385.27" cy="1309.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1390.27" y="1313.14" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Nikolaus-Goss-Haus</text>
+      <circle cx="1335.45" cy="1365.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1278.14" cy="1374.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1397.39" cy="1370.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1390.14" cy="1183.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1370.08" cy="1368.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1376.08" cy="1391.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1361.83" cy="1385.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1375.89" cy="1385.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1365.58" cy="1367.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.39" cy="1328.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.14" cy="1326.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.27" cy="1327.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.58" cy="1328.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1386.14" cy="1332.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1386.33" cy="1333.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1386.45" cy="1334.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1386.64" cy="1335.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1360.7" cy="1339.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1359.27" cy="1340.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1323.27" cy="1366.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1324.14" cy="1366.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1325.58" cy="1366.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1322.02" cy="1368.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1325.2" cy="1367.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1324.45" cy="1366.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1387.39" cy="1340.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1386.52" cy="1337.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1388.64" cy="1334.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1387.52" cy="1343.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1388.52" cy="1333.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1387.7" cy="1328.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1383.27" cy="1314.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1383.08" cy="1313.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.02" cy="1312.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1338.27" cy="1328.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1338.89" cy="1328.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.45" cy="1328.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1337.7" cy="1328.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1342.27" cy="1329.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1331.95" cy="1365.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1332.83" cy="1365.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1333.52" cy="1365.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1334.77" cy="1365.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1336.2" cy="1364.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1337.14" cy="1364.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1359.89" cy="1339.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1361.83" cy="1339.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1359.14" cy="1339.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1389.83" cy="1351.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1324.02" cy="1369.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1323.39" cy="1369.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1324.64" cy="1369.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1325.89" cy="1370.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1322.7" cy="1368.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1325.27" cy="1370.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1327.2" cy="1369.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1316.14" cy="1369.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1327.08" cy="1368.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1313.83" cy="1381.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1314.83" cy="1376.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1315.45" cy="1374.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1315.14" cy="1376.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1314.27" cy="1379.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1314.33" cy="1375.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1316.14" cy="1370.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1314.83" cy="1377.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1279.02" cy="1374.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1278.89" cy="1376.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1335.08" cy="1317.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.08" cy="1376.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1321.58" cy="1372.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1317.02" cy="1377.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1325.83" cy="1372.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.02" cy="1377.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1321.64" cy="1373.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1326.45" cy="1373.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.2" cy="1378.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1321.77" cy="1374.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1316.64" cy="1378.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1327.08" cy="1373.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.27" cy="1378.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1328.39" cy="1374.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1321.83" cy="1375.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1316.45" cy="1379.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.33" cy="1379.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1322.33" cy="1370.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1316.08" cy="1380.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1318.83" cy="1373.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1317.77" cy="1374.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1322.95" cy="1371.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1318.02" cy="1373.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1317.58" cy="1375.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1323.64" cy="1371.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1319.83" cy="1375.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1324.33" cy="1371.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1320.02" cy="1375.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1321.52" cy="1372.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1317.2" cy="1376.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1322.39" cy="1312.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.33" cy="1312.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1340.14" cy="1315.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.08" cy="1312.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1337.08" cy="1312.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1340.83" cy="1317.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1344.7" cy="1326.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.89" cy="1314.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1340.39" cy="1316.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.77" cy="1314.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1336.83" cy="1311.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1339.52" cy="1313.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1338.77" cy="1311.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1336.45" cy="1310.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1349.58" cy="1326.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1384.2" cy="1335.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1396.83" cy="1336.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1395.95" cy="1343.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1395.27" cy="1340.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1384.08" cy="1337.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1390.02" cy="1337.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1393.58" cy="1336.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1384.64" cy="1337.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1391.45" cy="1335.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.33" cy="1337.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1383.33" cy="1338.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1394.95" cy="1337.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1395.52" cy="1342.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.02" cy="1335.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1395.27" cy="1341.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1364.52" cy="1295.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1340.14" cy="1298.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1375.02" cy="1291.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1375.64" cy="1293.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1375.7" cy="1290.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1363.64" cy="1296.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1340.45" cy="1298.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1382.89" cy="1288.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1385.7" cy="1286.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1387.14" cy="1286.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1384.27" cy="1287.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1388.33" cy="1285.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1298.14" cy="1546.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1781.02" cy="1565.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1786.02" y="1568.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Durchhäuser Hof</text>
+      <circle cx="1790.83" cy="1595.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1815.7" cy="2111.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1820.7" y="2115.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Eltzhof</text>
+      <circle cx="1812.2" cy="2100.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1817.2" y="2103.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Schloss Wahn</text>
+      <circle cx="2047.89" cy="2351.39" r="3" fill="#8A6F4B" stroke="none"/>
+    </g>
+    <g id="poi_historic__manor">
+    </g>
+    <g id="poi_historic__monastery">
+      <circle cx="1087.2" cy="1645.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1092.2" y="1648.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Benediktinerinnenkloster</text>
+      <circle cx="1398.2" cy="1371.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1403.2" y="1374.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Klarissenkloster</text>
+    </g>
+    <g id="poi_historic__tower">
+      <circle cx="441.7" cy="891.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="446.7" y="894.51" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Aussichtsturm</text>
+      <circle cx="1088.14" cy="1357.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1093.14" y="1360.7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Rathausturm</text>
+      <circle cx="1020.64" cy="1371.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1025.64" y="1374.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Richmodisturm</text>
+      <circle cx="1087.89" cy="1357.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1052.45" cy="1488.7" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1510.08" cy="2321.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1515.08" y="2324.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Alter Turm</text>
+    </g>
+    <g id="poi_historic__wayside_shrine">
+      <circle cx="162.89" cy="824.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="160.2" cy="710.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="49.02" cy="1127.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="9.45" cy="1157.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="102.77" cy="982.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="54.77" cy="1009.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="103.64" cy="962.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="68.02" cy="957.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="67.27" cy="931.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="451.14" cy="388.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="407.2" cy="365.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="426.27" cy="361.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="467.64" cy="651.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="253.95" cy="574.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="468.27" cy="652.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="481.89" cy="714.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="293.39" cy="1134.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="321.7" cy="1101.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="353.39" cy="1106.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="337.14" cy="1141.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="314.27" cy="1120.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="344.02" cy="1086.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="335.83" cy="1116.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="413.2" cy="1090.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="467.45" cy="1533.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="269.45" cy="1728.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="300.95" cy="1687.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="395.45" cy="1945.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="505.39" cy="647.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="493.33" cy="627.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="514.14" cy="659.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="564.52" cy="728.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="499.2" cy="664.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="533.02" cy="1028.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="538.02" y="1032.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Hubertushäuschen</text>
+      <circle cx="522.02" cy="1161.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="603.95" cy="1361.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="608.95" y="1364.89" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bildstock für den Hl. Wendelinus</text>
+      <circle cx="723.58" cy="1476.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="732.14" cy="2315.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="737.14" y="2318.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Station X</text>
+      <circle cx="897.33" cy="274.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="766.08" cy="464.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="824.89" cy="729.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="915.83" cy="1017.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="920.83" y="1020.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bilderstöckchen</text>
+      <circle cx="838.89" cy="1371.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="743.58" cy="1552.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="755.2" cy="1759.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="760.2" y="1763.39" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Heilige Anna</text>
+      <circle cx="1127.64" cy="23.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1082.14" cy="78.45" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1183.2" cy="2347.01" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1007.33" cy="2333.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1335.14" cy="1286.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1497.27" cy="1191.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1268.14" cy="1737.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1273.14" y="1740.76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Maternus</text>
+      <circle cx="1450.52" cy="2352.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1544.27" cy="872.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1755.83" cy="1151.26" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1711.77" cy="1240.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1716.77" y="1243.57" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Georg im Feld</text>
+      <circle cx="1517.45" cy="1241.57" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1522.45" y="1245.07" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">2. Station der Schmerzen Mariens - Flucht nach Ägypten</text>
+      <circle cx="1615.64" cy="1260.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1560.33" cy="1240.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1561.45" cy="1267.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1720.08" cy="1472.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1734.2" cy="2294.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="1739.2" y="2297.82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">Bröhls Kreuz</text>
+      <circle cx="1728.95" cy="2284.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1774.58" cy="225.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1821.64" cy="1278.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1766.77" cy="1291.76" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1812.14" cy="1526.82" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1810.45" cy="1522.95" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1809.77" cy="1525.64" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1806.64" cy="1524.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1763.83" cy="1549.07" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1776.52" cy="1495.89" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1785.83" cy="1801.51" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1794.45" cy="1837.39" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1778.7" cy="2000.32" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="1992.83" cy="2355.2" r="3" fill="#8A6F4B" stroke="none"/>
+      <circle cx="2139.27" cy="439.14" r="3" fill="#8A6F4B" stroke="none"/>
+      <text x="2144.27" y="442.64" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#4A4438" stroke="none">St. Hubertus</text>
+    </g>
+  </g>
+</svg>
