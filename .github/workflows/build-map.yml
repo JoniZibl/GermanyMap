@@ -1,0 +1,141 @@
+# Builds the vector map on a GitHub runner, which has access to the Geofabrik
+# download servers. Produces the tileset, the statistics report and SVG exports
+# as downloadable artifacts.
+#
+# Run it from the Actions tab: "Build vector map" -> Run workflow -> pick a region.
+name: Build vector map
+
+on:
+  workflow_dispatch:
+    inputs:
+      region:
+        description: "Region from config/regions.yml"
+        type: choice
+        default: koeln_regbez
+        options: [koeln_regbez, nrw, koeln, leverkusen, germany]
+      maxzoom:
+        description: "Deepest tile zoom (14 = default, 15 = ~3x larger)"
+        type: string
+        default: "14"
+      upload_tiles:
+        description: "Upload the .mbtiles/.pmtiles as an artifact (can be large)"
+        type: boolean
+        default: true
+  push:
+    paths:
+      - ".github/workflows/build-map.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    defaults:
+      run:
+        working-directory: GermanyVectorMap
+    env:
+      REGION: ${{ github.event.inputs.region || 'koeln_regbez' }}
+      MAXZOOM: ${{ github.event.inputs.maxzoom || '14' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Free up disk space
+        run: |
+          echo "before:"; df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
+                      /usr/local/share/boost /usr/share/swift "$AGENT_TOOLSDIRECTORY" || true
+          sudo apt-get clean || true
+          echo "after:"; df -h / | tail -1
+        working-directory: .
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache the Planetiler jar
+        uses: actions/cache@v4
+        with:
+          path: GermanyVectorMap/tools/planetiler.jar
+          key: planetiler-0.10.2
+
+      - name: Set up the toolchain
+        run: ./scripts/setup.sh
+
+      - name: Download the OSM extract
+        run: ./scripts/fetch_data.sh "$REGION"
+
+      - name: Build the map
+        run: |
+          ./scripts/build_map.sh --region "$REGION" --name "${REGION}_game_map" \
+            -- "--maxzoom=$MAXZOOM" | tee build.log
+
+      - name: Export SVG sections for Figma
+        run: |
+          set -x
+          python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+            --region "$REGION" --palette config/svg_palette.json \
+            --out "exports/${REGION}_overview.svg"
+          # a city-level cut, when the region covers it
+          if [ "$REGION" = "koeln_regbez" ] || [ "$REGION" = "nrw" ] || [ "$REGION" = "germany" ]; then
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+              --region koeln --palette config/svg_palette.json --out exports/koeln_test.svg
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+              --region leverkusen --palette config/svg_palette.json --out exports/leverkusen_test.svg
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+              --region koeln --split --group-by-class --palette config/svg_palette.json \
+              --out exports/koeln_layers/
+          fi
+          if [ "$REGION" = "germany" ]; then
+            python3 scripts/export_svg.py --tiles output/germany_game_map.mbtiles \
+              --region germany --zoom 6 --palette config/svg_palette.json \
+              --out exports/germany_overview.svg
+            python3 scripts/export_svg.py --tiles output/germany_game_map.mbtiles \
+              --region nrw --palette config/svg_palette.json --out exports/nrw.svg
+          fi
+
+      - name: Write the report to the job summary
+        if: always()
+        run: |
+          {
+            echo "## Build report — \`$REGION\` (maxzoom $MAXZOOM)"
+            echo
+            echo '```'
+            sed -n '/tileset report/,/^=\{20,\}$/p' build.log 2>/dev/null | tail -120 \
+              || echo "(no report — the build did not get that far)"
+            echo '```'
+            echo
+            echo "### Files"
+            echo '```'
+            ls -lh output/ exports/ 2>/dev/null | sed 's/^/  /'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload the report and SVG exports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: report-and-svg-${{ github.event.inputs.region || 'koeln_regbez' }}
+          path: |
+            GermanyVectorMap/exports/**
+            GermanyVectorMap/output/*.stats.json
+            GermanyVectorMap/build.log
+          if-no-files-found: warn
+
+      - name: Upload the tileset
+        if: ${{ github.event.inputs.upload_tiles != 'false' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: tileset-${{ github.event.inputs.region || 'koeln_regbez' }}
+          path: |
+            GermanyVectorMap/output/*.mbtiles
+            GermanyVectorMap/output/*.pmtiles
+          compression-level: 0
+          if-no-files-found: warn
