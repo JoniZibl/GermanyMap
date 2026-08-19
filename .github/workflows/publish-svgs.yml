@@ -17,6 +17,14 @@ on:
         required: true
         default: report-and-svg-koeln_regbez
         type: string
+      copy_svgs:
+        description: "Also copy the SVGs into exports/ (off = report only)"
+        type: boolean
+        default: true
+      report_suffix:
+        description: "Suffix for the stats file, e.g. -slim (avoids overwriting)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -39,6 +47,7 @@ jobs:
           path: incoming
 
       - name: Copy the SVGs into exports/
+        if: ${{ inputs.copy_svgs }}
         run: |
           mkdir -p GermanyVectorMap/exports
           if [ ! -d incoming/exports ]; then
@@ -59,7 +68,8 @@ jobs:
           mkdir -p GermanyVectorMap/docs/reports
           for f in incoming/output/*.stats.json; do
             [ -e "$f" ] || continue
-            cp -v "$f" "GermanyVectorMap/docs/reports/$(basename "$f")"
+            base=$(basename "$f" .stats.json)
+            cp -v "$f" "GermanyVectorMap/docs/reports/${base}${{ inputs.report_suffix }}.stats.json"
           done
 
       - name: Commit and push
