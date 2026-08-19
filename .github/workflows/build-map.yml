@@ -29,7 +29,16 @@ on:
         description: "Layer preset"
         type: choice
         default: config/layers.yml
-        options: [config/layers.yml, config/layers.slim.yml]
+        options: [config/layers.yml, config/layers.slim.yml, config/layers.mobile.yml]
+      zoom_config:
+        description: "Zoom/simplification preset"
+        type: choice
+        default: config/zoom_levels.yml
+        options: [config/zoom_levels.yml, config/zoom_levels.mobile.yml]
+      name_suffix:
+        description: "Suffix for the output name, e.g. -mobile-z12"
+        type: string
+        default: ""
   push:
     paths:
       - ".github/workflows/build-map.yml"
@@ -48,6 +57,8 @@ jobs:
       REGION: ${{ github.event.inputs.region || 'koeln_regbez' }}
       MAXZOOM: ${{ github.event.inputs.maxzoom || '14' }}
       LAYERS_CONFIG: ${{ github.event.inputs.layers_config || 'config/layers.yml' }}
+      ZOOM_CONFIG: ${{ github.event.inputs.zoom_config || 'config/zoom_levels.yml' }}
+      NAME_SUFFIX: ${{ github.event.inputs.name_suffix || '' }}
 
     steps:
       - uses: actions/checkout@v4
@@ -84,30 +95,31 @@ jobs:
 
       - name: Build the map
         run: |
-          ./scripts/build_map.sh --region "$REGION" --name "${REGION}_game_map" \
-            --layers-config "$LAYERS_CONFIG" -- "--maxzoom=$MAXZOOM" | tee build.log
+          ./scripts/build_map.sh --region "$REGION" --name "${REGION}_game_map${NAME_SUFFIX}" \
+            --layers-config "$LAYERS_CONFIG" --zoom-config "$ZOOM_CONFIG" \
+            -- "--maxzoom=$MAXZOOM" | tee build.log
 
       - name: Export SVG sections for Figma
         run: |
           set -x
-          python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+          python3 scripts/export_svg.py --tiles "output/${REGION}_game_map${NAME_SUFFIX}.mbtiles" \
             --region "$REGION" --palette config/svg_palette.json \
-            --out "exports/${REGION}_overview.svg"
+            --out "exports/${REGION}${NAME_SUFFIX}_overview.svg"
           # a city-level cut, when the region covers it
           if [ "$REGION" = "koeln_regbez" ] || [ "$REGION" = "nrw" ] || [ "$REGION" = "germany" ]; then
-            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map${NAME_SUFFIX}.mbtiles" \
               --region koeln --palette config/svg_palette.json --out exports/koeln_test.svg
-            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map${NAME_SUFFIX}.mbtiles" \
               --region leverkusen --palette config/svg_palette.json --out exports/leverkusen_test.svg
-            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map.mbtiles" \
+            python3 scripts/export_svg.py --tiles "output/${REGION}_game_map${NAME_SUFFIX}.mbtiles" \
               --region koeln --split --group-by-class --palette config/svg_palette.json \
               --out exports/koeln_layers/
           fi
           if [ "$REGION" = "germany" ]; then
-            python3 scripts/export_svg.py --tiles output/germany_game_map.mbtiles \
+            python3 scripts/export_svg.py --tiles output/germany_game_map${NAME_SUFFIX}.mbtiles \
               --region germany --zoom 6 --palette config/svg_palette.json \
               --out exports/germany_overview.svg
-            python3 scripts/export_svg.py --tiles output/germany_game_map.mbtiles \
+            python3 scripts/export_svg.py --tiles output/germany_game_map${NAME_SUFFIX}.mbtiles \
               --region nrw --palette config/svg_palette.json --out exports/nrw.svg
           fi
 
@@ -132,7 +144,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: report-and-svg-${{ github.event.inputs.region || 'koeln_regbez' }}
+          name: report-and-svg-${{ github.event.inputs.region || 'koeln_regbez' }}${{ github.event.inputs.name_suffix }}
           path: |
             GermanyVectorMap/exports/**
             GermanyVectorMap/output/*.stats.json
@@ -161,7 +173,7 @@ jobs:
         if: ${{ github.event.inputs.upload_tiles != 'false' }}
         uses: actions/upload-artifact@v4
         with:
-          name: tileset-${{ github.event.inputs.region || 'koeln_regbez' }}
+          name: tileset-${{ github.event.inputs.region || 'koeln_regbez' }}${{ github.event.inputs.name_suffix }}
           path: |
             GermanyVectorMap/output/*.mbtiles
             GermanyVectorMap/output/*.pmtiles
