@@ -2,8 +2,10 @@
 # Germany Vector Map — "slim" preset: base map geometry only
 # =============================================================================
 # Identical to layers.yml, except that everything outside the 13 layers below is
-# switched off. Measured on the Germany build, this halves the archive:
-# 1.63 GB -> ~0.81 GB.
+# switched off. Measured on the Germany build:
+#   1.63 GB -> 0.96 GB MBTiles  (-41%), 231,439 -> 223,074 tiles
+# Note the tile count barely moves: the tiles still exist wherever a road or a
+# forest does, they just carry less. That is why this is -41% and not -50%.
 #
 #   roads   road_motorway road_trunk road_primary road_secondary
 #           road_tertiary road_residential

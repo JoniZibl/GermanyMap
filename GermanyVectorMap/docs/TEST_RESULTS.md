@@ -104,6 +104,51 @@ PMTiles** with the shipped configuration — comfortably below the 2.5–5 GB th
 originally assumed. The Rhineland is denser than the German average, so this is a
 conservative estimate rather than an optimistic one.
 
+## Germany with the slim preset — measured
+
+Same input, same zoom range, `config/layers.slim.yml` instead of the default:
+13 base-map layers, the other 19 off.
+Run: [Actions run #6](https://github.com/JoniZibl/GermanyMap/actions/runs/32244152963)
+· 8 min of build time · report: [`reports/germany_game_map-slim.stats.json`](reports/germany_game_map-slim.stats.json).
+
+| | full | slim | Δ |
+|---|---|---|---|
+| `.mbtiles` | 1.63 GB | **0.96 GB** | **−41.0%** |
+| `.mbtiles` + `.pmtiles` | 3.10 GB | 1.78 GB | −42.5% |
+| tiles | 231,439 | 223,074 | −3.6% |
+| layers | 32 | 13 | |
+| reduction vs. PBF | 63.8% | **78.6%** | |
+| share of data at z14 | 77.9% | 59.5% | |
+
+Two things worth reading off this:
+
+**The tile count barely drops.** Removing 19 layers cuts 41% of the bytes but
+only 3.6% of the tiles — a tile still exists wherever any kept layer has data.
+Per-tile overhead is why the saving is −41% and not the −50% that the layer byte
+totals on their own suggest.
+
+**`grass` becomes the dominant layer**, at 33.7% (351 MB, 4.3 million polygons
+of meadow, scrub and heath), ahead of `forest` at 20.2%. Switching it off as
+well would take the build to roughly 0.68 GB.
+
+### Layer distribution, slim
+
+| layer | bytes | share | features |
+|-------|-------|-------|----------|
+| `grass` | 351 MB | 33.7% | 4,337,341 |
+| `forest` | 211 MB | 20.2% | 1,450,046 |
+| `road_residential` | 165 MB | 15.8% | 3,289,580 |
+| `waterway` | 79 MB | 7.6% | 1,422,726 |
+| `water` | 51 MB | 4.9% | 712,290 |
+| `park` | 43 MB | 4.2% | 339,643 |
+| `road_tertiary` | 38 MB | 3.6% | 767,725 |
+| `road_secondary` | 35 MB | 3.4% | 769,512 |
+| `garden` | 29 MB | 2.8% | 726,178 |
+| `road_primary` | 16 MB | 1.5% | 383,475 |
+| `rail` | 13 MB | 1.3% | 260,512 |
+| `road_motorway` | 9 MB | 0.8% | 178,666 |
+| `road_trunk` | 4 MB | 0.4% | 85,114 |
+
 ## Earlier validation
 
 Before the Köln run, the pipeline was validated on the Monaco extract
@@ -208,6 +253,51 @@ The Köln run projected Germany at ~1.2 GB from the PBF-size ratio. The measured
 result is **1.63 GB** — the projection was 25% low, because the Rhineland turned
 out to be *less* dominated by buildings than the national average, not more.
 Close enough to plan with, but the measured number is the one to use.
+
+## Germany with the slim preset — measured
+
+Same input, same zoom range, `config/layers.slim.yml` instead of the default:
+13 base-map layers, the other 19 off.
+Run: [Actions run #6](https://github.com/JoniZibl/GermanyMap/actions/runs/32244152963)
+· 8 min of build time · report: [`reports/germany_game_map-slim.stats.json`](reports/germany_game_map-slim.stats.json).
+
+| | full | slim | Δ |
+|---|---|---|---|
+| `.mbtiles` | 1.63 GB | **0.96 GB** | **−41.0%** |
+| `.mbtiles` + `.pmtiles` | 3.10 GB | 1.78 GB | −42.5% |
+| tiles | 231,439 | 223,074 | −3.6% |
+| layers | 32 | 13 | |
+| reduction vs. PBF | 63.8% | **78.6%** | |
+| share of data at z14 | 77.9% | 59.5% | |
+
+Two things worth reading off this:
+
+**The tile count barely drops.** Removing 19 layers cuts 41% of the bytes but
+only 3.6% of the tiles — a tile still exists wherever any kept layer has data.
+Per-tile overhead is why the saving is −41% and not the −50% that the layer byte
+totals on their own suggest.
+
+**`grass` becomes the dominant layer**, at 33.7% (351 MB, 4.3 million polygons
+of meadow, scrub and heath), ahead of `forest` at 20.2%. Switching it off as
+well would take the build to roughly 0.68 GB.
+
+### Layer distribution, slim
+
+| layer | bytes | share | features |
+|-------|-------|-------|----------|
+| `grass` | 351 MB | 33.7% | 4,337,341 |
+| `forest` | 211 MB | 20.2% | 1,450,046 |
+| `road_residential` | 165 MB | 15.8% | 3,289,580 |
+| `waterway` | 79 MB | 7.6% | 1,422,726 |
+| `water` | 51 MB | 4.9% | 712,290 |
+| `park` | 43 MB | 4.2% | 339,643 |
+| `road_tertiary` | 38 MB | 3.6% | 767,725 |
+| `road_secondary` | 35 MB | 3.4% | 769,512 |
+| `garden` | 29 MB | 2.8% | 726,178 |
+| `road_primary` | 16 MB | 1.5% | 383,475 |
+| `rail` | 13 MB | 1.3% | 260,512 |
+| `road_motorway` | 9 MB | 0.8% | 178,666 |
+| `road_trunk` | 4 MB | 0.4% | 85,114 |
 
 ## Earlier validation
 

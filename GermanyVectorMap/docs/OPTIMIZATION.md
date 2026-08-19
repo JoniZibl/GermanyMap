@@ -22,7 +22,14 @@ labels, no POIs — use the ready-made preset instead of tuning layer by layer:
 
 It keeps 13 layers (`road_motorway` … `road_residential`, `rail`, `water`,
 `waterway`, `forest`, `park`, `garden`, `grass`) and switches off the other 19.
-That is **half the archive**: Germany goes from 1.63 GB to ~0.81 GB.
+Measured on the Germany build: **1.63 GB -> 0.96 GB** (−41%), 78.6% smaller
+than the source PBF. The tile count barely moves (231,439 → 223,074, −3.6%):
+tiles still exist wherever a road or a forest does, they just carry less. That
+is why this is −41% rather than the −50% the layer bytes alone suggest.
+
+After the preset, `grass` becomes the single biggest layer at 33.7% (351 MB of
+4.3 million meadow, scrub and heath polygons). Switching it off too takes
+Germany to roughly **0.68 GB**.
 
 What it costs you: the country/state background area (`land`), the coastline,
 all borders, every place label, buildings, footpaths, service roads, stations
