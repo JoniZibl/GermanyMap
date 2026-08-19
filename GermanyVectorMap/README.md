@@ -272,8 +272,20 @@ too big.
    * zoom 14 alone holds 81% of the data -> lowering `tileset.max_zoom` by 1 ...
 ```
 
-(Real output from the Regierungsbezirk Köln build: 213.5 MB PBF → 62.9 MB
-MBTiles, 70.5% reduction, 5,265 tiles.)
+Measured results:
+
+| | Regierungsbezirk Köln | Germany |
+|---|---|---|
+| source `.osm.pbf` | 213.5 MB | 4.49 GB |
+| `.mbtiles` | 62.9 MB | **1.63 GB** |
+| `.pmtiles` | 59.5 MB | ~1.48 GB |
+| reduction | 70.5% | 63.8% |
+| tiles | 5,265 | 231,439 |
+| layers | 31 of 32 | 32 of 32 |
+| build time (4 cores) | 3 min | 13 min |
+
+All of Germany at z0 is 61 bytes; z0–z11 together is 60 MB. See
+[docs/TEST_RESULTS.md](docs/TEST_RESULTS.md).
 
 Run it again on any archive at any time:
 

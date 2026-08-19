@@ -115,29 +115,113 @@ reduction). That run also confirmed things the Köln run does not surface:
 - `scripts/apply_palette.py` propagates `style/palette.json` into both the
   MapLibre style and the SVG exports
 
-## Still open: the Germany build
+## Germany — measured
 
-The Köln run proves the pipeline. The Germany run needs more machine than a
-standard GitHub runner (4 GB input, tens of GB of scratch space). Two ways to get it:
+Run: [Actions run #3](https://github.com/JoniZibl/GermanyMap/actions/runs/32240142133)
+· **13 min** of build time on the same 4-core runner (15 min total including the
+4.5 GB download). Full report: [`reports/germany_game_map.stats.json`](reports/germany_game_map.stats.json).
 
-```bash
-# on your own machine
-./build_germany_map
+```
+source OSM PBF      : 4.49 GB    (germany-latest.osm.pbf, Geofabrik)
+vector tile archive : 1.63 GB    (germany_game_map.mbtiles)
+                      ~1.48 GB   (germany_game_map.pmtiles)
+reduction vs. PBF   : 63.8%
+tiles               : 231,439
+zoom range          : z0–z14
+layers              : 32 of 32   ← `land` is present, as expected
 ```
 
-or via the same workflow, if you have access to a larger runner — change
-`runs-on: ubuntu-latest` in `.github/workflows/build-map.yml`.
+### Bytes per zoom
 
-The only functional difference at Germany scale is that the `land` layer appears,
-because the complete `admin_level=2` relation is present. Layer set, zoom windows,
-simplification, attributes, output formats, statistics and SVG export are identical.
+| zoom | tiles | bytes |
+|------|-------|-------|
+| z0 | 1 | **61 B** |
+| z1 | 1 | 79 B |
+| z2 | 1 | 179 B |
+| z3 | 1 | 681 B |
+| z4 | 1 | 4.1 KB |
+| z5 | 4 | 32.8 KB |
+| z6 | 6 | 80.8 KB |
+| z7 | 18 | 399.2 KB |
+| z8 | 58 | 1.4 MB |
+| z9 | 216 | 5.3 MB |
+| z10 | 767 | 12.6 MB |
+| z11 | 2,887 | 40.6 MB |
+| z12 | 11,157 | 135.1 MB |
+| z13 | 43,686 | 266.7 MB |
+| **z14** | **172,635** | **1.6 GB** |
+
+All of Germany at z0 is **61 bytes**. z0–z11 together is 60 MB. The zoom-level
+optimization does exactly what it was built to do.
+
+### Largest layers
+
+| layer | bytes | share | features | zooms |
+|-------|-------|-------|----------|-------|
+| `building` | 706.2 MB | 33.7% | 33,765,974 | z14 |
+| `grass` | 351.4 MB | 16.8% | 4,337,341 | z11–z14 |
+| `forest` | 210.7 MB | 10.1% | 1,450,046 | z7–z14 |
+| `path` | 203.6 MB | 9.7% | 7,164,624 | z14 |
+| `road_residential` | 164.6 MB | 7.9% | 3,289,580 | z12–z14 |
+| `waterway` | 79.3 MB | 3.8% | 1,422,726 | z5–z14 |
+| `water` | 51.1 MB | 2.4% | 712,290 | z4–z14 |
+| `road_service` | 48.2 MB | 2.3% | 1,911,873 | z14 |
+| `park` | 43.4 MB | 2.1% | 339,643 | z9–z14 |
+| `road_tertiary` | 37.8 MB | 1.8% | 767,725 | z10–z14 |
+| `road_secondary` | 35.2 MB | 1.7% | 769,512 | z9–z14 |
+| `land` | 31.3 MB | 1.5% | 453,101 | z0–z14 |
+
+33.7 million buildings and 7.2 million path segments — and the whole thing still
+fits in 1.63 GB.
+
+### SVG exports from the Germany tileset
+
+| file | region | zoom | layers | features | size |
+|------|--------|------|--------|----------|------|
+| `germany_overview.svg` | Deutschland | z6 | 8 | 7,621 | 506 KB |
+| `nrw.svg` | Nordrhein-Westfalen | z10 | 15 | 81,379 | 12.0 MB |
+| `koeln_test.svg` | Köln | z13 | 28 | 27,792 | 3.6 MB |
+| `leverkusen_test.svg` | Leverkusen | z14 | 31 | 81,451 | 8.0 MB |
+| `koeln_layers/` | Köln, one file per layer | z13 | 28 files | 27,792 | 3.7 MB |
+
+All committed in [`../exports/`](../exports/). `nrw.svg` at 12 MB is heavy for
+Figma — re-export it with `--exclude-layers building,path` if it drags.
+
+The Köln cut from the Germany tileset has 28 layers where the same cut from the
+Köln-only tileset had 27: `land` is present now.
+
+### How the estimate did
+
+The Köln run projected Germany at ~1.2 GB from the PBF-size ratio. The measured
+result is **1.63 GB** — the projection was 25% low, because the Rhineland turned
+out to be *less* dominated by buildings than the national average, not more.
+Close enough to plan with, but the measured number is the one to use.
+
+## Earlier validation
+
+Before the Köln run the pipeline was validated on the Monaco extract
+(`monaco-latest.osm.pbf`, 435 KB → 112 KB MBTiles, 25 of 32 layers, 74.2%
+reduction). That run confirmed things the country builds do not surface:
+
+- the SVG output rendered to PNG shows the real Monaco coastline, the Monte
+  Carlo street network and correct POI names — projection, clipping and paint
+  order are right
+- `road_layer_mode: single` collapses the road layers into one `road` layer with
+  `class` preserved
+- `scripts/apply_palette.py` propagates `style/palette.json` into both the
+  MapLibre style and the SVG exports
 
 ## Reproducing any of this
 
-Actions tab → **Build vector map** → *Run workflow* → pick a region. Or:
+Actions tab → **Build vector map** → *Run workflow* → pick a region. The runner
+downloads the extract, builds, measures and commits the SVGs back to
+[`../exports/`](../exports/).
+
+Locally:
 
 ```bash
 cd GermanyVectorMap
 ./scripts/setup.sh
-./build_test_region
+./build_test_region      # Regierungsbezirk Köln, ~3 min
+./build_germany_map      # all of Germany, ~13 min plus the download
 ```

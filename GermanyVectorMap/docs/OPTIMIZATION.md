@@ -167,24 +167,35 @@ storage with no server.
 
 ## What a good result looks like
 
-Measured on the Regierungsbezirk Köln test region (see [TEST_RESULTS.md](TEST_RESULTS.md)):
+Both figures below are measured, not projected — see [TEST_RESULTS.md](TEST_RESULTS.md).
 
-| | |
-|---|---|
-| source `koeln-regbez-latest.osm.pbf` | 213.5 MB |
-| `koeln_regbez_game_map.mbtiles` | 62.9 MB |
-| `koeln_regbez_game_map.pmtiles` | 59.5 MB |
-| reduction vs. PBF | 70.5% |
-| tiles | 5,265 |
+| | Regierungsbezirk Köln | **Germany** |
+|---|---|---|
+| source `.osm.pbf` | 213.5 MB | **4.49 GB** |
+| `.mbtiles` | 62.9 MB | **1.63 GB** |
+| `.pmtiles` | 59.5 MB | **~1.48 GB** |
+| reduction vs. PBF | 70.5% | **63.8%** |
+| tiles | 5,265 | **231,439** |
+| layers | 31 of 32 | **32 of 32** |
+| build time (4 cores) | 3 min | **13 min** |
 
-The archive lands at **~30% of the source PBF size**. Applied to
-`germany-latest.osm.pbf` (~4 GB) that projects to roughly **1.2 GB MBTiles /
-1.1 GB PMTiles** for the whole country at z0–z14, with the shipped configuration.
+The archive lands at ~30–36% of the source PBF size. Germany at z0–z14 is
+**1.63 GB** — a whole country, offline, on a phone if you want it there.
 
-The build prints the exact numbers, and the Rhineland is denser than the German
-average, so treat that as an upper-ish bound rather than a floor.
+Where the bytes sit, for Germany:
 
-If you want it smaller still, the measured distribution says exactly where to
-push: `building` at 42% and `grass` at 14% are three quarters of every megabyte
-you would save. Turning `grass` off and moving `building` to z15 roughly halves
-the archive with very little visible loss on a game/adventure map.
+| layer | share | features |
+|-------|-------|----------|
+| `building` | 33.7% | 33,765,974 |
+| `grass` | 16.8% | 4,337,341 |
+| `forest` | 10.1% | 1,450,046 |
+| `path` | 9.7% | 7,164,624 |
+| `road_residential` | 7.9% | 3,289,580 |
+
+z14 alone holds 1.6 GB of the 1.63 GB. Everything from z0 to z11 together is
+60 MB — the entire country overview costs less than a photo.
+
+**To halve it**, the measured distribution says exactly where to push:
+`grass: {enabled: false}` (−16.8%) plus `building: {min_zoom: 15}` (−33.7% at
+z14) takes Germany to roughly 800 MB with very little visible loss on a
+game/adventure map. Dropping `path` as well gets it under 700 MB.

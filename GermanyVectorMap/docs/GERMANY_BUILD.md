@@ -39,12 +39,20 @@ it came from. Mirrors: <https://download.openstreetmap.fr/extracts/europe/>,
 
 ### 2. Check the machine
 
+Measured on a 4-core / 16 GB GitHub runner (the Köln and Germany columns are
+real numbers from [TEST_RESULTS.md](TEST_RESULTS.md), NRW is interpolated):
+
 | | Test region (Köln) | NRW | Germany |
 |---|---|---|---|
-| input | ~250 MB | ~800 MB | ~4 GB |
-| RAM | 4 GB | 6 GB | **10-16 GB** |
-| scratch disk | ~2 GB | ~8 GB | **~40 GB** |
-| runtime (4 cores) | 2-5 min | 10-20 min | **45-120 min** |
+| input | 213 MB | ~800 MB | 4.49 GB |
+| output `.mbtiles` | 62.9 MB | ~400 MB | 1.63 GB |
+| RAM | 4 GB | 6 GB | **8-16 GB** |
+| scratch disk | ~2 GB | ~8 GB | **~25 GB** |
+| build time (4 cores) | **3 min** | ~6 min | **13 min** |
+| + download | 15 s | ~40 s | ~2 min |
+
+Germany is far quicker than it sounds — 13 minutes of actual work on four cores.
+More cores scale it down close to linearly.
 
 ```bash
 JAVA_XMX=12g ./build_germany_map                 # more heap
@@ -52,6 +60,7 @@ TMPDIR_OVERRIDE=/mnt/big/tmp ./build_germany_map # scratch on another disk
 ```
 
 `build_germany_map` warns before starting if the volume has less than 40 GB free.
+That threshold is deliberately conservative; the measured run used about 25 GB.
 
 With less than ~10 GB of RAM, hand Planetiler a disk-backed node map:
 

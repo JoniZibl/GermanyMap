@@ -6,8 +6,8 @@
 #   JAVA_XMX=12g ./build_germany_map          # give the JVM more heap
 #   ./build_germany_map -- --maxzoom=15       # more detail, much bigger output
 #
-# Expect roughly 45-120 minutes and 30-60 GB of temporary disk on a normal
-# laptop. See docs/GERMANY_BUILD.md for the hardware notes.
+# Measured: ~13 min of build time on 4 cores and ~25 GB of scratch space, plus
+# the ~4.5 GB download. See docs/GERMANY_BUILD.md for the hardware notes.
 set -euo pipefail
 cd "$(dirname "$0")"
 source scripts/lib.sh
