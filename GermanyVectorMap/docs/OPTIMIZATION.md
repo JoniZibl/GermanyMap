@@ -167,17 +167,24 @@ storage with no server.
 
 ## What a good result looks like
 
-For a Germany build at z0–z14 with the shipped configuration, expect roughly:
+Measured on the Regierungsbezirk Köln test region (see [TEST_RESULTS.md](TEST_RESULTS.md)):
 
 | | |
 |---|---|
-| source `germany-latest.osm.pbf` | ~4 GB |
-| `germany_game_map.mbtiles` | ~2.5–5 GB |
-| `germany_game_map.pmtiles` | ~2–4 GB |
-| reduction vs. PBF | ~30–50% |
-| tiles | ~5–8 million |
+| source `koeln-regbez-latest.osm.pbf` | 213.5 MB |
+| `koeln_regbez_game_map.mbtiles` | 62.9 MB |
+| `koeln_regbez_game_map.pmtiles` | 59.5 MB |
+| reduction vs. PBF | 70.5% |
+| tiles | 5,265 |
 
-The figures depend on the OSM snapshot; the build prints the exact numbers.
-If you land far above that, the report will tell you which layer is responsible.
-To halve it, apply levers 1 and 2 — that reliably gets a Germany build well under
-2 GB with very little visible loss on a game/adventure style map.
+The archive lands at **~30% of the source PBF size**. Applied to
+`germany-latest.osm.pbf` (~4 GB) that projects to roughly **1.2 GB MBTiles /
+1.1 GB PMTiles** for the whole country at z0–z14, with the shipped configuration.
+
+The build prints the exact numbers, and the Rhineland is denser than the German
+average, so treat that as an upper-ish bound rather than a floor.
+
+If you want it smaller still, the measured distribution says exactly where to
+push: `building` at 42% and `grass` at 14% are three quarters of every megabyte
+you would save. Turning `grass` off and moving `building` to z15 roughly halves
+the archive with very little visible loss on a game/adventure map.

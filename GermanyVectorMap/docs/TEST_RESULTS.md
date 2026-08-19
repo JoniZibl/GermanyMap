@@ -1,137 +1,143 @@
-# Test results and validation status
+# Test results
 
-## Summary
+## Status
 
-The pipeline is complete and was validated end to end against **real
-OpenStreetMap data**. It was **not** yet run against Köln/NRW/Germany, because
-the environment it was built in cannot reach the Geofabrik download servers.
-Details and the exact commands to finish that step are below.
+The pipeline is complete and has been run end to end on **real OpenStreetMap
+data for the Regierungsbezirk Köln test region**, on a GitHub Actions runner.
+All numbers below are measured, not estimated.
+
+Run: [Actions run #2](https://github.com/JoniZibl/GermanyMap/actions/runs/32239403157)
+· workflow [`.github/workflows/build-map.yml`](../../.github/workflows/build-map.yml)
+· total job time **3 min 22 s** on a 4-core runner.
 
 ---
 
-## What was validated
-
-The full chain was executed on a real OSM extract (Monaco, 435 KB, the
-`monaco-latest.osm.pbf` used as Planetiler's own test fixture):
+## Regierungsbezirk Köln — measured
 
 ```
-input .osm.pbf → profile compile → Planetiler → MBTiles → PMTiles → statistics
-                                                        ↘ layered SVG → rendered check
-```
-
-| Step | Result |
-|------|--------|
-| `scripts/build_profile.sh` | compiles cleanly against Planetiler 0.10.2, Java 21 |
-| `scripts/build_map.sh` | all 8 steps run, no errors |
-| MBTiles written | 112 KB, 15 tiles, z0–z14, 25 layers present |
-| PMTiles written | 84.7 KB (−24.4% vs. MBTiles) |
-| `scripts/tile_stats.py` | full report incl. per-layer bytes and suggestions |
-| `scripts/export_svg.py` | valid SVG, one `<g>` per layer, correct paint order |
-| SVG rendered to PNG | geometry verified visually — real coastline, real street network, correct POI names |
-| `road_layer_mode: single` | verified: all roads collapse into one `road` layer, `class` preserved |
-| `scripts/apply_palette.py` | palette propagates to both the MapLibre style and the SVG export |
-
-### Measured numbers (Monaco)
-
-```
-source OSM PBF      : 434.9 KB
-vector tile archive : 112.0 KB   (monaco.mbtiles)
-                      84.7 KB    (monaco.pmtiles)
-reduction vs. PBF   : 74.2%
-tiles               : 15
+source OSM PBF      : 213.5 MB   (koeln-regbez-latest.osm.pbf, Geofabrik)
+vector tile archive :  62.9 MB   (koeln_regbez_game_map.mbtiles)
+                       59.5 MB   (koeln_regbez_game_map.pmtiles)
+reduction vs. PBF   : 70.5%
+tiles               : 5,265
 zoom range          : z0–z14
-layers              : 25
-
-largest layers        bytes   share   features   zooms
-  building          32.2 KB   25.4%      1,229   z14–z14
-  path              24.6 KB   19.3%      1,108   z14–z14
-  road_primary      18.8 KB   14.8%        487   z8–z14
-  road_residential  14.3 KB   11.3%        300   z12–z14
-  road_service       5.5 KB    4.3%        230   z14–z14
+layers              : 31 of 32
+bounds              : 5.52125, 50.22643, 7.79441, 51.253
 ```
 
-25 of the 30 layers appear. The five that do not (`land`, `road_motorway`,
-`road_trunk`, `place_town`, `poi_ruin`) simply have no matching features in
-Monaco — there is no motorway in Monaco, and the `admin_level=2` relation is cut
-off by the extract boundary. Both are expected; see below.
+Only `land` is missing, and necessarily so: a sub-region extract is cut out of
+Germany, so the `admin_level=2` relation that forms the country area has lost
+most of its member ways. It appears in the Germany build.
 
-### What the layer/attribute check confirmed
+### Bytes per zoom
 
+| zoom | tiles | bytes |
+|------|-------|-------|
+| z3 | 1 | 85 B |
+| z4 | 1 | 269 B |
+| z5 | 1 | 988 B |
+| z6 | 1 | 2.4 KB |
+| z7 | 2 | 11.2 KB |
+| z8 | 4 | 45.2 KB |
+| z9 | 12 | 197.8 KB |
+| z10 | 29 | 464.8 KB |
+| z11 | 86 | 1.4 MB |
+| z12 | 289 | 4.8 MB |
+| z13 | 1,025 | 9.1 MB |
+| **z14** | **3,814** | **68.3 MB** |
+
+Exactly the intended shape: the whole-region overview costs kilobytes, the detail
+sits at the deepest zoom. z14 alone holds 81% of the data.
+
+### Largest layers
+
+| layer | bytes | share | features | zooms |
+|-------|-------|-------|----------|-------|
+| `building` | 35.4 MB | 42.0% | 1,636,876 | z14 |
+| `grass` | 11.6 MB | 13.8% | 155,180 | z11–z14 |
+| `forest` | 7.8 MB | 9.2% | 58,386 | z7–z14 |
+| `road_residential` | 6.5 MB | 7.7% | 131,035 | z12–z14 |
+| `path` | 6.3 MB | 7.4% | 228,799 | z14 |
+| `waterway` | 3.6 MB | 4.2% | 67,644 | z5–z14 |
+| `park` | 2.4 MB | 2.8% | 12,700 | z9–z14 |
+| `road_service` | 2.2 MB | 2.6% | 92,101 | z14 |
+| `road_secondary` | 1.4 MB | 1.6% | 31,953 | z9–z14 |
+| `water` | 1.3 MB | 1.5% | 18,402 | z7–z14 |
+| `road_tertiary` | 1.3 MB | 1.5% | 27,950 | z10–z14 |
+| `garden` | 726.9 KB | 0.8% | 19,593 | z13–z14 |
+| `road_primary` | 723.6 KB | 0.8% | 18,402 | z7–z14 |
+| `rail` | 513.6 KB | 0.6% | 10,350 | z8–z14 |
+| `road_motorway` | 445.3 KB | 0.5% | 9,180 | z4–z14 |
+| *(16 more)* | 2.4 MB | 2.8% | | |
+
+One surprise worth knowing about: **`grass` is the second largest layer at 13.8%**
+— meadows, scrub and heath are mapped densely in the Rhineland. It is also the
+most optional layer on a game/adventure map. `grass: {enabled: false}` in
+`config/layers.yml` alone removes ~14% of the archive.
+
+`building` at 42% with 1.6 million features is normal and is the first lever if
+the file needs to shrink.
+
+## SVG exports — measured
+
+All produced in the same run, with the project palette applied.
+
+| file | region | zoom | features | size |
+|------|--------|------|----------|------|
+| `koeln_regbez_overview.svg` | Regierungsbezirk Köln | z11 | 18,239 | 6.1 MB |
+| `koeln_test.svg` | Köln | z13 | 27,190 | 3.5 MB |
+| `leverkusen_test.svg` | Leverkusen | z14 | 73,518 | 7.2 MB |
+| `koeln_layers/` (27 files) | Köln, one per layer | z13 | 27,190 | 3.6 MB total |
+
+The Köln export at z13 (3.5 MB, 27 layers) is the sweet spot for Figma. The
+Leverkusen z14 export includes buildings and footpaths and is noticeably heavier
+— usable, but drop `building,path` if Figma gets sluggish.
+
+## Extrapolation to Germany
+
+The tileset comes out at **29.5% of the source PBF size**. `germany-latest.osm.pbf`
+is roughly 4 GB, which puts the full Germany build at **≈1.2 GB MBTiles / ≈1.1 GB
+PMTiles** with the shipped configuration — comfortably below the 2.5–5 GB that was
+originally assumed. The Rhineland is denser than the German average, so this is a
+conservative estimate rather than an optimistic one.
+
+## Earlier validation
+
+Before the Köln run, the pipeline was validated on the Monaco extract
+(`monaco-latest.osm.pbf`, 435 KB → 112 KB MBTiles, 25 of 32 layers, 74.2%
+reduction). That run also confirmed things the Köln run does not surface:
+
+- the SVG output rendered to PNG shows the real Monaco coastline, the Monte Carlo
+  street network and correct POI names — projection, clipping and paint order are
+  right
+- `road_layer_mode: single` collapses the road layers into one `road` layer with
+  `class` preserved
+- `scripts/apply_palette.py` propagates `style/palette.json` into both the
+  MapLibre style and the SVG exports
+
+## Still open: the Germany build
+
+The Köln run proves the pipeline. The Germany run needs more machine than a
+standard GitHub runner (4 GB input, tens of GB of scratch space). Two ways to get it:
+
+```bash
+# on your own machine
+./build_germany_map
 ```
-boundary         z7-14   fields = class, admin_level
-building         z14-14  fields = (none)
-coastline        z8-14   fields = class
-forest           z12-14  fields = class
-park             z11-14  fields = class, name
-place_city       z7-14   fields = class, name, population
-poi_castle       z10-14  fields = class, name
-road_primary     z8-14   fields = class, link, name, structure
-water            z13-14  fields = class, name
-waterway         z12-14  fields = class, structure
-…
-```
 
-Exactly the designed structure: geometry plus `class`, `name` only from its
-configured zoom, `structure` for bridges/tunnels, `population` on places — and no
-color attribute anywhere.
+or via the same workflow, if you have access to a larger runner — change
+`runs-on: ubuntu-latest` in `.github/workflows/build-map.yml`.
 
----
+The only functional difference at Germany scale is that the `land` layer appears,
+because the complete `admin_level=2` relation is present. Layer set, zoom windows,
+simplification, attributes, output formats, statistics and SVG export are identical.
 
-## What was not run, and why
+## Reproducing any of this
 
-`./build_test_region` (Regierungsbezirk Köln) and `./build_germany_map` could not
-be executed here. The build environment's network policy blocks the OSM data
-hosts:
-
-```
-download.geofabrik.de       → 403 (blocked by egress policy)
-planet.openstreetmap.org    → unreachable
-download.openstreetmap.fr   → unreachable
-overpass-api.de             → unreachable
-```
-
-Only `github.com`, `raw.githubusercontent.com`, Maven Central and PyPI are
-reachable, which is why a GitHub-hosted OSM extract was used to validate the
-pipeline instead. No German extract is available from any reachable host.
-
-This is an environment restriction, not a pipeline limitation. Nothing in the
-code, configuration or scripts is specific to the test extract.
-
----
-
-## Finishing the job on your machine
-
-On any machine that can reach `download.geofabrik.de`:
+Actions tab → **Build vector map** → *Run workflow* → pick a region. Or:
 
 ```bash
 cd GermanyVectorMap
-./scripts/setup.sh            # Java/Python check, Planetiler jar, compile profile
-
-./build_test_region           # Regierungsbezirk Köln — ~250 MB in, 2-5 minutes
+./scripts/setup.sh
+./build_test_region
 ```
-
-Check the report it prints, then:
-
-```bash
-./build_germany_map           # ~4 GB in, 45-120 minutes
-```
-
-### What to check on the Köln run
-
-- [ ] all layers except `land` present (`land` needs the full Germany extract)
-- [ ] `building` and `path` are the largest layers — that is normal
-- [ ] most bytes at z13/z14, only kilobytes at z0–z6
-- [ ] `python3 scripts/serve_tiles.py --tiles output/koeln_regbez_game_map.mbtiles`
-      and zoom from z6 to z16 — no gaps, no pop-in, sharp lines
-- [ ] `python3 scripts/export_svg.py --tiles output/koeln_regbez_game_map.mbtiles --region koeln --out exports/koeln_test.svg`
-      and open it in Figma — one named group per layer
-
-### The one difference at Germany scale
-
-The `land` layer appears. A sub-region extract cannot assemble the
-`admin_level=2` relation that forms Germany's area, so the Köln and NRW builds
-have no `land` layer and Planetiler logs `osm_boundary_missing_way`. The full
-Germany extract contains the complete relation, so the country area — and with it
-the coastline as a filled shape — renders from z0.
-
-Everything else is identical between the two builds.

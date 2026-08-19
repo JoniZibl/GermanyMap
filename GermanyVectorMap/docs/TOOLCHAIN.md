@@ -9,7 +9,7 @@ here is the comparison it was checked against.
 2. a whole country, on a normal machine, in a sane amount of time
 3. **per-zoom** geometry simplification — not one simplified copy, a different
    amount of detail at every zoom
-4. aggressive filtering: keep 30 layers, drop everything else
+4. aggressive filtering: keep ~30 curated layers, drop everything else
 5. offline, file-based output (MBTiles / PMTiles) — no server at runtime
 6. no colors in the data
 

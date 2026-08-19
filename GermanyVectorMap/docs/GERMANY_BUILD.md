@@ -76,7 +76,7 @@ PMTiles → statistics.
 The build prints the report. What to look at:
 
 - **archive size** — see the expectations in [OPTIMIZATION.md](OPTIMIZATION.md)
-- **layers** — all 30 should be present (a sub-region build is missing `land`;
+- **layers** — all 32 should be present (a sub-region build is missing `land`;
   the Germany build must have it, because the `admin_level=2` relation is complete)
 - **largest layers** — `building` and `path` on top is normal
 - **tiles per zoom** — most bytes at z13/z14, only kilobytes at z0-z6

@@ -1,6 +1,6 @@
 # Layers
 
-30 layers. Every feature carries a `class` attribute; `name` is written from the
+32 layers. Every feature carries a `class` attribute; `name` is written from the
 zoom configured per layer (`name_min_zoom` in `config/layers.yml`). No colors,
 ever — see [STYLING.md](STYLING.md).
 

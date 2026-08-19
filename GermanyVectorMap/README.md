@@ -89,6 +89,20 @@ is md5-verified against Geofabrik's published checksum.
 
 ## Build commands
 
+### Without installing anything: GitHub Actions
+
+The repository ships [`.github/workflows/build-map.yml`](../.github/workflows/build-map.yml).
+Actions tab → **Build vector map** → *Run workflow* → pick a region. The runner
+downloads the extract, builds the tileset, runs the statistics and produces the
+SVG exports, then offers everything as downloadable artifacts. The measurement
+report also lands in the job summary.
+
+This is how the Köln test region was built and measured — see
+[docs/TEST_RESULTS.md](docs/TEST_RESULTS.md). Germany needs more disk than a
+standard runner offers; build that one locally.
+
+### Locally
+
 **Start with the test region.** It exercises the whole pipeline in a couple of
 minutes and lets you check layers, detail levels, file size and the SVG export
 before committing to a full country build.
@@ -162,7 +176,7 @@ Full table with every feature-level rule: [docs/ZOOM_LEVELS.md](docs/ZOOM_LEVELS
 
 ## Layers
 
-30 layers, grouped and named so a style can address them directly:
+32 layers, grouped and named so a style can address them directly:
 
 ```
 land         boundary      coastline
@@ -249,12 +263,17 @@ too big.
 
 ```
    layer                      bytes   share    features   zooms
-   building                 32.2 KB   25.4%       1,229   z14–z14
-   path                     24.6 KB   19.3%       1,108   z14–z14
+   building                 35.4 MB   42.0%   1,636,876   z14–z14
+   grass                    11.6 MB   13.8%     155,180   z11–z14
+   forest                    7.8 MB    9.2%      58,386   z7–z14
    ...
-   * `building` uses 25.4% of all layer bytes -> raise `layers.building.min_zoom` ...
-   * zoom 14 alone holds 78% of the data -> lowering `tileset.max_zoom` by 1 ...
+   * `building` uses 42.0% of all layer bytes -> raise `layers.building.min_zoom` ...
+   * `grass` uses 13.8% of all layer bytes -> set `grass.enabled: false` ...
+   * zoom 14 alone holds 81% of the data -> lowering `tileset.max_zoom` by 1 ...
 ```
+
+(Real output from the Regierungsbezirk Köln build: 213.5 MB PBF → 62.9 MB
+MBTiles, 70.5% reduction, 5,265 tiles.)
 
 Run it again on any archive at any time:
 

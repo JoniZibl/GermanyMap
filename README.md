@@ -10,7 +10,7 @@ cd GermanyVectorMap
 ./build_germany_map         # all of Germany
 ```
 
-Produces `germany_game_map.mbtiles` + `.pmtiles`, 30 clearly named layers, no
+Produces `germany_game_map.mbtiles` + `.pmtiles`, 32 clearly named layers, no
 colors baked into the data, and layered SVG exports for Figma.
 
 Start with **[GermanyVectorMap/README.md](GermanyVectorMap/README.md)**.
