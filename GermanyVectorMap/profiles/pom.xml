@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Optional. The build does NOT need Maven — scripts/build_profile.sh compiles the
+  profile with plain javac against tools/planetiler.jar, which is faster and has
+  no repository requirements.
+
+  This POM exists so IDEs (IntelliJ, Eclipse, VS Code) resolve the Planetiler API
+  for code completion and inline docs. `mvn package` also works and produces the
+  same classes.
+
+  Note: planetiler-core pulls GeoTools artifacts, which are published on the OSGeo
+  repository rather than Maven Central — hence the extra <repository> below.
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>de.germanyvectormap</groupId>
+  <artifactId>germany-map-profile</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+  <name>Germany Vector Map profile</name>
+
+  <properties>
+    <maven.compiler.release>21</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <planetiler.version>0.10.2</planetiler.version>
+  </properties>
+
+  <repositories>
+    <repository>
+      <id>osgeo</id>
+      <name>OSGeo Release Repository</name>
+      <url>https://repo.osgeo.org/repository/release/</url>
+      <snapshots><enabled>false</enabled></snapshots>
+    </repository>
+  </repositories>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.onthegomap.planetiler</groupId>
+      <artifactId>planetiler-core</artifactId>
+      <version>${planetiler.version}</version>
+      <!-- provided: at runtime the shaded tools/planetiler.jar supplies everything -->
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <finalName>germany-map-profile</finalName>
+  </build>
+</project>

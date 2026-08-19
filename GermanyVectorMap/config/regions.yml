@@ -1,0 +1,43 @@
+# =============================================================================
+# Named regions — used by scripts/fetch_data.sh, build scripts and the SVG export
+# =============================================================================
+# `pbf` is the path under the Geofabrik download tree (https://download.geofabrik.de/)
+# `bbox` is minLon,minLat,maxLon,maxLat in WGS84 and is used for
+#   - limiting a build to a sub-area (--bounds)
+#   - SVG exports (scripts/export_svg.py --region <name>)
+# =============================================================================
+
+regions:
+
+  germany:
+    title: Deutschland
+    pbf: europe/germany-latest.osm.pbf
+    bbox: [5.8663, 47.2701, 15.0419, 55.0993]
+    svg_zoom: 7
+
+  nrw:
+    title: Nordrhein-Westfalen
+    pbf: europe/germany/nordrhein-westfalen-latest.osm.pbf
+    bbox: [5.8663, 50.3230, 9.4617, 52.5314]
+    svg_zoom: 10
+
+  koeln_regbez:
+    title: Regierungsbezirk Köln
+    pbf: europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf
+    bbox: [6.0290, 50.3230, 7.9700, 51.4300]
+    svg_zoom: 11
+
+  koeln:
+    title: Köln
+    parent: koeln_regbez
+    bbox: [6.7725, 50.8300, 7.1620, 51.0850]
+    svg_zoom: 13
+
+  leverkusen:
+    title: Leverkusen
+    parent: koeln_regbez
+    bbox: [6.9370, 51.0130, 7.1120, 51.1080]
+    svg_zoom: 14
+
+  # Add your own — a free bbox also works directly:
+  #   scripts/export_svg.py --bbox 6.90,50.92,7.02,50.98 --zoom 14

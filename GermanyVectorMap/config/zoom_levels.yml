@@ -1,0 +1,144 @@
+# =============================================================================
+# Germany Vector Map — zoom levels & geometry simplification
+# =============================================================================
+# Rule of the whole tileset: the further out you zoom, the less geometry.
+#
+# NOTE ON max_zoom
+# ----------------
+# Tiles are generated up to `tileset.max_zoom` (14 by default). Vector tiles
+# are resolution independent, so a renderer keeps drawing z15/z16/z17 by
+# *overzooming* z14 tiles — lines and outlines stay perfectly sharp, there is
+# simply no additional OSM detail beyond z14. That is the standard trade-off
+# and it is what keeps the Germany build in the low-GB range.
+# Raise it to 15 if you really need more building/footpath detail; expect the
+# output to grow roughly 2.5-3x. See docs/OPTIMIZATION.md.
+# =============================================================================
+
+version: 1
+
+tileset:
+  min_zoom: 0
+  max_zoom: 14
+  render_max_zoom: 14       # highest zoom Planetiler renders geometry for
+  tile_compression: gzip
+  exclude_feature_ids: true # feature ids are not needed -> smaller tiles
+
+# Global Douglas-Peucker-style simplification, in tile pixels.
+# Bigger value = fewer points = smaller tiles = coarser shapes.
+simplification:
+  method: RETAIN_IMPORTANT_POINTS   # RETAIN_IMPORTANT_POINTS | DOUGLAS_PEUCKER |
+                                    # VISVALINGAM_WHYATT | RETAIN_EFFECTIVE_AREAS
+  tolerance: 0.375                  # applied at every zoom except the max zoom
+  tolerance_at_max_zoom: 0.0625     # near-full detail at the deepest zoom
+  min_feature_size: 1.0             # global drop threshold (px)
+  min_feature_size_at_max_zoom: 0.5
+
+  # Optional per-zoom-band overrides. Coarser shapes far out, finer up close.
+  # Each entry applies to zooms <= `max_zoom` of that band (first match wins).
+  bands:
+    - { max_zoom: 5,  tolerance: 1.0 }
+    - { max_zoom: 8,  tolerance: 0.625 }
+    - { max_zoom: 11, tolerance: 0.4375 }
+    - { max_zoom: 13, tolerance: 0.3125 }
+
+# -----------------------------------------------------------------------------
+# Per-layer zoom windows.
+#   min_zoom : first zoom at which the layer appears
+#   max_zoom : last zoom (defaults to tileset.max_zoom)
+# -----------------------------------------------------------------------------
+layers:
+
+  # z0-5  : Deutschlandumriss, große Städte, Autobahnen, größte Flüsse/Seen
+  land:            { min_zoom: 0 }
+  boundary:        { min_zoom: 0 }
+  coastline:       { min_zoom: 0 }
+  water:           { min_zoom: 4 }
+  waterway:        { min_zoom: 5 }
+  road_motorway:   { min_zoom: 4 }
+  place_city:      { min_zoom: 3 }
+
+  # z6-8  : Hauptstraßen, mittlere Städte, größere Wälder/Parks, mehr Flüsse
+  road_trunk:      { min_zoom: 6 }
+  road_primary:    { min_zoom: 7 }
+  forest:          { min_zoom: 7 }
+  place_town:      { min_zoom: 7 }
+  rail:            { min_zoom: 8 }
+
+  # z9-11 : Secondary/Tertiary, kleinere Orte, Parks, Seen, größere Wege
+  road_secondary:  { min_zoom: 9 }
+  park:            { min_zoom: 9 }
+  road_tertiary:   { min_zoom: 10 }
+  place_village:   { min_zoom: 11 }
+  grass:           { min_zoom: 11 }
+
+  # z12-14: Residential, kleinere Gewässer, wichtige POIs, dann Gebäude/Wege
+  road_residential: { min_zoom: 12 }
+  place_suburb:     { min_zoom: 12 }
+  transport:        { min_zoom: 11 }
+  garden:           { min_zoom: 13 }
+  building:         { min_zoom: 14 }
+  road_service:     { min_zoom: 14 }
+  path:             { min_zoom: 14 }
+
+# -----------------------------------------------------------------------------
+# Feature-level zoom rules inside a layer (finer than the layer min_zoom above).
+# -----------------------------------------------------------------------------
+features:
+
+  boundary:
+    country:  0
+    state:    4
+    county:   8
+
+  waterway:
+    river:    5
+    canal:    10
+    stream:   12
+    ditch:    14
+
+  rail:
+    main:     8        # usage=main / branch
+    other:    11
+    service:  13       # sidings, yards (only if enabled in layers.yml)
+
+  path:
+    pedestrian: 13
+    track:      13
+    cycleway:   14
+    footway:    14
+    steps:      15
+    bridleway:  14
+
+  # place_* min zoom by population; first threshold that matches wins
+  place_city:
+    - { min_population: 1000000, zoom: 3 }
+    - { min_population: 500000,  zoom: 4 }
+    - { min_population: 200000,  zoom: 5 }
+    - { min_population: 100000,  zoom: 6 }
+    - { min_population: 0,       zoom: 7 }
+  place_town:
+    - { min_population: 50000,   zoom: 7 }
+    - { min_population: 20000,   zoom: 8 }
+    - { min_population: 0,       zoom: 9 }
+  place_village:
+    - { min_population: 5000,    zoom: 11 }
+    - { min_population: 0,       zoom: 12 }
+  place_hamlet:
+    - { min_population: 0,       zoom: 13 }
+  place_suburb:
+    - { min_population: 0,       zoom: 12 }
+
+  transport:
+    airport:  9
+    station:  11
+    halt:     13
+
+  poi:
+    poi_castle:    10
+    poi_church:    13
+    poi_ruin:      12
+    poi_monument:  13
+    poi_viewpoint: 13
+    poi_museum:    12
+    poi_tower:     12
+    poi_historic:  13

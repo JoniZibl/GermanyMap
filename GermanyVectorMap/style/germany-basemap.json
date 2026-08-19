@@ -1,0 +1,1269 @@
+{
+  "version": 8,
+  "name": "Germany Vector Map",
+  "metadata": {
+    "generated-by": "scripts/apply_palette.py \u2014 edit style/palette.json, not this file",
+    "attribution-required": "\u00a9 OpenStreetMap contributors, ODbL 1.0"
+  },
+  "glyphs": "glyphs/{fontstack}/{range}.pbf",
+  "sources": {
+    "germany": {
+      "type": "vector",
+      "url": "mbtiles://output/germany_game_map.mbtiles",
+      "attribution": "<a href=\"https://www.openstreetmap.org/copyright\">\u00a9 OpenStreetMap contributors</a>"
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#F4F1EA"
+      }
+    },
+    {
+      "id": "land",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "land",
+      "filter": [
+        "==",
+        [
+          "get",
+          "class"
+        ],
+        "country"
+      ],
+      "paint": {
+        "fill-color": "#F7F5EF"
+      }
+    },
+    {
+      "id": "grass",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "grass",
+      "paint": {
+        "fill-color": "#DCE6CB",
+        "fill-opacity": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          0.6,
+          10,
+          1
+        ]
+      }
+    },
+    {
+      "id": "forest",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "forest",
+      "paint": {
+        "fill-color": "#BFD1B0",
+        "fill-opacity": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          0.6,
+          10,
+          1
+        ]
+      }
+    },
+    {
+      "id": "park",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "park",
+      "paint": {
+        "fill-color": "#CFE0BE",
+        "fill-opacity": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          0.6,
+          10,
+          1
+        ]
+      }
+    },
+    {
+      "id": "garden",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "garden",
+      "paint": {
+        "fill-color": "#D8E6C7",
+        "fill-opacity": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          0.6,
+          10,
+          1
+        ]
+      }
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "water",
+      "paint": {
+        "fill-color": "#A8C8DC"
+      }
+    },
+    {
+      "id": "waterway",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "waterway",
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#A8C8DC",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          5,
+          0.4,
+          10,
+          1,
+          14,
+          3,
+          17,
+          8
+        ]
+      }
+    },
+    {
+      "id": "coastline",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "coastline",
+      "paint": {
+        "line-color": "#7FA6BC",
+        "line-width": 0.8
+      }
+    },
+    {
+      "id": "building",
+      "type": "fill",
+      "source": "germany",
+      "source-layer": "building",
+      "minzoom": 14,
+      "paint": {
+        "fill-color": "#E4DCCD",
+        "fill-outline-color": "#D6CCBA"
+      }
+    },
+    {
+      "id": "road_primary_casing",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_primary",
+      "minzoom": 8,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#DCD5C6",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          7,
+          2.0,
+          11,
+          3.0,
+          14,
+          5.4,
+          16,
+          11.4,
+          18,
+          25.4
+        ]
+      }
+    },
+    {
+      "id": "road_trunk_casing",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_trunk",
+      "minzoom": 8,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#DCD5C6",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          2.0999999999999996,
+          11,
+          3.4,
+          14,
+          6.4,
+          16,
+          13.4,
+          18,
+          27.4
+        ]
+      }
+    },
+    {
+      "id": "road_motorway_casing",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_motorway",
+      "minzoom": 8,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#DCD5C6",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          4,
+          2.0,
+          8,
+          2.5999999999999996,
+          11,
+          4.0,
+          14,
+          7.4,
+          16,
+          15.4,
+          18,
+          31.4
+        ]
+      }
+    },
+    {
+      "id": "rail",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "rail",
+      "layout": {
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#BDB5A6",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          8,
+          0.4,
+          13,
+          1,
+          16,
+          2.5
+        ],
+        "line-dasharray": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "id": "path",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "path",
+      "minzoom": 14,
+      "layout": {
+        "line-cap": "round"
+      },
+      "paint": {
+        "line-color": "#C9BFA9",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          14,
+          0.5,
+          17,
+          2
+        ],
+        "line-dasharray": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "id": "road_service",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_service",
+      "minzoom": 14,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#E8E4DC",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          14,
+          0.5,
+          16,
+          2,
+          18,
+          6
+        ]
+      }
+    },
+    {
+      "id": "road_residential",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_residential",
+      "minzoom": 12,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#EDEAE3",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          0.4,
+          14,
+          1.2,
+          16,
+          4,
+          18,
+          12
+        ]
+      }
+    },
+    {
+      "id": "road_tertiary",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_tertiary",
+      "minzoom": 10,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#FDFDFC",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          10,
+          0.5,
+          13,
+          1.5,
+          16,
+          6,
+          18,
+          16
+        ]
+      }
+    },
+    {
+      "id": "road_secondary",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_secondary",
+      "minzoom": 9,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#FFFFFF",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          9,
+          0.6,
+          13,
+          2,
+          16,
+          8,
+          18,
+          20
+        ]
+      }
+    },
+    {
+      "id": "road_primary",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_primary",
+      "minzoom": 7,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#FFFFFF",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          7,
+          0.6,
+          11,
+          1.6,
+          14,
+          4,
+          16,
+          10,
+          18,
+          24
+        ]
+      }
+    },
+    {
+      "id": "road_trunk",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_trunk",
+      "minzoom": 6,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#F7E9C6",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          6,
+          0.7,
+          11,
+          2,
+          14,
+          5,
+          16,
+          12,
+          18,
+          26
+        ]
+      }
+    },
+    {
+      "id": "road_motorway",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "road_motorway",
+      "minzoom": 4,
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round"
+      },
+      "paint": {
+        "line-color": "#F6E3B4",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          4,
+          0.6,
+          8,
+          1.2,
+          11,
+          2.6,
+          14,
+          6,
+          16,
+          14,
+          18,
+          30
+        ]
+      }
+    },
+    {
+      "id": "boundary_country",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "boundary",
+      "filter": [
+        "==",
+        [
+          "get",
+          "class"
+        ],
+        "country"
+      ],
+      "paint": {
+        "line-color": "#9A8FA6",
+        "line-dasharray": [
+          4,
+          2
+        ],
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          2,
+          0.6,
+          8,
+          1.2,
+          14,
+          2
+        ]
+      }
+    },
+    {
+      "id": "boundary_state",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "boundary",
+      "filter": [
+        "==",
+        [
+          "get",
+          "class"
+        ],
+        "state"
+      ],
+      "paint": {
+        "line-color": "#B3A9BC",
+        "line-dasharray": [
+          3,
+          2
+        ],
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          2,
+          0.6,
+          8,
+          1.2,
+          14,
+          2
+        ]
+      }
+    },
+    {
+      "id": "boundary_county",
+      "type": "line",
+      "source": "germany",
+      "source-layer": "boundary",
+      "filter": [
+        "==",
+        [
+          "get",
+          "class"
+        ],
+        "county"
+      ],
+      "paint": {
+        "line-color": "#C7BFCD",
+        "line-dasharray": [
+          2,
+          2
+        ],
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          2,
+          0.6,
+          8,
+          1.2,
+          14,
+          2
+        ]
+      }
+    },
+    {
+      "id": "poi_castle_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_castle",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_church_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_church",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_ruin_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_ruin",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_monument_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_monument",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_viewpoint_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_viewpoint",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_museum_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_museum",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_tower_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_tower",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "poi_historic_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "poi_historic",
+      "paint": {
+        "circle-color": "#8A6F4B",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          1.6,
+          15,
+          3.5
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "transport_point",
+      "type": "circle",
+      "source": "germany",
+      "source-layer": "transport",
+      "paint": {
+        "circle-color": "#7A7A8C",
+        "circle-radius": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          9,
+          1.5,
+          15,
+          4
+        ],
+        "circle-stroke-color": "#F7F5EF",
+        "circle-stroke-width": 0.8
+      }
+    },
+    {
+      "id": "place_city_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "place_city",
+      "minzoom": 3,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          3,
+          11,
+          8,
+          15,
+          12,
+          22
+        ],
+        "text-max-width": 8,
+        "text-padding": 4
+      },
+      "paint": {
+        "text-color": "#4A4438",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.4
+      }
+    },
+    {
+      "id": "place_town_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "place_town",
+      "minzoom": 7,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          7,
+          10,
+          12,
+          14
+        ],
+        "text-max-width": 8,
+        "text-padding": 4
+      },
+      "paint": {
+        "text-color": "#4A4438",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.4
+      }
+    },
+    {
+      "id": "place_village_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "place_village",
+      "minzoom": 11,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          11,
+          9,
+          14,
+          12
+        ],
+        "text-max-width": 8,
+        "text-padding": 4
+      },
+      "paint": {
+        "text-color": "#4A4438",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.4
+      }
+    },
+    {
+      "id": "place_suburb_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "place_suburb",
+      "minzoom": 12,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          9,
+          15,
+          12
+        ],
+        "text-max-width": 8,
+        "text-padding": 4
+      },
+      "paint": {
+        "text-color": "#4A4438",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.4
+      }
+    },
+    {
+      "id": "poi_castle_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_castle",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_church_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_church",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_ruin_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_ruin",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_monument_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_monument",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_viewpoint_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_viewpoint",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_museum_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_museum",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_tower_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_tower",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "poi_historic_label",
+      "type": "symbol",
+      "source": "germany",
+      "source-layer": "poi_historic",
+      "minzoom": 13,
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": [
+          "Noto Sans Regular"
+        ],
+        "text-size": 11,
+        "text-offset": [
+          0,
+          1.1
+        ],
+        "text-anchor": "top",
+        "text-optional": true
+      },
+      "paint": {
+        "text-color": "#8A6F4B",
+        "text-halo-color": "#F7F5EF",
+        "text-halo-width": 1.2
+      }
+    }
+  ]
+}

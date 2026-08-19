@@ -1,0 +1,25 @@
+# OSM input extracts — download with scripts/fetch_data.sh, never commit
+input/*.osm.pbf
+input/*.osm.pbf.md5
+input/*.part
+
+# generated tilesets
+output/*.mbtiles
+output/*.pmtiles
+output/*.layerstats.tsv.gz
+output/*.stats.json
+
+# generated SVG exports (regenerate with scripts/export_svg.py)
+exports/**
+!exports/.gitkeep
+
+# downloaded / compiled tooling
+tools/*.jar
+tools/*.part
+
+# Planetiler scratch space
+.tmp/
+data/
+
+__pycache__/
+*.pyc

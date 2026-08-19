@@ -1,0 +1,40 @@
+{
+  "_comment": "The single source of truth for colors. Edit here, then run scripts/apply_palette.py to regenerate style/germany-basemap.json and config/svg_palette.json. Nothing in the vector tiles knows about any of this.",
+
+  "background":        "#F4F1EA",
+  "land":              "#F7F5EF",
+  "land_state":        "#F7F5EF",
+
+  "water":             "#A8C8DC",
+  "waterway":          "#A8C8DC",
+  "coastline":         "#7FA6BC",
+
+  "forest":            "#BFD1B0",
+  "park":              "#CFE0BE",
+  "garden":            "#D8E6C7",
+  "grass":             "#DCE6CB",
+
+  "building":          "#E4DCCD",
+  "building_outline":  "#D6CCBA",
+
+  "road_motorway":     "#F6E3B4",
+  "road_trunk":        "#F7E9C6",
+  "road_primary":      "#FFFFFF",
+  "road_secondary":    "#FFFFFF",
+  "road_tertiary":     "#FDFDFC",
+  "road_residential":  "#EDEAE3",
+  "road_service":      "#E8E4DC",
+  "road_casing":       "#DCD5C6",
+  "path":              "#C9BFA9",
+  "rail":              "#BDB5A6",
+
+  "boundary_country":  "#9A8FA6",
+  "boundary_state":    "#B3A9BC",
+  "boundary_county":   "#C7BFCD",
+
+  "label":             "#4A4438",
+  "label_halo":        "#F7F5EF",
+  "label_water":       "#43718C",
+  "poi":               "#8A6F4B",
+  "transport":         "#7A7A8C"
+}

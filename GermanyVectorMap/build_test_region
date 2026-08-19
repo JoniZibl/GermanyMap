@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Build the test region first — small, fast, and it exercises the whole pipeline.
+#
+#   ./build_test_region                 # Regierungsbezirk Köln (default)
+#   ./build_test_region nrw             # all of Nordrhein-Westfalen
+#   ./build_test_region koeln           # only the city of Köln (cut from the Regbez extract)
+#
+# Any extra arguments are passed straight through to Planetiler, e.g.
+#   ./build_test_region -- --maxzoom=15
+set -euo pipefail
+cd "$(dirname "$0")"
+region="${1:-koeln_regbez}"
+[ $# -gt 0 ] && shift || true
+source scripts/lib.sh
+
+step "Test region: $region"
+rel=$(region_field "$region" pbf) || exit 1
+target="$INPUT_DIR/$(basename "$rel")"
+if [ ! -f "$target" ]; then
+  info "extract not downloaded yet — fetching it"
+  scripts/fetch_data.sh "$region"
+fi
+exec scripts/build_map.sh --region "$region" --name "${region}_game_map" "$@"

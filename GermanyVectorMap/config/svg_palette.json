@@ -1,0 +1,133 @@
+{
+  "land": {
+    "fill": "#F7F5EF",
+    "stroke": "none"
+  },
+  "grass": {
+    "fill": "#DCE6CB",
+    "stroke": "none"
+  },
+  "forest": {
+    "fill": "#BFD1B0",
+    "stroke": "none"
+  },
+  "park": {
+    "fill": "#CFE0BE",
+    "stroke": "none"
+  },
+  "garden": {
+    "fill": "#D8E6C7",
+    "stroke": "none"
+  },
+  "water": {
+    "fill": "#A8C8DC",
+    "stroke": "none"
+  },
+  "waterway": {
+    "fill": "none",
+    "stroke": "#A8C8DC",
+    "stroke-width": "1.2",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "coastline": {
+    "fill": "none",
+    "stroke": "#7FA6BC",
+    "stroke-width": "0.8",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "building": {
+    "fill": "#E4DCCD",
+    "stroke": "#D6CCBA",
+    "stroke-width": "0.2"
+  },
+  "rail": {
+    "fill": "none",
+    "stroke": "#BDB5A6",
+    "stroke-width": "0.8",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round",
+    "stroke-dasharray": "3 2"
+  },
+  "path": {
+    "fill": "none",
+    "stroke": "#C9BFA9",
+    "stroke-width": "0.6",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round",
+    "stroke-dasharray": "2 2"
+  },
+  "road_service": {
+    "fill": "none",
+    "stroke": "#E8E4DC",
+    "stroke-width": "0.8",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_residential": {
+    "fill": "none",
+    "stroke": "#EDEAE3",
+    "stroke-width": "1.0",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_tertiary": {
+    "fill": "none",
+    "stroke": "#FDFDFC",
+    "stroke-width": "1.3",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_secondary": {
+    "fill": "none",
+    "stroke": "#FFFFFF",
+    "stroke-width": "1.6",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_primary": {
+    "fill": "none",
+    "stroke": "#FFFFFF",
+    "stroke-width": "2.0",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_trunk": {
+    "fill": "none",
+    "stroke": "#F7E9C6",
+    "stroke-width": "2.4",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road_motorway": {
+    "fill": "none",
+    "stroke": "#F6E3B4",
+    "stroke-width": "2.8",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "road": {
+    "fill": "none",
+    "stroke": "#EDEAE3",
+    "stroke-width": "1.2",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round"
+  },
+  "boundary": {
+    "fill": "none",
+    "stroke": "#B3A9BC",
+    "stroke-width": "1.0",
+    "stroke-linejoin": "round",
+    "stroke-linecap": "round",
+    "stroke-dasharray": "4 3"
+  },
+  "_point": {
+    "fill": "#8A6F4B",
+    "stroke": "none"
+  },
+  "_label": {
+    "fill": "#4A4438",
+    "stroke": "none"
+  }
+}

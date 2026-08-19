@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+# Build the full Germany map: input -> filter -> simplify -> zoom levels ->
+# vector tiles -> MBTiles + PMTiles -> statistics.
+#
+#   ./build_germany_map
+#   JAVA_XMX=12g ./build_germany_map          # give the JVM more heap
+#   ./build_germany_map -- --maxzoom=15       # more detail, much bigger output
+#
+# Expect roughly 45-120 minutes and 30-60 GB of temporary disk on a normal
+# laptop. See docs/GERMANY_BUILD.md for the hardware notes.
+set -euo pipefail
+cd "$(dirname "$0")"
+source scripts/lib.sh
+
+target="$INPUT_DIR/germany-latest.osm.pbf"
+if [ ! -f "$target" ]; then
+  step "Germany extract missing"
+  info "downloading it now (~4 GB) — this takes a while"
+  scripts/fetch_data.sh germany
+fi
+
+free_gb=$(df -Pk "$ROOT" | awk 'NR==2 {printf "%d", $4/1024/1024}')
+if [ "${free_gb:-0}" -lt 40 ]; then
+  warn "only ${free_gb} GB free on this volume — the Germany build wants ~40 GB of scratch space."
+  warn "Set TMPDIR_OVERRIDE=/path/on/a/bigger/disk to move the temporary files."
+fi
+
+exec scripts/build_map.sh --region germany --name germany_game_map "$@"

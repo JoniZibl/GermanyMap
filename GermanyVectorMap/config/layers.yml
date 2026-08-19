@@ -1,0 +1,286 @@
+# =============================================================================
+# Germany Vector Map — layer configuration
+# =============================================================================
+# This file controls WHICH layers exist and HOW MUCH geometry they keep.
+# It does NOT contain any colors. Styling lives in style/*.json (MapLibre) or
+# in Figma — geometry and styling stay strictly separated.
+#
+# The OSM tag -> layer mapping itself lives in
+#   profiles/src/main/java/de/germanyvectormap/GermanyMapProfile.java
+# and is intentionally typed (fast + testable). Everything you realistically
+# want to tune for size/appearance is here.
+#
+# Per-layer keys (all optional, defaults from `defaults:` below):
+#   enabled                   true/false — false removes the layer completely
+#   min_pixel_size            drop features smaller than this many px (per zoom)
+#   min_pixel_size_at_max_zoom same, but only at the highest tile zoom
+#   buffer_pixels             tile edge buffer
+#   merge_lines               merge connected line strings (per tile, per zoom)
+#   merge_min_length          after merging, drop lines shorter than N px
+#   merge_polygons            union overlapping polygons (per tile, per zoom)
+#   merge_min_area            after merging, drop polygons smaller than N px^2
+#   merge_below_zoom          only merge below this zoom (default: max tile zoom)
+#   name_min_zoom             emit the `name` attribute only from this zoom up
+#   label_grid_max_zoom       thin out points with a grid up to this zoom
+#   label_grid_size           grid cell size in px
+#   label_grid_limit          max points kept per grid cell
+#   classes                   allow-list of `class` values (omit = keep all)
+# =============================================================================
+
+version: 1
+
+defaults:
+  buffer_pixels: 4
+  min_pixel_size: 1.0
+  min_pixel_size_at_max_zoom: 0.5
+  merge_lines: false
+  merge_min_length: 0.5
+  merge_polygons: false
+  merge_min_area: 1.0
+  name_min_zoom: 12
+
+# split  -> road_motorway, road_trunk, road_primary, ... (one layer per class)
+# single -> one `road` layer, class kept as an attribute
+# `split` is the default because it maps 1:1 onto Figma groups.
+# `single` produces slightly smaller tiles — see docs/OPTIMIZATION.md.
+road_layer_mode: split
+
+layers:
+
+  # --- background / administrative -------------------------------------------
+  land:
+    enabled: true
+    # Germany's area, derived from the OSM admin_level=2 boundary relation.
+    # class: country | state
+    include_states: true          # also emit admin_level=4 (Bundesländer) areas
+    min_pixel_size: 1.0
+    buffer_pixels: 8
+
+  boundary:
+    enabled: true
+    # class: country (admin_level 2) | state (4) | county (6)
+    include_counties: true        # Landkreise, only from their min zoom up
+    include_maritime: false       # drop offshore maritime boundary segments
+    merge_lines: true
+    merge_min_length: 0.5
+
+  # --- water ------------------------------------------------------------------
+  water:
+    enabled: true
+    # class: lake | reservoir | river | pond | basin | lagoon | dock | ...
+    min_pixel_size: 2.0
+    min_pixel_size_at_max_zoom: 0.75
+    merge_polygons: true
+    merge_min_area: 1.0
+    name_min_zoom: 11
+
+  waterway:
+    enabled: true
+    # class: river | stream | canal
+    include_stream: true
+    include_ditch_drain: false    # micro-hydrology, off by default
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 12
+
+  coastline:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+
+  # --- nature -----------------------------------------------------------------
+  forest:
+    enabled: true
+    min_pixel_size: 3.0
+    min_pixel_size_at_max_zoom: 1.0
+    merge_polygons: true
+    merge_min_area: 2.0
+    name_min_zoom: 13
+
+  park:
+    enabled: true
+    # class: park | nature_reserve | national_park | recreation_ground | pitch
+    min_pixel_size: 2.0
+    merge_polygons: true
+    merge_min_area: 1.0
+    name_min_zoom: 12
+
+  garden:
+    enabled: true
+    # class: garden | allotments | orchard | vineyard
+    min_pixel_size: 1.5
+    name_min_zoom: 14
+
+  grass:
+    enabled: true
+    # class: meadow | grass | grassland | heath | scrub | village_green
+    min_pixel_size: 3.0
+    merge_polygons: true
+    merge_min_area: 2.0
+
+  # --- roads ------------------------------------------------------------------
+  # (layer names below are used when road_layer_mode = split)
+  road_motorway:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 12
+    ref_min_zoom: 8
+
+  road_trunk:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 12
+    ref_min_zoom: 9
+
+  road_primary:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 12
+
+  road_secondary:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 13
+
+  road_tertiary:
+    enabled: true
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 13
+
+  road_residential:
+    enabled: true
+    # class: residential | unclassified | living_street
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 14
+
+  road_service:
+    enabled: true
+    include_driveways: false      # driveways + parking aisles are pure clutter
+    include_parking_aisles: false
+    merge_lines: true
+    merge_min_length: 1.0
+    name_min_zoom: 15
+
+  path:
+    enabled: true
+    # class: footway | cycleway | track | pedestrian | steps | bridleway
+    classes: [footway, cycleway, track, pedestrian, steps, bridleway]
+    merge_lines: true
+    merge_min_length: 1.0
+    name_min_zoom: 15
+
+  rail:
+    enabled: true
+    # class: rail | light_rail | subway | tram | narrow_gauge | funicular
+    classes: [rail, light_rail, subway, tram, narrow_gauge, funicular]
+    include_service_tracks: false # sidings/yards/spurs
+    merge_lines: true
+    merge_min_length: 0.5
+    name_min_zoom: 13
+
+  # --- buildings --------------------------------------------------------------
+  building:
+    enabled: true
+    keep_class: false             # true = keep a coarse `class` attribute
+    min_pixel_size: 2.0
+    min_pixel_size_at_max_zoom: 1.0
+    merge_polygons: true
+    merge_min_area: 2.0
+
+  # --- places -----------------------------------------------------------------
+  place_city:
+    enabled: true
+    label_grid_max_zoom: 8
+    label_grid_size: 128
+    label_grid_limit: 4
+    name_min_zoom: 0
+
+  place_town:
+    enabled: true
+    label_grid_max_zoom: 10
+    label_grid_size: 128
+    label_grid_limit: 4
+    name_min_zoom: 0
+
+  place_village:
+    enabled: true
+    # class: village | hamlet | isolated_dwelling
+    include_hamlets: true
+    label_grid_max_zoom: 12
+    label_grid_size: 96
+    label_grid_limit: 4
+    name_min_zoom: 0
+
+  place_suburb:
+    enabled: true
+    # class: suburb | quarter | borough | neighbourhood
+    label_grid_max_zoom: 13
+    label_grid_size: 96
+    label_grid_limit: 4
+    name_min_zoom: 0
+
+  # --- transport (optional) ----------------------------------------------------
+  transport:
+    enabled: true
+    # class: station | halt | tram_stop | airport
+    classes: [station, halt, airport]
+    label_grid_max_zoom: 12
+    label_grid_size: 64
+    label_grid_limit: 4
+    name_min_zoom: 0
+
+  # --- POIs (kept strictly separate from the base map layers) ------------------
+  poi_castle:
+    enabled: true
+    # class: castle | palace | fortress | manor | city_gate
+    name_min_zoom: 0
+    label_grid_max_zoom: 12
+    label_grid_size: 64
+    label_grid_limit: 4
+
+  poi_church:
+    enabled: true
+    # class: christian | jewish | muslim | buddhist | ... | place_of_worship
+    require_name: false
+    name_min_zoom: 0
+    label_grid_max_zoom: 13
+    label_grid_size: 64
+    label_grid_limit: 4
+
+  poi_ruin:
+    enabled: true
+    # class: ruins | archaeological_site
+    name_min_zoom: 0
+
+  poi_monument:
+    enabled: true
+    # class: monument | memorial | obelisk
+    name_min_zoom: 0
+    label_grid_max_zoom: 13
+    label_grid_size: 64
+    label_grid_limit: 3
+
+  poi_viewpoint:
+    enabled: true
+    name_min_zoom: 0
+
+  poi_museum:
+    enabled: true
+    name_min_zoom: 0
+
+  poi_tower:
+    enabled: true
+    # class: observation | bell_tower | watchtower | lighthouse | historic
+    # purely technical towers (communication/lighting/monitoring) are excluded
+    name_min_zoom: 0
+
+  poi_historic:
+    enabled: true
+    # class: manor | monastery | fort | heritage | wayside_shrine | ...
+    name_min_zoom: 0
