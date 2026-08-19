@@ -18,6 +18,8 @@ exports/*.zip
 # downloaded / compiled tooling
 tools/*.jar
 tools/*.part
+tools/node_modules/
+tools/package*.json
 
 # Planetiler scratch space
 .tmp/

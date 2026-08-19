@@ -13,6 +13,7 @@ from __future__ import annotations
 import gzip
 import math
 import sqlite3
+import threading
 import zlib
 from dataclasses import dataclass, field
 from typing import Iterator
@@ -273,9 +274,26 @@ class TileArchive:
 
 
 class MBTiles(TileArchive):
+    """
+    Read-only MBTiles access.
+
+    SQLite connections are bound to the thread that created them, so every thread
+    gets its own read-only connection. Without this a threaded consumer (the
+    preview server) raises "SQLite objects created in a thread can only be used
+    in that same thread" on the first concurrent request.
+    """
+
     def __init__(self, path):
         self.path = str(path)
-        self.db = sqlite3.connect(f"file:{self.path}?mode=ro", uri=True)
+        self._local = threading.local()
+
+    @property
+    def db(self) -> sqlite3.Connection:
+        conn = getattr(self._local, "conn", None)
+        if conn is None:
+            conn = sqlite3.connect(f"file:{self.path}?mode=ro", uri=True)
+            self._local.conn = conn
+        return conn
 
     def metadata(self) -> dict:
         return dict(self.db.execute("SELECT name, value FROM metadata").fetchall())
@@ -300,7 +318,11 @@ class MBTiles(TileArchive):
             yield z, x, (1 << z) - 1 - row, data
 
     def close(self):
-        self.db.close()
+        """Closes this thread's connection; other threads close their own."""
+        conn = getattr(self._local, "conn", None)
+        if conn is not None:
+            conn.close()
+            self._local.conn = None
 
 
 class PMTiles(TileArchive):
@@ -308,15 +330,18 @@ class PMTiles(TileArchive):
         from pmtiles.reader import Reader, MmapSource  # noqa: PLC0415
         self._fh = open(path, "rb")
         self._reader = Reader(MmapSource(self._fh))
+        self._lock = threading.Lock()
 
     def metadata(self) -> dict:
         return self._reader.metadata()
 
     def get_tile(self, z: int, x: int, y: int) -> bytes | None:
-        try:
-            return self._reader.get(z, x, y)
-        except Exception:
-            return None
+        # the reader keeps seek state, so serialize concurrent readers
+        with self._lock:
+            try:
+                return self._reader.get(z, x, y)
+            except Exception:
+                return None
 
     def tile_count(self) -> int:
         return self._reader.header().get("tile_entries_count", 0)

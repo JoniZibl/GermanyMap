@@ -54,16 +54,26 @@ Line widths per zoom live in that table:
 
 ```bash
 python3 scripts/serve_tiles.py --tiles output/germany_game_map.mbtiles
+# or point it straight at the .pmtiles — both formats work
 ```
 
-Serves, with no internet and no CDN:
+Then open **http://localhost:8080/** — that is a real, interactive MapLibre map
+of your build, styled with `style/germany-basemap.json`, with zoom controls, a
+scale bar and a readout of the current zoom (including whether you are
+overzooming past the deepest tile zoom).
 
-- `http://localhost:8080/style.json` — the style with local tile URLs patched in
-- `http://localhost:8080/tiles.json` — TileJSON including the layer list
-- `http://localhost:8080/tiles/{z}/{x}/{y}.pbf` — the tiles
+Also served:
 
-Open the style URL in [Maputnik](https://maplibre.org/maputnik/), QGIS
-(*Layer → Add Layer → Add Vector Tile Layer*), or any MapLibre GL viewer.
+- `/style.json` — the style with local tile URLs patched in
+- `/tiles.json` — TileJSON including the layer list
+- `/tiles/{z}/{x}/{y}.pbf` — the tiles
+
+Open `/style.json` in [Maputnik](https://maplibre.org/maputnik/) or QGIS
+(*Layer → Add Layer → Add Vector Tile Layer*) to edit the style interactively.
+
+`scripts/setup.sh` vendors maplibre-gl into `tools/node_modules`, so the preview
+runs with no network at all. Without that it loads the library from unpkg.com —
+the tiles, the style and the data always stay local either way.
 
 ## Text labels need glyphs
 
@@ -71,9 +81,10 @@ The style references `glyphs/{fontstack}/{range}.pbf` for the `Noto Sans Regular
 font stack. Font glyphs are a rendering asset, not map data, so they are not
 shipped here. Three options:
 
-1. **Drop the text.** Delete the `type: "symbol"` layers from the style. Everything
-   else renders fine — the `circle` layers for places, POIs and stations do not
-   need glyphs.
+1. **Do nothing.** MapLibre falls back to drawing the labels without the glyph
+   atlas, which is what the local preview does — you will see one 404 per font
+   range in the console and readable text on the map. Good enough to review a
+   build, not good enough to ship.
 2. **Local glyphs (offline).** Download a PBF font stack, e.g. from
    [maplibre/demotiles](https://github.com/maplibre/demotiles) or generate one
    with [`fontnik`](https://github.com/mapbox/node-fontnik), and put it in
