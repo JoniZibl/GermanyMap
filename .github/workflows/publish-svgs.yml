@@ -54,11 +54,19 @@ jobs:
           find GermanyVectorMap/exports -name '*.svg' | sort
           du -sh GermanyVectorMap/exports
 
+      - name: Keep the measurement report
+        run: |
+          mkdir -p GermanyVectorMap/docs/reports
+          for f in incoming/output/*.stats.json; do
+            [ -e "$f" ] || continue
+            cp -v "$f" "GermanyVectorMap/docs/reports/$(basename "$f")"
+          done
+
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add GermanyVectorMap/exports
+          git add GermanyVectorMap/exports GermanyVectorMap/docs/reports
           if git diff --cached --quiet; then
             echo "nothing new to commit"
             exit 0
