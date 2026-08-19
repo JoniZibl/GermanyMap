@@ -1,0 +1,341 @@
+{
+  "archive": "/home/runner/work/GermanyMap/GermanyMap/GermanyVectorMap/output/germany_game_map.mbtiles",
+  "archive_bytes": 1745666048,
+  "source_pbf": "/home/runner/work/GermanyMap/GermanyMap/GermanyVectorMap/input/germany-latest.osm.pbf",
+  "source_pbf_bytes": 4821260858,
+  "reduction_percent": 63.79,
+  "tiles": 231439,
+  "min_zoom": 0,
+  "max_zoom": 14,
+  "tiles_per_zoom": {
+    "0": 1,
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 4,
+    "6": 6,
+    "7": 18,
+    "8": 58,
+    "9": 216,
+    "10": 767,
+    "11": 2887,
+    "12": 11157,
+    "13": 43686,
+    "14": 172635
+  },
+  "bytes_per_zoom": {
+    "0": 61,
+    "1": 79,
+    "2": 179,
+    "3": 681,
+    "4": 4180,
+    "5": 33565,
+    "6": 82770,
+    "7": 408798,
+    "8": 1454958,
+    "9": 5531780,
+    "10": 13244563,
+    "11": 42609307,
+    "12": 141668403,
+    "13": 279639470,
+    "14": 1710023256
+  },
+  "layers": {
+    "building": {
+      "bytes": 740501194,
+      "share_percent": 33.74,
+      "features": 33765974,
+      "attr_bytes": 0,
+      "min_zoom": 14,
+      "max_zoom": 14
+    },
+    "grass": {
+      "bytes": 368426852,
+      "share_percent": 16.79,
+      "features": 4337341,
+      "attr_bytes": 5751692,
+      "min_zoom": 11,
+      "max_zoom": 14
+    },
+    "forest": {
+      "bytes": 220939337,
+      "share_percent": 10.07,
+      "features": 1450046,
+      "attr_bytes": 4472372,
+      "min_zoom": 7,
+      "max_zoom": 14
+    },
+    "path": {
+      "bytes": 213477431,
+      "share_percent": 9.73,
+      "features": 7164624,
+      "attr_bytes": 3699218,
+      "min_zoom": 14,
+      "max_zoom": 14
+    },
+    "road_residential": {
+      "bytes": 172566257,
+      "share_percent": 7.86,
+      "features": 3289580,
+      "attr_bytes": 28327036,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "waterway": {
+      "bytes": 83189920,
+      "share_percent": 3.79,
+      "features": 1422726,
+      "attr_bytes": 10073884,
+      "min_zoom": 5,
+      "max_zoom": 14
+    },
+    "water": {
+      "bytes": 53576903,
+      "share_percent": 2.44,
+      "features": 712290,
+      "attr_bytes": 5026250,
+      "min_zoom": 4,
+      "max_zoom": 14
+    },
+    "road_service": {
+      "bytes": 50567088,
+      "share_percent": 2.3,
+      "features": 1911873,
+      "attr_bytes": 1915810,
+      "min_zoom": 14,
+      "max_zoom": 14
+    },
+    "park": {
+      "bytes": 45558099,
+      "share_percent": 2.08,
+      "features": 339643,
+      "attr_bytes": 11041040,
+      "min_zoom": 9,
+      "max_zoom": 14
+    },
+    "road_tertiary": {
+      "bytes": 39586078,
+      "share_percent": 1.8,
+      "features": 767725,
+      "attr_bytes": 6513576,
+      "min_zoom": 10,
+      "max_zoom": 14
+    },
+    "road_secondary": {
+      "bytes": 36859191,
+      "share_percent": 1.68,
+      "features": 769512,
+      "attr_bytes": 5414972,
+      "min_zoom": 9,
+      "max_zoom": 14
+    },
+    "land": {
+      "bytes": 32835428,
+      "share_percent": 1.5,
+      "features": 453101,
+      "attr_bytes": 11774390,
+      "min_zoom": 0,
+      "max_zoom": 14
+    },
+    "garden": {
+      "bytes": 30197916,
+      "share_percent": 1.38,
+      "features": 726178,
+      "attr_bytes": 2201503,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "road_primary": {
+      "bytes": 16480509,
+      "share_percent": 0.75,
+      "features": 383475,
+      "attr_bytes": 2332981,
+      "min_zoom": 7,
+      "max_zoom": 14
+    },
+    "rail": {
+      "bytes": 13971002,
+      "share_percent": 0.64,
+      "features": 260512,
+      "attr_bytes": 1722734,
+      "min_zoom": 8,
+      "max_zoom": 14
+    },
+    "place_village": {
+      "bytes": 13652808,
+      "share_percent": 0.62,
+      "features": 253902,
+      "attr_bytes": 5806083,
+      "min_zoom": 11,
+      "max_zoom": 14
+    },
+    "boundary": {
+      "bytes": 10902259,
+      "share_percent": 0.5,
+      "features": 81344,
+      "attr_bytes": 1439850,
+      "min_zoom": 3,
+      "max_zoom": 14
+    },
+    "poi_church": {
+      "bytes": 9285752,
+      "share_percent": 0.42,
+      "features": 179796,
+      "attr_bytes": 4340268,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "road_motorway": {
+      "bytes": 9070654,
+      "share_percent": 0.41,
+      "features": 178666,
+      "attr_bytes": 808001,
+      "min_zoom": 4,
+      "max_zoom": 14
+    },
+    "poi_monument": {
+      "bytes": 7396622,
+      "share_percent": 0.34,
+      "features": 159487,
+      "attr_bytes": 3343686,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "road_trunk": {
+      "bytes": 3896664,
+      "share_percent": 0.18,
+      "features": 85114,
+      "attr_bytes": 401921,
+      "min_zoom": 6,
+      "max_zoom": 14
+    },
+    "poi_ruin": {
+      "bytes": 3768493,
+      "share_percent": 0.17,
+      "features": 95320,
+      "attr_bytes": 1509602,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "poi_historic": {
+      "bytes": 2907947,
+      "share_percent": 0.13,
+      "features": 81837,
+      "attr_bytes": 973333,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "poi_viewpoint": {
+      "bytes": 2823201,
+      "share_percent": 0.13,
+      "features": 66861,
+      "attr_bytes": 952522,
+      "min_zoom": 13,
+      "max_zoom": 14
+    },
+    "place_suburb": {
+      "bytes": 2352090,
+      "share_percent": 0.11,
+      "features": 42274,
+      "attr_bytes": 1023074,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "poi_tower": {
+      "bytes": 2164399,
+      "share_percent": 0.1,
+      "features": 51463,
+      "attr_bytes": 763166,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "poi_museum": {
+      "bytes": 1970076,
+      "share_percent": 0.09,
+      "features": 30439,
+      "attr_bytes": 999120,
+      "min_zoom": 12,
+      "max_zoom": 14
+    },
+    "poi_castle": {
+      "bytes": 1857461,
+      "share_percent": 0.08,
+      "features": 31921,
+      "attr_bytes": 882974,
+      "min_zoom": 10,
+      "max_zoom": 14
+    },
+    "transport": {
+      "bytes": 1815090,
+      "share_percent": 0.08,
+      "features": 29220,
+      "attr_bytes": 824291,
+      "min_zoom": 11,
+      "max_zoom": 14
+    },
+    "coastline": {
+      "bytes": 1048720,
+      "share_percent": 0.05,
+      "features": 6923,
+      "attr_bytes": 79680,
+      "min_zoom": 2,
+      "max_zoom": 14
+    },
+    "place_town": {
+      "bytes": 999768,
+      "share_percent": 0.05,
+      "features": 14262,
+      "attr_bytes": 447613,
+      "min_zoom": 7,
+      "max_zoom": 14
+    },
+    "place_city": {
+      "bytes": 56841,
+      "share_percent": 0.0,
+      "features": 755,
+      "attr_bytes": 25617,
+      "min_zoom": 3,
+      "max_zoom": 14
+    }
+  },
+  "suggestions": [
+    "`building` uses 33.7% of all layer bytes -> raise `layers.building.min_zoom` in config/zoom_levels.yml (14 -> 15) so buildings only appear at the deepest zoom",
+    "`building` uses 33.7% of all layer bytes -> raise `building.min_pixel_size` in config/layers.yml (2.0 -> 3.0) to drop sheds and garages",
+    "`building` uses 33.7% of all layer bytes -> set `building.enabled: false` if the map never shows individual houses",
+    "`grass` uses 16.8% of all layer bytes -> raise `grass.min_pixel_size` (3.0 -> 6.0)",
+    "`grass` uses 16.8% of all layer bytes -> set `grass.enabled: false` — meadows are the most optional nature layer",
+    "`forest` uses 10.1% of all layer bytes -> raise `forest.min_pixel_size` (3.0 -> 5.0)",
+    "`forest` uses 10.1% of all layer bytes -> raise `forest.merge_min_area` (2.0 -> 4.0)",
+    "`path` uses 9.7% of all layer bytes -> raise `layers.path.min_zoom` (14 -> 15)",
+    "`path` uses 9.7% of all layer bytes -> trim `path.classes` — dropping `footway` usually removes most of the volume",
+    "`path` uses 9.7% of all layer bytes -> raise `path.merge_min_length` (1.0 -> 2.0)",
+    "`road_residential` uses 7.9% of all layer bytes -> raise `layers.road_residential.min_zoom` (12 -> 13)",
+    "`road_residential` uses 7.9% of all layer bytes -> raise `road_residential.name_min_zoom` (14 -> 15) to drop street name labels",
+    "zoom 14 alone holds 78% of the data -> lowering `tileset.max_zoom` by 1 roughly divides the archive by ~3 (renderers keep drawing deeper zooms by overzooming)",
+    "global lever: raise `simplification.tolerance` in config/zoom_levels.yml (0.375 -> 0.5) — fewer points on every line and outline at every zoom"
+  ],
+  "metadata": {
+    "name": "Germany Vector Map",
+    "description": "Slim, multi-zoom vector basemap of Germany built from OpenStreetMap data. Geometry only — colors are applied by the style, not baked into the data.",
+    "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+    "version": "1.0",
+    "type": "baselayer",
+    "format": "pbf",
+    "bounds": "5.86442,47.26543,15.05078,55.14777",
+    "center": "10.4576,51.2066,5",
+    "minzoom": "0",
+    "maxzoom": "14",
+    "license": "Open Database License (ODbL) 1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "planetiler:buildtime": "2026-03-28T14:35:36.815Z",
+    "planetiler:githash": "0e5588c4a6e8c29a270a33afe8df62027d889604",
+    "planetiler:osm:osmosisreplicationseq": "4881",
+    "planetiler:osm:osmosisreplicationtime": "2026-08-18T20:20:57Z",
+    "planetiler:osm:osmosisreplicationurl": "https://download.geofabrik.de/europe/germany-updates",
+    "planetiler:version": "0.10.2",
+    "producer": "GermanyVectorMap (Planetiler)",
+    "source": "OpenStreetMap contributors",
+    "compression": "gzip"
+  }
+}
