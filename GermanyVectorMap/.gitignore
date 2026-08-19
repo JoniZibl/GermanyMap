@@ -9,9 +9,11 @@ output/*.pmtiles
 output/*.layerstats.tsv.gz
 output/*.stats.json
 
-# generated SVG exports (regenerate with scripts/export_svg.py)
-exports/**
-!exports/.gitkeep
+# SVG exports ARE committed — they are the hand-off to Figma and are meant to be
+# browsable (and previewable) straight from the repo. Published by
+# .github/workflows/publish-svgs.yml; regenerate locally with scripts/export_svg.py.
+exports/*.png
+exports/*.zip
 
 # downloaded / compiled tooling
 tools/*.jar
