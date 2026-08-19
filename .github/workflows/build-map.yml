@@ -25,6 +25,11 @@ on:
         description: "Commit the SVG exports into GermanyVectorMap/exports/"
         type: boolean
         default: true
+      layers_config:
+        description: "Layer preset"
+        type: choice
+        default: config/layers.yml
+        options: [config/layers.yml, config/layers.slim.yml]
   push:
     paths:
       - ".github/workflows/build-map.yml"
@@ -42,6 +47,7 @@ jobs:
     env:
       REGION: ${{ github.event.inputs.region || 'koeln_regbez' }}
       MAXZOOM: ${{ github.event.inputs.maxzoom || '14' }}
+      LAYERS_CONFIG: ${{ github.event.inputs.layers_config || 'config/layers.yml' }}
 
     steps:
       - uses: actions/checkout@v4
@@ -79,7 +85,7 @@ jobs:
       - name: Build the map
         run: |
           ./scripts/build_map.sh --region "$REGION" --name "${REGION}_game_map" \
-            -- "--maxzoom=$MAXZOOM" | tee build.log
+            --layers-config "$LAYERS_CONFIG" -- "--maxzoom=$MAXZOOM" | tee build.log
 
       - name: Export SVG sections for Figma
         run: |

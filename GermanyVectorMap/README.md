@@ -109,6 +109,7 @@ before committing to a full country build.
 
 ```bash
 ./build_test_region              # Regierungsbezirk Köln  (downloads the extract if needed)
+./build_test_region koeln_regbez -- --layers-config=config/layers.slim.yml   # slim preset
 ./build_test_region nrw          # all of Nordrhein-Westfalen
 ./build_test_region koeln        # only the city, cut out of the Regbez extract
 ```
@@ -147,6 +148,7 @@ Two YAML files control the output. Neither contains a single color.
 | File | Controls |
 |------|----------|
 | [`config/layers.yml`](config/layers.yml) | which layers exist, minimum feature sizes, merging, name attributes, per-layer flags |
+| [`config/layers.slim.yml`](config/layers.slim.yml) | ready-made preset: base-map geometry only (13 layers), half the size |
 | [`config/zoom_levels.yml`](config/zoom_levels.yml) | tileset zoom range, per-layer zoom windows, feature-level zoom rules, simplification |
 | [`config/regions.yml`](config/regions.yml) | named regions: Geofabrik path + bbox, for builds and SVG exports |
 

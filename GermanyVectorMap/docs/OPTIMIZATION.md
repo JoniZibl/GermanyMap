@@ -10,6 +10,25 @@ python3 scripts/tile_stats.py --tiles output/germany_game_map.mbtiles \
     --input input/germany-latest.osm.pbf --json output/stats.json
 ```
 
+## The quickest lever: the slim preset
+
+If the map is a base-map backdrop — roads, water, nature, no buildings, no
+labels, no POIs — use the ready-made preset instead of tuning layer by layer:
+
+```bash
+./build_test_region  -- --layers-config=config/layers.slim.yml
+./build_germany_map  -- --layers-config=config/layers.slim.yml
+```
+
+It keeps 13 layers (`road_motorway` … `road_residential`, `rail`, `water`,
+`waterway`, `forest`, `park`, `garden`, `grass`) and switches off the other 19.
+That is **half the archive**: Germany goes from 1.63 GB to ~0.81 GB.
+
+What it costs you: the country/state background area (`land`), the coastline,
+all borders, every place label, buildings, footpaths, service roads, stations
+and all POIs. `config/layers.slim.yml` lists them at the top; flip any
+`enabled: false` back to `true` to get one back.
+
 ## Levers, strongest first
 
 ### 1. Lower the deepest zoom — the single biggest lever

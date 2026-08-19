@@ -9,6 +9,7 @@
 source "$(dirname "${BASH_SOURCE[0]}")/lib.sh"
 
 region=""; input=""; name=""; bounds=""; skip_pmtiles=0; skip_stats=0
+layers_cfg=""; zoom_cfg=""
 extra=()
 
 while [ $# -gt 0 ]; do
@@ -17,6 +18,8 @@ while [ $# -gt 0 ]; do
     --input)    input="$2"; shift 2 ;;
     --name)     name="$2"; shift 2 ;;
     --bounds)   bounds="$2"; shift 2 ;;
+    --layers-config) layers_cfg="$2"; shift 2 ;;
+    --zoom-config)   zoom_cfg="$2"; shift 2 ;;
     --no-pmtiles) skip_pmtiles=1; shift ;;
     --no-stats)   skip_stats=1; shift ;;
     --)         shift; extra+=("$@"); break ;;
@@ -57,19 +60,24 @@ step "2/8  Building the profile"
 
 # ------------------------------------ 3.-7. read, filter, simplify, tile ----
 step "3-6/8  Reading OSM data, applying filters, simplifying geometry, building zoom levels"
-info "config  $CONFIG_DIR/layers.yml"
-info "        $CONFIG_DIR/zoom_levels.yml"
+info "config  ${layers_cfg:-$CONFIG_DIR/layers.yml}"
+info "        ${zoom_cfg:-$CONFIG_DIR/zoom_levels.yml}"
 [ -n "$bounds" ] && info "bounds  $bounds"
 
 xmx="${JAVA_XMX:-}"
 java_args=()
 [ -n "$xmx" ] && java_args+=("-Xmx$xmx")
 
+[ -z "$layers_cfg" ] && layers_cfg="$CONFIG_DIR/layers.yml"
+[ -z "$zoom_cfg" ]   && zoom_cfg="$CONFIG_DIR/zoom_levels.yml"
+[ -f "$layers_cfg" ] || die "layer config not found: $layers_cfg"
+[ -f "$zoom_cfg" ]   || die "zoom config not found: $zoom_cfg"
+
 planetiler_args=(
   "--input=$input"
   "--output=$mbtiles"
-  "--layers-config=$CONFIG_DIR/layers.yml"
-  "--zoom-config=$CONFIG_DIR/zoom_levels.yml"
+  "--layers-config=$layers_cfg"
+  "--zoom-config=$zoom_cfg"
   "--tmpdir=${TMPDIR_OVERRIDE:-$ROOT/.tmp}"
   "--force"
   "--output_layerstats"
